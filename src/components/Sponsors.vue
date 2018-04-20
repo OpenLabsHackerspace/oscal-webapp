@@ -5,18 +5,53 @@
         <v-layout row wrap>
           <v-flex xs12>
             <div class="logo">
-              <a href="https://osc.al"><img src="../assets/logo.png"></a>
+              <a href="https://mozilla.org"><img src="../assets/mozilla.png"></a>
+              <p><v-icon>star</v-icon>Gold Sponsor</p>
             </div>
           </v-flex>
-          <v-flex sm12 md6 offset-md3>
-            <div class="infos body-2">
-              <p><v-icon>book</v-icon> Version: {{ version }}</p>
-              <p><v-icon>alarm</v-icon> Timestamp: {{ timestamp }}</p>
-              <p><v-icon>fingerprint</v-icon> Author: <a href="http://lushka.al">Anxhelo Lushka</a></p>
-              <p><v-icon>code</v-icon> Code / Feedback: <a href="https://github.com/OpenLabsHackerspace/oscal-webapp">Github</a></p>
-              <p>This is the official OSCAL 2018 schedule progressive webapp.</p>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="https://opensuse.org"><img src="../assets/opensuse.png"></a>
+              <p><v-icon>star</v-icon>Silver Sponsor</p>
             </div>
           </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="https://libreoffice.org"><img src="../assets/libreoffice.png"></a>
+              <p><v-icon>star</v-icon>Silver Sponsor</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="https://collabora.com"><img src="../assets/collabora.png"></a>
+              <p><v-icon>star</v-icon>Bronze Sponsor</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="https://nextcloud.com"><img src="../assets/nextcloud.png"></a>
+              <p><v-icon>star</v-icon>Bronze Sponsor</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="https://phplist.com"><img src="../assets/phplist.png"></a>
+              <p><v-icon>star</v-icon>Diversity Sponsor</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="http://tirana.al"><img src="../assets/bashkia_tirane.png"></a>
+              <p><v-icon>star</v-icon>Partner</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="http://protik.org"><img src="../assets/protik.png"></a>
+              <p><v-icon>star</v-icon>Partner</p>
+            </div>
+          </v-flex>
+          
         </v-layout>
       </v-card-text>
     </v-card>
