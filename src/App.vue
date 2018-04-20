@@ -4,7 +4,7 @@
     <main-toolbar></main-toolbar>
     <v-content>
       <v-container fluid fill-height>
-        <keep-alive include="all-events,favourite-events,conference-tracks,rooms">
+        <keep-alive include="all-events,favourite-events,conference-tracks,rooms,sponsors,help">
           <router-view></router-view>
         </keep-alive>
       </v-container>

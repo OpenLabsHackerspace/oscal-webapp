@@ -12,6 +12,8 @@ import FavouriteEvents from './components/FavouriteEvents'
 import Rooms from './components/Rooms'
 import RoomEvents from './components/RoomEvents'
 import Settings from './components/Settings'
+import Sponsors from './components/Sponsors'
+import Help from './components/Help'
 
 window.history.scrollRestoration = 'manual'
 
@@ -81,6 +83,16 @@ export default new Router({
       path: '/about',
       name: 'about',
       component: About
+    },
+    {
+      path: '/sponsors',
+      name: 'sponsors',
+      component: Sponsors
+    },
+    {
+      path: '/help',
+      name: 'help',
+      component: Help
     }
   ],
 

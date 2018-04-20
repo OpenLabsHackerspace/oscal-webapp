@@ -8,7 +8,10 @@
       <v-divider></v-divider>
       <menu-item title="Venue Map" icon="map" to="/map"></menu-item>
       <menu-item title="Settings" icon="settings" to="/settings"></menu-item>
+      <v-divider></v-divider>
       <menu-item title="About" icon="info" to="/about"></menu-item>
+      <menu-item title="Sponsors" icon="star" to="/sponsors"></menu-item>
+      <menu-item title="Help" icon="face" to="/help"></menu-item>
     </v-list>
   </v-navigation-drawer>
 </template>
