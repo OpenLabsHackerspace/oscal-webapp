@@ -3,6 +3,12 @@
     <v-card>
       <v-card-text>
         <v-layout row wrap>
+		  <v-flex xs12>
+            <div class="logo">
+              <a href="https://vodafone.al"><img src="../assets/vodafone.png"></a>
+              <p><v-icon>star</v-icon>Platinium Sponsor</p>
+            </div>
+          </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://mozilla.org"><img src="../assets/mozilla.png"></a>
@@ -33,25 +39,6 @@
               <p><v-icon>star</v-icon>Bronze Sponsor</p>
             </div>
           </v-flex>
-          <v-flex xs12>
-            <div class="logo">
-              <a href="https://phplist.com"><img src="../assets/phplist.png"></a>
-              <p><v-icon>star</v-icon>Diversity Sponsor</p>
-            </div>
-          </v-flex>
-          <v-flex xs12>
-            <div class="logo">
-              <a href="http://tirana.al"><img src="../assets/bashkia_tirane.png"></a>
-              <p><v-icon>star</v-icon>Partner</p>
-            </div>
-          </v-flex>
-          <v-flex xs12>
-            <div class="logo">
-              <a href="http://protik.org"><img src="../assets/protik.png"></a>
-              <p><v-icon>star</v-icon>Partner</p>
-            </div>
-          </v-flex>
-          
         </v-layout>
       </v-card-text>
     </v-card>
