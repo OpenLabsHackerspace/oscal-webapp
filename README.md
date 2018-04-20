@@ -2,6 +2,8 @@
 
 [![Build Status](https://api.travis-ci.org/loomchild/sojourner-web.svg)](https://travis-ci.org/loomchild/sojourner-web)
 
+**Location at schedule.xml is found with the room tag meanwhile the category is used with the track tag.**
+
 > Sojourner conference companion PWA
 
 # Requirements
