@@ -8,7 +8,7 @@
         {{ event.track.name }},
         {{ event.room.name }}
       </v-list-tile-sub-title>
-      <v-list-tile-sub-title class="event-subtitle grey--text text--lighten-3">{{ event.subtitle }}</v-list-tile-sub-title>
+      <v-list-tile-sub-title class="event-subtitle grey--text text--lighten-1">{{ event.subtitle }}</v-list-tile-sub-title>
     </v-list-tile-content>
     <v-list-tile-action>
       <favourite :event="event"></favourite>

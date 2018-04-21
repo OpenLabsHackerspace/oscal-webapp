@@ -2,19 +2,15 @@
   <v-layout row wrap>
     <v-card>
       <v-card-text>
-        <v-layout row wrap>
-          <v-flex xs12>
-            <div class="logo">
-              <a href="https://osc.al"><img src="../assets/logo.png"></a>
-            </div>
-          </v-flex>
-          <v-flex sm12 md6 offset-md3>
+        <v-layout row wrap>	
+          <v-flex md10 offset-md1>
             <div class="infos body-2">
-              <p><v-icon>book</v-icon> Version: {{ version }}</p>
-              <p><v-icon>alarm</v-icon> Timestamp: {{ timestamp }}</p>
-              <p><v-icon>fingerprint</v-icon> Author: <a href="http://lushka.al">Anxhelo Lushka</a></p>
-              <p><v-icon>code</v-icon> Code / Feedback: <a href="https://github.com/OpenLabsHackerspace/oscal-webapp">Github</a></p>
-              <p>This is the official OSCAL 2018 schedule progressive webapp.</p>
+              <p>We expect all participants to follow <a href="https://osc.al/coc">this Code of Conduct</a> during the conference and related events. This includes conference-related social events at off-site locations, and in related online communities and social media.</p>
+			<p>Participants asked to stop any unacceptable behaviour are expected to comply immediately. Conference participants violating this Code of Conduct may be expelled from the conference and/or banned from formal participation in future events.</p>
+
+    <p>Contact: <a href="mailto:oscal@openlabs.cc">oscal@openlabs.cc</a><br />
+    Ask any staff member during the conference to help you locate a team member.</p>
+
             </div>
           </v-flex>
         </v-layout>
@@ -32,7 +28,7 @@
   a {
     text-decoration: none;
   }
-
+  
   .logo {
     text-align: center;
   }
@@ -40,6 +36,7 @@
   .infos p {
     margin-bottom: 7px;
   }
+  
 </style>
 
 
