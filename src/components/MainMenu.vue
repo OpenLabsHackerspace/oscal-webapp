@@ -39,5 +39,15 @@ export default {
 </script>
 
 <style>
+.application.theme--light a {
+color: #EA272B; 
+}
+
+.list__tile--active .list__tile__action:first-of-type .icon {
+color: #EA272B;
+}
+.navigation-drawer > .list .list__tile--active .list__tile__title {
+color: #EA272B;
+}
 </style>
 
