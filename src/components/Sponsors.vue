@@ -6,37 +6,37 @@
 		  <v-flex xs12>
             <div class="logo">
               <a href="https://vodafone.al"><img src="../assets/vodafone.png"></a>
-              <p><v-icon>star</v-icon>Platinium Sponsor</p>
+              <p>Platinium Sponsor</p>
             </div>
           </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://mozilla.org"><img src="../assets/mozilla.png"></a>
-              <p><v-icon>star</v-icon>Gold Sponsor</p>
+              <p>Gold Sponsor</p>
             </div>
           </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://opensuse.org"><img src="../assets/opensuse.png"></a>
-              <p><v-icon>star</v-icon>Silver Sponsor</p>
+              <p>Silver Sponsor</p>
             </div>
           </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://libreoffice.org"><img src="../assets/libreoffice.png"></a>
-              <p><v-icon>star</v-icon>Silver Sponsor</p>
+              <p>Silver Sponsor</p>
             </div>
           </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://collabora.com"><img src="../assets/collabora.png"></a>
-              <p><v-icon>star</v-icon>Bronze Sponsor</p>
+              <p>Bronze Sponsor</p>
             </div>
           </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://nextcloud.com"><img src="../assets/nextcloud.png"></a>
-              <p><v-icon>star</v-icon>Bronze Sponsor</p>
+              <p>Bronze Sponsor</p>
             </div>
           </v-flex>
         </v-layout>
