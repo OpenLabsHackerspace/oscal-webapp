@@ -39,6 +39,25 @@
               <p>Bronze Sponsor</p>
             </div>
           </v-flex>
+                    <v-flex xs12>
+            <div class="logo">
+              <a href="https://phplist.com"><img src="../assets/phplist.png"></a>
+              <p>Diversity Sponsor</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="http://tirana.al"><img src="../assets/bashkia_tirane.png"></a>
+              <p>Partner</p>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="http://protik.org"><img src="../assets/protik.png"></a>
+              <p>Partner</p>
+            </div>
+          </v-flex>
+          
         </v-layout>
       </v-card-text>
     </v-card>

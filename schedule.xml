@@ -16,7 +16,7 @@
       <event id="7294">
         <start>09:30</start>
         <duration>00:15</duration>
-        <room>Updates</room>
+        <room>Main Track</room>
         <slug>opening_speech</slug>
         <title>Opening Speech</title>
         <subtitle/>
@@ -30,72 +30,41 @@
         </persons>
       </event>
       <event id="6245">
-        <start>10:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>osi</slug>
-        <title>Consensus as a Service</title>
-        <subtitle>Twenty Years of OSI Stewardship</subtitle>
-        <track>Keynotes</track>
-        <type>keynote</type>
+        <start>09:45</start>
+        <duration>00:15</duration>
+        <room>Pyramid</room>
+        <slug>mayor</slug>
+        <title>A word from the mayor of Tirana, Erion Veliaj</title>
+        <subtitle></subtitle>
+        <track>Main Track</track>
+        <type>opening_speech</type>
         <language/>
-        <abstract>&lt;p&gt;The Open Source label was born in February 1998 as a new way to popularise free software for business adoption. OSI will celebrate its 20th Anniversary on February 3, 2018, during the opening day of FOSDEM 2018. The presentation will summarize the evolution of open source licences and the Open Source Definition (OSD) across two decades, explain why the concept of free open source software has grown in both relevance and popularity and explore trends for the third decade of open source.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Open source software is now ubiquitous, recognized across industries as a fundamental component to infrastructure, as well as a critical factor for driving innovation. Over the past twenty years, the OSI has worked to promote and protect open source software, development, and communities, championing software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement. The “open source” label was created at a strategy session held at the start of February 1998 in Mountain View, California. That same month, now almost twenty years ago, the OSI was founded as a general educational and advocacy organization to raise awareness and adoption for the application of free software in an open development process.
-Some of the largest forces in business today — consumer-facing companies like Google and Facebook, business-facing companies like Salesforce and SUSE, companies outside the tech industry such as BMW, Capital One, and Zalando, even first-gen tech corporations like Microsoft and IBM — all increasingly depend on open source software. Governments too, including the European Union, France, India, the United Kingdom, the United States, and many others have discovered the benefits of open source software and development models. Successful collaborative development of software and infrastructure used by these organizations is enabled by the safe space created when they use their IP in new ways... to ensure an environment for co-creation where the four essential freedoms of software are guaranteed.
-As open source adoption has expanded, we have seen changes in the assumptions surrounding licensing, governance and development of open source projects. We will document that evolution and look ahead to see what trends and pressures face the global free and open source software movement as it expands beyond ICT to wireless, distributed devices and beyond.&lt;/p&gt;</description>
+        <abstract>A word from the mayor of Tirana, Erion Veliaj</abstract>
+        <description></description>
         <persons>
-          <person id="228">Simon Phipps</person>
-          <person id="312">Italo Vignoli</person>
+          <person id="228">Erion Veliaj</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/osi.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/osi.webm">Video recording (WebM/VP9)</link>
-          <link href="https://speakerdeck.com/webmink/the-third-decade-of-open-source">Slides</link>
-          <link href="https://submission.fosdem.org/feedback/6245.php">Submit feedback</link>
         </links>
       </event>
       <event id="6458">
-        <start>11:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>next_generation_internet</slug>
-        <title>Next Generation Internet Initiative</title>
-        <subtitle>An opportunity to fix the internet</subtitle>
-        <track>Keynotes</track>
-        <type>keynote</type>
+        <start>10:00</start>
+        <duration>01:30</duration>
+        <room>Pyramid</room>
+        <slug>surveillance</slug>
+        <title>Government surveillance around the world and what to do about it</title>
+        <subtitle></subtitle>
+        <track>Main Track</track>
+        <type>security</type>
         <language/>
-        <abstract>&lt;p&gt;The new Next Generation Internet initiative could be the first real opportunity to put large scale public funding to work to really fix the internet. With an order of magnitude of hundreds of millions of euro in research, development and engineering effort it can actually be a major step toward reaching the post-Snowden internet we want. NLnet Foundation and Gartner Europe that wrote the strategic vision for the Next Generation Internet initiative will present the work they did in a unique collaboration which sought the expertise of key organisations and communities in the field - like RIPE (the European regional internet registry), GÉANT (research networks), the European assocation of country domain name organisations, ISP associations, the internet exchanges, the open source community (FSFE), the digital civil rights community (EDRi) and Internet Society. So not just the separate communities that operate different 'layers' (or rather slices) of the technology but also what we consider 'ethical guardians' of the internet.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;2018 celebrates the fifth anniversary of the Edward Snowden revelations. Full details about covert mass scale surveillance at internet scale stripped the internet naked of every romantic assumption we held about it. The news sent a transformative shock throughout the global technology community. We were all convinced the internet would soon fix these horrible security shortcomings now that we knew - although naivity was destroyed and the internet would never be the same again.&lt;/p&gt;
-
-&lt;p&gt;The world has fast forwarded itself five years. We must conclude - with some sadness - that the internet was not fixed for us. We are still waiting for major structural change. To the regular end user, a safe and secure 'post-Snowden' internet is far away: in day to day usage they still by and large have to use the same unfixed and insecure internet we had before.&lt;/p&gt;
-
-&lt;p&gt;In fact, things in some areas have gotten worse as other actors besides foreign state agencies have gained immense powers over us. We are now asked by social networks to turn all our nude pictures over to them voluntarily so they may protect us.&lt;/p&gt;
-
-&lt;p&gt;One reason for this sad state of affairs, is that it has take time to follow up the Snowden revelations by adequate political measures. And to be frank, it took a while for public funding organisations in Europe to even understand their crucial role in this. The internet is not going to fix itself. Many of the more promising efforts in this realm have been 'bottom up' efforts from individuals or small teams, but these isolated efforts miss critical mass to actually scale up and change the mainstream internet.&lt;/p&gt;
-
-&lt;p&gt;The new Next Generation Internet initiative could be the first real opportunity to put large scale public funding to work to really fix the internet. With an order of magnitude of hundreds of millions of euro in research, development and engineering effort it can actually potentially change the balance of power. The Europen Commission (where the money for NGI originates) did not try to invent such a strategy by: it invited NLnet Foundation and Gartner Europe to write a strategic vision for the Next Generation Internet and identify what needs to be done to really move the internet forward. NLnet Foundation is an independent public benefit organisation which was set up by pioneers of the European internet in the eighties, and which has been funding key open source initiatives for over two decades. Gartner Europe is an equally independent consulting company that knows what is being decided in board rooms before anyone else.&lt;/p&gt;
-
-&lt;p&gt;In a unique collaboration they sought the expertise of key organisations and communities in the field - like RIPE (the European regional internet registry), GÉANT (research networks), the European assocation of country domain name organisations, ISP associations, the internet exchanges, the open source community (FSFE), the digital civil rights community (EDRi) and Internet Society. So not just the separate communities that operate different 'layers' (or rather slices) of the technology but also what we consider 'ethical guardians' of the internet.&lt;/p&gt;
-
-&lt;p&gt;The NGI initiative has learned from the enormous failures of the past five years. Gone will be the need to create artificial consortia. Gone will be a lot of the bureaucratic paperwork. There is a clear vision. There is a plan. And there is money to fund the right things. Open source is seen as the key mechanism to make it actually happen, and the first calls for funding from the NGI initiative are out. Now what is needed is the developers to seize the opportunity to scale up and more importantly to connect their initiatives.&lt;/p&gt;
-
-&lt;p&gt;Fixing the internet is a 'moonshot plus' effort: the internet is the largest technical structure man has ever made, and the task at hand is to vastly improve its very operating fabric with 3 billion + people using it on a daily basis. This may essential to our daily operations, but it is equally or even more important for upholding our human values and basic human rights in Europe. In addition to new open source technology this will also require a larger political agenda of Europe as an integral part of the approach too - in some cases regulating the most predatory behaviour from bad actors might be necessary to restore health back to the internet.&lt;/p&gt;</description>
+        <abstract>Government surveillance around the world and what to do about it</abstract>
+        <description></description>
         <persons>
-          <person id="4913">Rob van Kranenburg</person>
-          <person id="4953">Michiel Leenaars</person>
-          <person id="5404">Marietje Schaake</person>
-          <person id="5405">Georgios Tselentis</person>
+          <person id="4913">Arjen Kamphuis</person>
+          <person id="4953">Bill Binney</person>
+          <person id="5404">Kirk Weibe</person>
         </persons>
         <links>
-          <link href="https://nlnet.nl/NGI">More background info on NGI initiative</link>
-          <link href="https://ngi.eu">The NGI.eu website</link>
-          <link href="https://ngi.eu/vision">The vision behind NGI</link>
-          <link href="https://fosdem.org/2018/interviews/michiel-leenaars-rob-van-kranenburg/">FOSDEM interview Michiel Leenaars</link>
-          <link href="https://fosdem.org/2018/interviews/michiel-leenaars-rob-van-kranenburg/https://fosdem.org/interviews/rob-van-kranenburg-michiel-leenaars/">FOSDEM interview Rob van Kranenburg</link>
-          <link href="https://2018.fosdem.internetsociety.info">Slides Michiel Leenaars</link>
-          <link href="https://video.fosdem.org/2018/Janson/next_generation_internet.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/next_generation_internet.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6458.php">Submit feedback</link>
         </links>
       </event>
       <event id="6230">
