@@ -2,7 +2,7 @@
   <div class="map-container">
     <img class="map" :src="`../assets/building-${building.name.toLowerCase()}.svg`">
     <v-btn to="/map" fab fixed bottom right color="info" title="Zoom out to campus map">
-      <v-icon light>zoom_out</v-icon>
+      <v-icon color="white">zoom_out</v-icon>
     </v-btn>
   </div>
 </template>
@@ -36,6 +36,10 @@ export default {
     max-width: 100%;
     height: 100%;
     margin: auto;
+  }
+  
+  .btn--active .btn__content {
+  background-color: #EA272B; 
   }
 </style>
 
