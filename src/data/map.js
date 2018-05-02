@@ -7,7 +7,7 @@ export default {
       'H': new Building({name: 'H'}),
       'AW': new Building({name: 'AW'}),
       'U': new Building({name: 'U'}),
-      'K': new Building({name: 'K'}),
+      'Protik': new Building({name: 'Protik'}),
       'P': new Building({name: 'Pyramid'})
     },
 
