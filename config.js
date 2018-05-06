@@ -1,10 +1,10 @@
 'use strict'
 
 module.exports = {
-  version: '1.1.2',
-  timestamp: '21/04/2018 08:00',
+  version: '1.1.5',
+  timestamp: '06/05/2018 23:48',
   scheduleUrl: 'schedule.xml',
   roomStateUrl: 'listrooms.json',
-  roomStatePollInterval: 60,
+  roomStatePollInterval: 20,
   analyticsUrl: ''
 }

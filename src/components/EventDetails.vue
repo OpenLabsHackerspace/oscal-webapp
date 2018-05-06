@@ -9,7 +9,7 @@
         {{ event.persons.join(', ') }},
         {{ event.start }}-{{ event.end }} {{ event.day.name }},
         &nbsp;<span><router-link :to="`/track/${event.track.name}`">{{ event.track.name }}</router-link></span>,
-        &nbsp;<span><router-link :to="`/map/${ event.room.name }`">{{ event.room.name }}</router-link></span>
+        &nbsp;<span><router-link :to="`/map/${event.room.name}`">{{ event.room.name }}</router-link></span>
         &nbsp;<span class="roomstate"><v-icon :color="state.color" :title="state.name">{{ state.icon }}</v-icon></span>,
       </v-card-title>
       <v-card-title v-if="event.subtitle" class="subtitle"><h3>{{ event.subtitle }}</h3></v-card-title>

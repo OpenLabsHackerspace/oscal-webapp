@@ -20,7 +20,7 @@
         <slug>opening_speech</slug>
         <title>Opening Speech</title>
         <subtitle/>
-        <track>Main Track</track>
+        <track>Talk 1</track>
         <type>opening speech</type>
         <language/>
         <abstract>Opening speech of OSCAL 2018</abstract>
@@ -36,7 +36,7 @@
         <slug>mayor</slug>
         <title>A word from the mayor of Tirana, Erion Veliaj</title>
         <subtitle></subtitle>
-        <track>Main Track</track>
+        <track>Talk 1</track>
         <type>opening_speech</type>
         <language/>
         <abstract>A word from the mayor of Tirana, Erion Veliaj</abstract>
@@ -45,1227 +45,744 @@
           <person id="228">Erion Veliaj</person>
         </persons>
         <links>
+          <link href="https://twitter.com/erionveliaj">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/erion-veliajs-speech/">Website Session Link</link>
         </links>
       </event>
       <event id="6458">
         <start>10:00</start>
-        <duration>01:30</duration>
+        <duration>00:30</duration>
         <room>Pyramid</room>
-        <slug>surveillance</slug>
-        <title>Government surveillance around the world and what to do about it</title>
+        <slug>policy_making</slug>
+        <title>The approach to free software and culture at Roma Capitale</title>
         <subtitle></subtitle>
-        <track>Main Track</track>
-        <type>security</type>
+        <track>Talk 1</track>
+        <type></type>
         <language/>
-        <abstract>Government surveillance around the world and what to do about it</abstract>
-        <description></description>
+        <abstract>This article is focused on the actions of Roma Capitale to increase its use of Free and Libre Open Source Software (FLOSS), within the framework of Roma Capitale's Digital Agenda 2017-2021.</abstract>
+        <description>&lt;p&gt;The main objective is to break the vendor lock-in, to guarantee more efficiency, sustainability and independence from suppliers in the performance of its duty. Starting from the political level, in 2016 a Resolution for the use of FLOSS was adopted. In a few words, it was decided to be mandatory for this Administration to choose open source solutions whenever possible, taking into consideration the legal and technical constraints.&lt;/p&gt;
+           &lt;p&gt;Consequently, during the 2017, the Municipality of Rome took well-orchestrated steps to implement its program about the transformation towards FLOSS:&lt;/p&gt;
+           &lt;ol&gt;
+           &lt;li&gt;an assessment about Roma Capitale's main systems and their impacts on internal and external users, was released;&lt;/li&gt;
+           &lt;li&gt;the open and proprietary components were evaluated;&lt;/li&gt;
+           &lt;li&gt;a migration roadmap to FLOSS was established.&lt;/li&gt;
+           &lt;/ol&gt;
+           &lt;br /&gt;
+           &lt;p&gt;At present LibreOffice, Mozilla, Thunderbird, Zimbra have been installed and customized on more than 10000 client workstations and cohabit with proprietary software. A gradual switch off started first by employees that hardly ever use the traditional tools and a community of 100 FLOSS passionate people was constituted.&lt;/p&gt;</description>
         <persons>
-          <person id="4913">Arjen Kamphuis</person>
-          <person id="4953">Bill Binney</person>
-          <person id="5404">Kirk Weibe</person>
+          <person id="4913">Cecilia Colasanti</person>
         </persons>
         <links>
+            <link href="https://twitter.com/cecwitter">Speaker Twitter</link>
+            <link href="https://oscal.openlabs.cc/sessions/the-approach-to-free-software-and-culture-at-roma-capitale/">Website Session Link</link>
         </links>
       </event>
       <event id="6230">
-        <start>12:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>unix_evolution</slug>
-        <title>Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD</title>
-        <subtitle>Important Milestones and Lessons Learned</subtitle>
-        <track>History</track>
-        <type>maintrack</type>
+        <start>10:30</start>
+        <duration>01:00</duration>
+        <room>Pyramid</room>
+        <slug>key</slug>
+        <title>Key Impressioning</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>security</type>
         <language/>
-        <abstract>&lt;p&gt;Based on a &lt;a href="https://github.com/dspinellis/unix-history-repo"&gt;GitHub repository&lt;/a&gt; recording the history of the Unix code from 1970 until today, we look at the most significant elements and milestones of the system's architectural evolution and the lessons we can learn from it.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The Unix operating system has had a profound influence on the development of open source software and associated communities. Many of today's systems trace their code or design to a 1970 unnamed operating system kernel, implemented in 2489 lines of PDP-7 assembly language. This evolved into the Unix operating system, whose direct descendants include today's BSD systems and intellectual heirs form the various GNU/Linux distributions.&lt;/p&gt;
-
-&lt;p&gt;How did the architecture of Unix evolve over the past half century? Based on a &lt;a href="https://github.com/dspinellis/unix-history-repo"&gt;GitHub repository&lt;/a&gt; recording the system's history from 1970 until today, a &lt;a href="https://dspinellis.github.io/unix-history-man/index.html"&gt;database recording the evolution of provided facilities&lt;/a&gt;, and the reconstruction of the &lt;a href="https://github.com/dspinellis/unix-v3man"&gt;Third&lt;/a&gt; and &lt;a href="https://github.com/dspinellis/unix-v4man"&gt;Fourth&lt;/a&gt; Edition Unix manuals, we will examine the most significant milestones of this development and the lessons we can learn. Many architectural features, such as layering, system calls, devices as files, an interpreter, and process management, were already visible in the 1970 version. Other ideas followed quickly: the tree directory structure, user contributed code, I/O redirection, the shell as a user program, groups, pipes, and scripting. Later versions added domain-specific languages, environment variables, a documented file system hierarchy, software packages, virtual memory support, optimized screen handling, networking, storage pools, dynamic tracing, and a packet capture library. Based on a record of facilities documented over the years we will see areas in which evolution continues at an unchanged pace and areas where it appears stalled. We will also see how one measure of code complexity has followed a self-correcting path. Lessons we can derive from this amazing ride include the durability of early architectural features, the value of establishing conventions over the imposition of rigid mechanisms, the importance of additions made after the system's gestation, and the increasing difficulty of bringing about ground-breaking changes as Unix ages.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;p&gt;We’ve all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn’t it be great to have an opening technique that would supply you with a working key in the process?&lt;/p&gt;
+&lt;p&gt;A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got “”re-invented”” by the lockpick community and the skill evolved to the level now shown at several international championships.&lt;/p&gt;
+&lt;p&gt;Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10-15 minutes (and potentially faster)!
+What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.&lt;/p&gt;</description>
         <persons>
-          <person id="3691">Diomidis Spinellis</person>
+          <person id="3691">Jos Weyers</person>
         </persons>
         <links>
-          <link href="https://dspinellis.github.io/unix-architecture/arch-V1.pdf">First Research Edition architecture diagram</link>
-          <link href="https://dspinellis.github.io/unix-architecture/arch.pdf">Modern FreeBSD architecture diagram</link>
-          <link href="https://dspinellis.github.io/unix-history-man/index.html">Evolution of Unix facilities dataset</link>
-          <link href="https://github.com/dspinellis/unix-history-repo">The Unix History Repository</link>
-          <link href="https://youtu.be/S7JB0mhrGCQ">A visualization of Unix evolution</link>
-          <link href="https://github.com/dspinellis/unix-v3man">Reconstrution of the Third Edition Manual (nroff)</link>
-          <link href="https://github.com/dspinellis/unix-v4man">Reconstrution of the Fourth Edition Manual (troff)</link>
-          <link href="https://video.fosdem.org/2018/Janson/unix_evolution.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/unix_evolution.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6230.php">Submit feedback</link>
+          <link href="https://twitter.com/josweyers">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/key-impressioning/">Website Session Link</link>
         </links>
       </event>
       <event id="6308">
-        <start>13:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>alternative_histories</slug>
-        <title>The circuit less traveled</title>
-        <subtitle>Investigating some alternate histories of computing.</subtitle>
-        <track>History</track>
-        <type>maintrack</type>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>Pyramid</room>
+        <slug>privacy</slug>
+        <title>Government surveillance around the world &amp; what to do about it</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>privacy</type>
         <language/>
-        <abstract>&lt;p&gt;Retrocomputing, lost lessons of software design, a quarter of a century of failed progress - and how learning from the past could lead to the next generation of computers.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;There are many now-forgotten OSes and languages that could do things that modern systems can't even approach, but they are long gone, out-competed by inexpensive commodity computers and lowest-common-denominator software. This talk discusses some of that forgotten history, and how what we did instead has landed has landed us with significant problems... and some possible ways that we could escape these problems and find new ways forward.&lt;/p&gt;
-
-&lt;p&gt;It will touch upon Plan 9 and Inferno, Taos and Intent/Elate, the Dandelion machines and Mesa, Oberon, OpenGenera, Movitz, ChrysaLisp, Urbit, the Canon Cat, the original Newton OS and Dylan, and more besides. It will also examine the next big transition that we're facing, one that almost nobody has noticed and which existing OSes are ill-suited to handle -- and how learning from the past could help improve the future.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4843">Liam Proven</person>
+          <person id="4843">Arjen Kamphuis</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/alternative_histories.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/alternative_histories.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6308.php">Submit feedback</link>
+          <link href="https://twitter.com/ArjenKamphuis">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/government-surveillance-around-the-world-what-to-do-about-it/">Website Session Link</link>
         </links>
       </event>
       <event id="6403">
-        <start>14:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>digital_archaeology</slug>
-        <title>Digital Archaeology</title>
-        <subtitle>Maintaining our digital heritage</subtitle>
-        <track>History</track>
-        <type>maintrack</type>
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>copyright</slug>
+        <title>EU Copyright Reform: Challenges and Risks in the FLOSS Ecosystem</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>copyright</type>
         <language/>
-        <abstract>&lt;p&gt;In a few years time, it will be impossible to study the history of retro-computers since its software was either proprietary, closed-source, written in a now-obsolete language, or encumbered by software “protection” to prevent copying. Furthermore, the hardware upon which it ran is dying, and the cassette tapes holding the software are physically disintegrating.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;This talk covers a ten-point plan outlining the primary issues in digital archaeology. It covers the methods necessary to preserve our computing legacy, the use of emulation, and how open source can help with this endeavour. We end with an overview of some projects that will inspire you, and help you preserve your own slice of history!&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;p&gt;The current EU Copyright Reform proposal puts pressure on platforms to monitor and filter all content, including uploaded free and open-source software, for copyright infringement (Article 13), proposes a new 20-year license for news snippets (Article 11), and limits who can access datasets — including open data (Article 3). Any of these would be terrible outcomes. Let’s demand better copyright reform! In this session, we will tackle the following questions:&lt;/p&gt;
+          &lt;ul&gt;
+          &lt;li&gt;What’s happening with the EU Copyright Reform?&lt;/li&gt;
+&lt;li&gt;What’s happening with the EU Copyright Reform?&lt;/li&gt;
+&lt;li&gt;How will Articles 11, 13 + 3 affect the Internet experience in Europe?&lt;/li&gt;
+&lt;li&gt;How will the proposed reform affect the FLOSS ecosystem in Europe? The rest of the world?&lt;/li&gt;
+&lt;li&gt;Why is this happening?&lt;/li&gt;
+&lt;li&gt;What is Mozilla doing about it, and what can you do about it?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;p&gt;Note: The EU Copyright Reform restrictions can also be applied to non-EU citizens, therefore everybody regardless of citizenship is encouraged to participate in the session.&lt;/p&gt;</description>
         <persons>
-          <person id="392">Steven Goodwin</person>
+          <person id="392">Giannis Konstantinidis</person>
         </persons>
         <links>
-          <link href="http://marquisdegeek.com/digital_heritage">Digital Heritage</link>
-          <link href="http://em.ulat.es">em.ulat.es</link>
-          <link href="http://em.ulat.es/eaas">Emulation as a service</link>
-          <link href="https://video.fosdem.org/2018/Janson/digital_archaeology.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/digital_archaeology.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6403.php">Submit feedback</link>
+          <link href="https://twitter.com/ArjenKamphuis">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/eu-copyright-reform-challenges-and-risks-in-the-floss-ecosystem/">Website Session Link</link>
         </links>
       </event>
       <event id="6005">
-        <start>15:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>edsac</slug>
-        <title>Reimagining EDSAC in open source</title>
-        <subtitle>An valve computer reimplemented using FPGAs, Arduinos, 3D printing and discrete electronics</subtitle>
-        <track>History</track>
-        <type>maintrack</type>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Pyramid</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Talk 1</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;We have recreated one of the first modern computers using a low cost FPGA board, Arduinos, 3D printing and simple discrete electronics. Aimed at schools and hobbyists, this open source project allows a new generation to experience the operation of a computer from 1948.&lt;/p&gt;
-
-&lt;p&gt;This talk will tell the story of the project, culminating in the three day extravaganza that was ChipHack 2017. I will be demonstrating all the components of the system: the delay line, the 3D printed peripherals and the processor core on FPGA. At the end of this talk, I hope you will understand more about this historic computer and be inspired to build your own EDSAC.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Chip Hack was run as part of the Wuthering Bytes Technology Festival 2017. To celebrate the 60th anniversary of the British computer society, EDSAC was recreated on the myStorm FPGA boards. The Verilog implementation was written by Hatim Kanchwala, a Google Summer of Code student from India. The key EDSAC peripherals were reimagined and interfaced with the FPGA boards.&lt;/p&gt;
-
-&lt;p&gt;Sir Prof Maurice Wilkes designed EDSAC and built it with the University of Cambridge. Instead of trying to make the computer the fastest or smallest, he wanted EDSAC to be useable so that everyone at the University could have access to a computer for their research. EDSAC stands for electronic delay storage automatic calculator and was based on EDVAC, a binary stored-program computer.&lt;/p&gt;
-
-&lt;p&gt;Punched tape was used to read in the programs. The tape was written using 5-bit wide code. In the reimagined version of EDSAC punched tape was read by reflecting light off of the paper as it was fed through by a motor. The amount of light reflected corresponded to the colour of the tape therefore a hole, substituted for by a black dot, could be found. An extra line of dots down the middle worked as a clock line.&lt;/p&gt;
-
-&lt;p&gt;Once the program was completed successfully the output would be sent to a teleprinter, a typewriter like electro-mechanical machine. To simulate this, a thermal printer that was able to communicate with an Arduino was interfaced with myStorm Verilog EDSAC. The thermal printer was also used to print the punched tape.&lt;/p&gt;
-
-&lt;p&gt;When EDSAC was turned on, a series of instructions had to be read into the machine. This was error prone and took a very long time to do. To fix this problem, rows of switches were added to the front panel of the computer. This meant that the initial instructions could be boot-strapped in upon start up. Due to the price of toggle switches, the reimagined front panel used two rows of headers and connectors. The bottom row of headers was always positively charged. Each set of headers were connected to an Arduino pin. Therefore, when a header pair was connected the pin is pulled high.&lt;/p&gt;
-
-&lt;p&gt;The last peripheral reimagined were the delay lines. These were used as part of EDSAC logic to hold multiple words of information. A short word was 18 bits long and the long word was 36 bits long. Due to problems with the logic system, the last bit for each word was lost and so a short word is usually seen to be 17 bits long and the long word is 35 bits long. To store the word, pipes full of mercury had series of pulses send from the top to the bottom of the tubes. A logic circuit would be able to convert the signal received upon every clock pulse to binary and send it back to the top of the tube to be sent down again.&lt;/p&gt;
-
-&lt;p&gt;To simulate the mercury delay lines, a material that was safer and cheaper was used to fill the tubes, air. Similar to the original design, a series of pulses held by a 4 kHz carrier was sent down the tube. An Arduino was able to reassemble to series of pulses at the bottom of the tube and resend the information down the tube. Due to travel issues the tubes had to be short so only a few bits could be held in the tube at any one time.&lt;/p&gt;
-
-&lt;p&gt;All materials used were open source because the teaching resource created was designed to be easily used in classrooms and maker spaces. All reimagined peripherals use OpenSCAD and a RepRap 3D printer for the 3D printed components.&lt;/p&gt;
-
-&lt;p&gt;Overall, Chip Hack was a great success. Everyone who came learned something about Verilog and enjoyed the talks about the history behind EDSAC. It is quite difficult to get the pacing correct when designing a course for beginner and expert so a lot of people needed to spend extra time on the tutorials.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4621">Mary Bennett</person>
+          <person id="4621">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="http://chiphack.org/">Chip Hack website</link>
-          <link href="https://github.com/embecosm/chiphack">Tutorial GitHub</link>
-          <link href="https://github.com/embecosm/edsac-peripherals">Peripheral GitHub</link>
-          <link href="https://hatimak.me/notes/gsoc-final/">One of Hatim's FOSSi blog post</link>
-          <link href="https://video.fosdem.org/2018/Janson/edsac.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/edsac.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6005.php">Submit feedback</link>
         </links>
       </event>
       <event id="6289">
-        <start>16:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>mysql_scaling</slug>
-        <title>MySQL: Scaling &amp; High Availability Production experience for the last decade</title>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>geodata</slug>
+        <title>How to improve OSM with official open-data (Tirana use-case)</title>
         <subtitle/>
-        <track>Performance</track>
-        <type>maintrack</type>
+        <track>Talk 1</track>
+        <type>geodata</type>
         <language/>
-        <abstract>&lt;p&gt;Percona are known as the MySQL performance experts, and with over 4,000 customers, we have a list of how to scale and ensure your application is highly available. Come learn from our playbook, and leave this talk ensuring your MySQL database is running faster and more optimised than before.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Part 1&lt;br /&gt;
+&lt;p&gt;In many countries or cities we can find open-data publicly available but it’s not always the case, that’s why Open Labs contacted the Municipality of Tirana to make them open their data and … it worked !
+Even though each country is different, we think it’s usually difficult to connect with officials, especially to promote open-source softwares and open-data, this is how Open Labs community succeeded in both in Tirana.&lt;/p&gt;
+&lt;p&gt;Part 2&lt;br /&gt;
+&lt;p&gt;Once we have open-data available (in many formats), how can we make those data available for the many people who do not have a GIS background ?
+The idea we had is to create easy-to-use and open-source website and services so anyone can use those data to map in Tirana using their favorite editor (iD, JOSM, …).&lt;/p&gt;</description>
         <persons>
-          <person id="4837">Peter Zaitsev</person>
+          <person id="4837">Jonathan Beliën</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/mysql_scaling.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/mysql_scaling.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6289.php">Submit feedback</link>
+          <link href="https://twitter.com/jbelien">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-improve-osm-with-official-open-data-tirana-use-case/">Website Session Link</link>
+          <link href="http://bit.ly/2Cdjk47">Agreement</link>
+          <link href="http://bit.ly/2obIa07">Blogpost</link>
+          <link href="https://geoportal.openlabs.cc/">Open Labs Geoportal</link>
         </links>
       </event>
       <event id="5927">
-        <start>17:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>elasticsearch</slug>
-        <title>Elasticsearch (R)Evolution</title>
-        <subtitle>You Know, for Search...</subtitle>
-        <track>Performance</track>
-        <type>maintrack</type>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>geodata</slug>
+        <title>How to make Albanian open imagery and maps available to OpenStreetMap editors</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>geodata</type>
         <language/>
-        <abstract>&lt;p&gt;Elasticsearch is a distributed, RESTful search and analytics engine built on top of Apache Lucene. After the initial release in 2010 it has become the most widely used full-text search engine, but it is not stopping there.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The revolution happened and now it is time for evolution. We dive into the following questions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How did leniency help the initial adoption, but why and how do we lean more on strictness today?&lt;/li&gt;
-&lt;li&gt;How can upgrades be improved to avoid any downtime even when changing major versions?&lt;/li&gt;
-&lt;li&gt;How can new resiliency features improve recovery scenarios and add totally new features?&lt;/li&gt;
-&lt;li&gt;Why are types finally disappearing and how are we are trying to avoid the upgrade pain as much as possible?&lt;/li&gt;
-&lt;li&gt;What are examples for some clever performance improvements?&lt;/li&gt;
-&lt;li&gt;How can you shrink and (finally) split shards in a highly efficient way?&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Attendees learn both about new and upcoming features as well as the motivation and engineering challenges behind them.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Legal and technical steps are required until Albania’s data becomes available in the OpenStreetMap editors. I will make a short inventory of possible sources, explain why they aren’t background layers in OpenStreetMap editors yet, and show by example how communities elsewhere managed to solve similar issues.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4028">Philipp Krenn</person>
+          <person id="4028">Guillaume Rischard</person>
         </persons>
         <links>
-          <link href="https://speakerdeck.com/xeraa/elasticsearch-r-evolution-you-know-for-search-dot-dot-dot">Slides</link>
-          <link href="https://video.fosdem.org/2018/Janson/elasticsearch.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/elasticsearch.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/5927.php">Submit feedback</link>
+          <link href="https://twitter.com/grischard">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-make-albanian-open-imagery-and-maps-available-to-openstreetmap-editors/">Website session link</link>
         </links>
       </event>
       <event id="6762">
-        <start>18:00</start>
-        <duration>00:50</duration>
-        <room>Janson</room>
-        <slug>optimizing_sds</slug>
-        <title>Optimizing Software Defined Storage for the Age of Flash</title>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>open data</slug>
+        <title>Representing and processing Open Data</title>
         <subtitle/>
-        <track>Performance</track>
-        <type>maintrack</type>
+        <track>Talk 1</track>
+        <type>open data</type>
         <language/>
-        <abstract>&lt;p&gt;High-performance flash storage like NVMe SSDs are becoming commonplace in production environments. In this age of fast storage, inefficiencies in storage software stacks that were previously acceptable with slow spinning devices, are no longer tolerable. There are even faster technologies, like NVDIMMs, on the horizon. These developments are particularly challenging for distributed storage solutions like Gluster and Ceph, where network latencies are a fact of life.
-This talk is on performance analysis and troubleshooting tools and techniques for this age.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk, we will share some of our experiences in driving performance improvements in gluster to enable it to better deliver the
-performance of fast hardware devices to applications that need it. We will cover our performance analysis methodology and some of the common problem areas we see as we try to scale in performance.  We will discuss some of the tools available for troubleshooting performance bottlenecks, like perf and mutrace. But tools alone are insufficient to troubleshoot performance issues and we will share some of the techniques that we employ to get the needed insights from our tools.  We will present examples for how instrumentation in the code is sometimes invaluable in identifying performance issues.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Data, whether open or not, has to be represented in a definite format. We introduce some of the common openly defined formats used in website APIs: CSV, JSON, YAML, and XML. We look briefly at how your programs can handle data presented in them, and how to choose which formats your program or website API can produce.&lt;/p&gt;</description>
         <persons>
-          <person id="3088">Krutika Dhananjay</person>
-          <person id="5121">Manoj Pillai</person>
-          <person id="5319">Raghavendra Gowdappa</person>
+          <person id="3088">John Sturdy</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/optimizing_sds.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/optimizing_sds.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6762.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/representing-and-processing-open-data/">Website session link</link>
         </links>
       </event>
-    </room>
-    <room name="K.1.105 (La Fontaine)">
       <event id="6311">
-        <start>11:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>python3</slug>
-        <title>Python 3: 10 years later</title>
-        <subtitle>Looking back at Python evolutions of the last 10 years</subtitle>
-        <track>Python</track>
-        <type>maintrack</type>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>community</slug>
+        <title>Openness in a culturally diverse world</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>diversity</type>
         <language/>
-        <abstract>&lt;p&gt;Python 3.0 was released 10 years ago. It's time to look back: analyze the migration from Python 2 to Python 3, see the progress we made on the language, list bugs by cannot be fixed in Python 2 because of the backward compatibility, and discuss if it's time or not to bury Python 2.&lt;/p&gt;
-
-&lt;p&gt;Python became the defacto language in the scientific world and the favorite programming language as the first language to learn programming.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Draft of the talk:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Growing populary of the Python programming language&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Defacto language in the scientific world, replacing other closed source and more specialized but limited language&lt;/li&gt;
-&lt;li&gt;Favorite programming language used as the first language to learn programming&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Port Python 2 code to Python 3&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Port Python 2 code to Python 3&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;No: "Add support for Python 3", don't loose Python 2 support&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Port Python 3 code to Python 2&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Python changes to make the transition smoother:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;PEP 414: u"syntax" reintroduced in Python 3.3&lt;/li&gt;
-&lt;li&gt;PEP 461: bytes % args, Python 3.5&lt;/li&gt;
-&lt;li&gt;More "Py3k" warnings added to Python 2.7.x&lt;/li&gt;
-&lt;li&gt;Linters like flake8 detect some issues&lt;/li&gt;
-&lt;li&gt;six, futures, modernize, 2to6, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Analysis of the transition&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Good: At Pycon US 2014, Guido van Rossum announced that the Python 2.7
-support was extended from 2015 to 2020 to give more time to companies to
-port their applications to Python 3.&lt;/li&gt;
-&lt;li&gt;Bad: 2to3: "drop Python2 support at once", don't work when you have
-dependencies.&lt;/li&gt;
-&lt;li&gt;If done again, would it be different? Yes, obviously.&lt;/li&gt;
-&lt;li&gt;Python 4 will be different than Python 3: no more "break the world"
-release, but a "regular deprecation period" release, as &lt;em&gt;any&lt;/em&gt; other
-release. Break things, one by one :-)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Bugs that won't be fixed in Python 2 anymore&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Some bugs cannot be fixed without breaking the backward compatibility&lt;/li&gt;
-&lt;li&gt;Unicode Support&lt;/li&gt;
-&lt;li&gt;Python 2 I/O stack bugs: rely on libc stdio.h&lt;/li&gt;
-&lt;li&gt;Security: hash DoS, enabled by default in Python 3.3, Python 3.4 now uses
-SipHash&lt;/li&gt;
-&lt;li&gt;subprocess is not thread-safe in Python 2.
-Python 2 subprocess has many race conditions: fixed in Python 3
-with a C implementation which has less or no race condition.
-Handling signals while forking in complex.&lt;/li&gt;
-&lt;li&gt;threading.RLock is not "signal safe" in Python 2&lt;/li&gt;
-&lt;li&gt;Python 2 requires polling to wait for a lock or for I/O.
-Python 3 uses native threading API with timeout and has asyncio.&lt;/li&gt;
-&lt;li&gt;Python 3 uses a monotonic clock to not crash on system clock update
-(ex: DST change).&lt;/li&gt;
-&lt;li&gt;Python 3 has a better GIL.&lt;/li&gt;
-&lt;li&gt;Python 2 inherits file descriptors on fork+exec by default.
-Python 3 don't: PEP 446.&lt;/li&gt;
-&lt;li&gt;Functions can fail with OSError(EINTR) when interrupted by a signal,
-need to be very careful everywhere. SIGCHLD when a child process completes,
-SIGWINCH when using ncurses. Python 3.5 restarts the interrupted system
-call for you.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Performance&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Python 3.6 is now faster than Python 2.7&lt;/li&gt;
-&lt;li&gt;https://speed.python.org/&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Evolutions of the Python language&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Python 3.5&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;PEP 492: async/await "keywords" for asyncio.
-(Really keywords in Python 3.7.)&lt;/li&gt;
-&lt;li&gt;PEP 461: bytes % args and bytearray % args&lt;/li&gt;
-&lt;li&gt;PEP 465, a new matrix multiplication operator: a @ b.&lt;/li&gt;
-&lt;li&gt;PEP 448: Generalized unpacking:
-&lt;code&gt;head, *tail = list&lt;/code&gt;
-&lt;code&gt;mylist = [1, 2, **other_list]&lt;/code&gt;
-&lt;code&gt;mydict = {"key": "value", **other_dict}&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Python 3.6&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;PEP 515: &lt;code&gt;million = 1_000_000&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;PEP 498: f-string:
-&lt;code&gt;name = "World"; print(f"Hello {name}!")&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;PEP 526, syntax for variable annotations.&lt;/li&gt;
-&lt;li&gt;PEP 525, asynchronous generators.&lt;/li&gt;
-&lt;li&gt;PEP 530: asynchronous comprehensions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Bury Python 2?&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;"Python 3 only"&lt;/li&gt;
-&lt;li&gt;https://pythonclock.org/&lt;/li&gt;
-&lt;li&gt;http://www.python3statement.org/&lt;/li&gt;
-&lt;li&gt;Fedora 23, Ubuntu 17.10: no python2 (/usr/bin/python) in the base system&lt;/li&gt;
-&lt;li&gt;2017, April: IPython 6.0&lt;/li&gt;
-&lt;li&gt;2017, December: Django 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <abstract></abstract>
+        <description>&lt;p&gt;We’ve all heard—and many of us here have preached—that openness is important for innovation and progress; however, do we think about openness in the same way? What are the expectations when one talks about “working in the open?” As we become more globalized, we need to identify and negotiate the differences in the understanding of openness before we can talk about true collaboration and inclusion. Can we find unity in diversity?&lt;/p&gt;
+        &lt;p&gt;In this session, I’ll share my observations and experiences after living and working on 3 continents, with various companies, on open source events, and with open source communities. I’ll also touch on adapting communication styles and tools effectively for different situations.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="3571">Victor Stinner</person>
+          <person id="3571">Carol Chen</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/K.1.105/python3.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/python3.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6311.php">Submit feedback</link>
+          <link href="https://twitter.com/cybette">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/openness-in-a-culturally-diverse-world/">Website session Link</link>
         </links>
       </event>
       <event id="6316">
-        <start>12:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>pythran</slug>
-        <title>Surviving in an Open Source Niche: the Pythran case</title>
-        <subtitle>a compiler for scientific kernels written in Python, six years later</subtitle>
-        <track>Python</track>
-        <type>maintrack</type>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>contributing</slug>
+        <title>Contributing to Open Source, what is it like?</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>community</type>
         <language/>
-        <abstract>&lt;p&gt;Pythran is an open source compiler for scientific kernels written in Python.&lt;/p&gt;
-
-&lt;p&gt;Its goal is to turn scientific kernels written in Python into native modules that runs much faster, take advantage of SIMD instruction units, multi-cores, get rid of the GIL &lt;strong&gt;without&lt;/strong&gt; sacrifying high-level programing. As such it understands a strict subset of the Python language, keeping 100% backward compatibiliy with the original language.&lt;/p&gt;
-
-&lt;p&gt;Looks cool? It is. But the target niche is small (high performance computing in Python and several great tools already exist (Cython, Numba).
-How have Pythran survived in the OSS jungle for 6 years while gathering a small but living community?&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The following points will be discussed:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;making reasonable technical choices&lt;/li&gt;
-&lt;li&gt;targeting a niche&lt;/li&gt;
-&lt;li&gt;sharing the joy&lt;/li&gt;
-&lt;li&gt;surviving the Python3 switch&lt;/li&gt;
-&lt;li&gt;building a community&lt;/li&gt;
-&lt;li&gt;surviving the bus factor&lt;/li&gt;
-&lt;li&gt;finding funding&lt;/li&gt;
-&lt;li&gt;not becoming a workaholic&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;In this presentation Alex tries to retrospectively analyze his 6 years experience of contributions to open source projects. In particular he concentrates on a broad set of not-so-evident benefits it has to offer to an individual developer and how those can be leveraged to boost one’s career.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4847">Serge Guelton (serge-sans-paille)</person>
+          <person id="4847">Oleksander Trotsenko</person>
         </persons>
         <links>
-          <link href="http://pythran.readthedocs.io/en/latest/">official doc</link>
-          <link href="https://github.com/serge-sans-paille/pythran">source code</link>
-          <link href="http://serge-sans-paille.github.io/talks/pyparis-2017-09-12.html#/">sample talk at pyparis</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/pythran.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/pythran.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6316.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/contributing-to-open-source-what-is-it-like/">Website session link</link>
         </links>
       </event>
       <event id="6258">
-        <start>13:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>cython</slug>
-        <title>Lift your Speed Limits with Cython</title>
-        <subtitle>Fast native code for Python</subtitle>
-        <track>Python</track>
-        <type>maintrack</type>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>hacking</slug>
+        <title>How I got access to Kosovo Citizens Information, without getting access within the servers!</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>hacking</type>
         <language/>
-        <abstract>&lt;p&gt;The Cython compiler is the most widely used static compiler for Python. It is used to speed up Python code and to extend the CPython runtime with fast native extension modules that process huge amounts of data all around the world. This talk by one of the core developers gives a quick intro into the compiler, the language, and some of its main applications in the Python big-data ecosystem.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Cython is not just a Python compiler or a native code wrapping tool, but also a programming language in its own right that mixes the Python language with C and C++ data types. The fact that you can simply drop Python code into it and compile it gives a very low entry level into performance optimisation by statically compiling your critical code and then tuning it into fast C to make it run faster.&lt;/p&gt;
-
-&lt;p&gt;In this talk, I will guide you through some examples where the compilation of regular Python code leads to faster execution, and present ways how to make the code run much faster.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;I will show how I got sensitive information of Kosovo Citizens (Polling Station,Addreses,Name,Surname,ID-Number) without getting access within the servers! How this flaw was discovered? How was it done? The way to patch it (protect it)! And the scenario of where they can be used for! And how sensitive are they?!&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4829">Stefan Behnel</person>
+          <person id="4829">Butrint Komoni</person>
         </persons>
         <links>
-          <link href="http://cython.org">cython.org</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/cython.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/cython.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6258.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-i-got-access-to-kosovo-citizens-information-without-getting-access-within-the-servers/">Website session link</link>
         </links>
       </event>
       <event id="6475">
-        <start>14:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>molotov</slug>
-        <title>Load testing web services at Mozilla with Molotov</title>
-        <subtitle>http://molotov.readthedocs.io/</subtitle>
-        <track>Python</track>
-        <type>maintrack</type>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>economics</slug>
+        <title>The economics of Open Source</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>economics</type>
         <language/>
-        <abstract>&lt;p&gt;This talk presents the different challenges Mozilla faces when deploying web services for millions of users, and how load testing
-is used to prevent the most common pitfalls, through the usage of Molotov.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Molotov (http://molotov.readthedocs.io/) is a custom load testing tool the Mozilla QA team created and uses to stress applications that get deployed for Firefox.&lt;/p&gt;
-
-&lt;p&gt;This talk will present the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the different types of applications Mozilla deploys in the cloud&lt;/li&gt;
-&lt;li&gt;the most common bottlenecks and how to detect and correct them&lt;/li&gt;
-&lt;li&gt;the existing load testing tools&lt;/li&gt;
-&lt;li&gt;Molotov features and examples&lt;/li&gt;
-&lt;li&gt;Continuous Load Testing principles&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;By the end of the talk, attendees should have a good understanding of how an application should be stressed.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;Why is that Open Source software provides so much more value to users, yet represents such a small percentage of all software developed?&lt;/p&gt;</abstract>
+        <description>&lt;p&gt; In this interactive session, Sam will explain how economic principles, such as network effects and Economic Value to the Customer, drive proprietary firms to success while challenging Open Source growth. Various economic benefits of Open Source will be explored from the users’ perspective, to illustrate disadvantages which Open Source companies face. Participants will be challenged to find new ways of thinking about established problems to investment in Open Source development.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4962">Tarek Ziade</person>
+          <person id="4962">Sam Tuke</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/K.1.105/molotov.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/molotov.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6475.php">Submit feedback</link>
+          <link href="https://twitter.com/samtuke">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-economics-of-open-source/">Website session link</link>
         </links>
       </event>
       <event id="6151">
-        <start>15:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>elektra</slug>
-        <title>Configuration Revolution</title>
-        <subtitle>Why it Needed 13 Years and How it Will be Done</subtitle>
-        <track>Miscellaneous</track>
-        <type>maintrack</type>
+        <start>17:30</start>
+        <duration>00:15</duration>
+        <room>Pyramid</room>
+        <slug>education</slug>
+        <title>MOOCs, Open Education and developing countries: something good is in the air?</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>open education</type>
         <language/>
-        <abstract>&lt;p&gt;Free software is proud of its diversity, choices, and resulting variety,
-including but not limited to configuration.  In this talk we will reflect
-on the last 13 years of experiences based on a user survey (286 answers),
-code analysis of 16 projects (comprising about 50 million lines of code),
-and our experience with Elektra.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Elektra aims at keeping the diversity and modularity of the FLOSS
-ecosystem but also unifies configuration access by abstracting access
-to any configuration source using key/value pairs. Participating
-applications do not use any hard-coded configuration. Developers,
-maintainers, and system administrator can declaratively specify
-location and syntax of configuration files, how to validate configuration,
-and how to derive default values.&lt;/p&gt;
-
-&lt;p&gt;Elektra follows the trend to a more declarative no-futz system
-(a system where no experimental tinkering or fiddling is needed).
-Getting and setting a configuration value is trivial, and possible in any
-programming language. Elektra currently supports C++, Python, Haskell,
-Lua, Shell, Ruby, Puppet, and Java. It fulfils necessities long overdue,
-not only for configuration management, but also for better defaults. We
-provide many essential utilities for system administrators and developers,
-such validation before serializing and command-line tools with support for
-tab completion of configuration. But no worries: Elektra still leaves
-developers the fun parts, like inventing new configuration file formats.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Massive Open Online Courses, also known as MOOCs are a relatively new phenomenon in the education sphere, but they are getting the attention of many scholars because of their exponential growth rate and because of the popularity they have gained, especially in developing countries. In order to better understand the MOOCs model in education, we should analyze the contest in which MOOCs were born and where they are developing nowadays.&lt;/p&gt;
+        &lt;p&gt;In its core philosophy, education is strictly connected with the concepts of sharing
+and openness. The internet age in which we are living and the fast adoption of digital technologies by the vast majority of people living throughout our planet has significantly boosted the degree of openness of education, by bringing into the scene new powerful actors, such as MOOCs.&lt;/p&gt;
+        &lt;p&gt;Furthermore, MOOCs diffusion in developing countries leads to new interesting opportunities and challenging threats. Unfortunately, evidence about MOOCs in developing countries is not really easy to find as the outcome of MOOCs seems to be country specific; in addition, MOOCs are a brand-new topic in the universe of OER, for which further investigation is needed.&lt;/p&gt;</description>
         <persons>
-          <person id="1541">Markus Raab</person>
+          <person id="1541">Eltjana Plaku</person>
+          <person id="1921">Grazia Asveva Ascione</person>
         </persons>
         <links>
-          <link href="https://www.libelektra.org">Elektra Website</link>
-          <link href="https://www.libelektra.org/news/0.8.21-release">Latest Release (22st Dec 2017)</link>
-          <link href="https://rawdata.libelektra.org/">Rawdata of survey</link>
-          <link href="https://book.libelektra.org">Sources of CC-licensed book in Attachments above</link>
-          <link href="https://fosdem.org/2018/interviews/markus-raab/">Interview</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/elektra.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/elektra.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6151.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/moocs-open-education-and-developing-countries-something-good-is-in-the-air/">Website session link</link>
         </links>
       </event>
       <event id="5981">
-        <start>16:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>ipc</slug>
-        <title>IPC in 1-2-3</title>
-        <subtitle>Everything you always wanted from a network, but were afraid to ask</subtitle>
-        <track>Miscellaneous</track>
-        <type>maintrack</type>
+        <start>17:45</start>
+        <duration>18:00</duration>
+        <room>Pyramid</room>
+        <slug>closing speech</slug>
+        <title> Day 1 - Closing Speech </title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>closing_speech</type>
         <language/>
-        <abstract>&lt;p&gt;We introduce the Ouroboros prototype, a user-space system for synchronous and asynchronous inter-process communication (IPC). Ouroboros simplifies creating networked applications by providing a single abstraction that unifies IPC and networking APIs. Ouroboros provides a powerful networking subsystem that allows building secure overlay networks on top of UDP/IP and Ethernet. To increase scale and scope, overlays can be added on top of previously created overlays. Management of applications running on top of Ouroboros, such as making a server application available on a certain overlay, can be done on-the-fly and with great ease.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;This lecture will explain the basic principles underlying the overall design and inner workings of Ouroboros, combining concepts from operating systems (IPC and microkernels) and networking (packet switching) to achieve a minimal, elegant yet powerful IPC and network system. The key objective of Ouroboros is, above all, simplicity.&lt;/p&gt;
-
-&lt;p&gt;From an administrator's perspective, the three step process to connect processes (register / bind / allocate or bind / register / allocate) greatly simplifies the way one manages server applications.&lt;/p&gt;
-
-&lt;p&gt;From a programmer's perspective, the library provides a very simple API (allocate/accept/deallocate, read/write) on top of a naming system that abstracts away the details how IPC is achieved, making writing distributed applications effortless. Asynchronous I/O is done by a scalable event system modeled on BSD's kqueue. The system is configured using a single call based on the well-known ioctl/fcntl calls and configurations for integrating TLS-like security are being implemented.&lt;/p&gt;
-
-&lt;p&gt;As it is a lot more than just a library, the Ouroboros network subsystem integrates a fully distributed packet-switched network that can be bootstrapped on top of a UDP network or on top of Ethernet if a suitable interface is found on the system (raw sockets on Linux, BPF on FreeBSD and OSX, or netmap if installed).&lt;/p&gt;
-
-&lt;p&gt;Finally, we will end with some future directions in research and steps that are needed to bring the Ouroboros implementation beyond its current prototype state.&lt;/p&gt;
-
-&lt;p&gt;Ouroboros is under active development at Ghent University - imec and written in C for POSIX-compliant operating systems. It is Free Open Source Software and available under the LGPL (library) / GPL license (network subsystem) at ouroboros.ilabt.imec.be&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Closing speech for the first day of the conference from the OSCAL staff.&lt;/p&gt;</description>
         <persons>
-          <person id="4612">Dimitri Staessens</person>
-          <person id="5337">Sander Vrijders</person>
+          <person id="4612">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="http://ouroboros.ilabt.imec.be">The main ouroboros website(under construction)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/ipc.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/ipc.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/5981.php">Submit feedback</link>
-        </links>
-      </event>
-      <event id="6032">
-        <start>17:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>riscv</slug>
-        <title>Igniting the Open Hardware Ecosystem with RISC-V</title>
-        <subtitle>SiFive's Freedom U500 is the World's First Linux-capable Open Source SoC Platform</subtitle>
-        <track>Miscellaneous</track>
-        <type>maintrack</type>
-        <language/>
-        <abstract>&lt;p&gt;The RISC-V open standard ISA has been gaining traction in both academic and commercial circles over the last year, during which we've gotten our ports of binutils, GCC, and Linux merged upstream.  Additionally, SiFive has announced a Linux-capable, 64-bit, quad core development board which will be available in Q1 2018.  This talk discusses the history of the ISA, SiFive's open source RTL implementations of RISC-V, the state of RISC-V software, and our plans for the upcoming year.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The RISC-V instruction set architecture is an open standard originally designed
-for computer architecture research that, over the past few years, has been
-gaining widespread popularity in industry: for example, the RISC-V Foundation,
-which governs the standard, now claims over 100 members.  SiFive recently
-announced the U54 processor IP, a 64-bit, quad core, Linux-capable processor.
-The Freedom U500 is based on Rocket Chip, an open source processor generator
-written in Chisel, a HDL implemented as a Scala embedded DSL.&lt;/p&gt;
-
-&lt;p&gt;This talk will discuss the RISC-V ISA, and the Rocket Chip processor generator.
-As the author is a maintainer of the RISC-V ports of binutils, GCC, Linux, and
-glibc, the main focus of this talk will be on the state of the RISC-V software
-ecosystem.  If everything goes well, the first version of glibc that contains
-RISC-V support will release right at the start of FOSDEM and I'll be able to
-announce that the core software is upstream.  We have a handful of distribution
-partners (Debian, Fedora, and OpenEmbedded) actively working on distributions
-based on our pre-release ports right now, so with any luck we'll also be able
-to announce early distro support :).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This talk will be followed by a BOF for open discussions about RISC-V ecosystem in room J1.106&lt;/strong&gt;&lt;/p&gt;</description>
-        <persons>
-          <person id="4609">Palmer Dabbelt</person>
-        </persons>
-        <links>
-          <link href="https://video.fosdem.org/2018/K.1.105/riscv.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/riscv.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6032.php">Submit feedback</link>
-        </links>
-      </event>
-      <event id="5969">
-        <start>18:00</start>
-        <duration>00:50</duration>
-        <room>K.1.105 (La Fontaine)</room>
-        <slug>terra_bruciata</slug>
-        <title>Terra Bruciata</title>
-        <subtitle>where bugs cannot survive </subtitle>
-        <track>Miscellaneous</track>
-        <type>maintrack</type>
-        <language/>
-        <abstract>&lt;p&gt;In this talk I'm going to present &lt;strong&gt;Terra Bruciata&lt;/strong&gt;, an open source initiative aimed to bring hi-integrity techniques in the world of open source with the objectives of (i) providing to the world bug-free software (ii) developing hi-integrity techniques suitable for open source and (iii) showing to the world that bugs are not unavoidable...&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Software bugs are everywhere and they brings much harm. History is sprinkled with software horror tales: race condition in radiation therapy machine Therac-25 caused deaths and injuries, badly written automotive software caused unintended acceleration, bugs in the entertainment system allowed an attacker to take remote (full) control of a car,  software glitches caused (many times) chaos in the stock market and so on...  Unfortunately many think that bugs are like bad weather: annoying, but unavoidable, so that the only solution is to have patience and bear with them.&lt;/p&gt;
-
-&lt;p&gt;However, I agree with late Robert Dewar when he says that &lt;a href="https://www.businesscomputingworld.co.uk/software-glitches-why-we-shouldnt-put-up-with-them/"&gt;we should not put up with them&lt;/a&gt;. With the future advent of IoT, putting up with glitches it is an open invitation for the Software Apocalypse.  Therefore, I decided to start &lt;strong&gt;Terra Bruciata&lt;/strong&gt;, an open source initiative whose goal of is to bring a software correctness mentality in the open source community. We will try to adapt to an open source context procedures and good practices from standards like DO-178 and using techniques such as formal checking. We will initially concentrate on libraries for network protocols.  Although this choice can seem strange, it has its rationale. First, network protocols are pervasive nowadays and a bug in a network library can easily become a security hole.  Moreover, the IETF has the desire to improve the involvement of open source communities and academia in protocol developments and this initiative could be an interesting channel for that. The initiative just started and as first protocol we choose &lt;a href="https://tools.ietf.org/html/rfc7252"&gt;CoAP&lt;/a&gt;, the &lt;em&gt;Constrained Application Protocol&lt;/em&gt;, a kind of &lt;em&gt;lo-weight&lt;/em&gt; HTTP, developed having in mind small devices IoT-style (yes, it is fashionable...)&lt;/p&gt;</description>
-        <persons>
-          <person id="498">Riccardo Bernardini</person>
-        </persons>
-        <links>
-          <link href="http://www.diegm.uniud.it/bernardini/FOSDEM-2018/slides.html">Online-version of the slides</link>
-          <link href="http://">http://</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/terra_bruciata.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/K.1.105/terra_bruciata.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/5969.php">Submit feedback</link>
         </links>
       </event>
     </room>
-    <room name="H.2215 (Ferrer)">
-      <event id="6541">
-        <start>12:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>easy_gnupg</slug>
-        <title>Easy GnuPG</title>
-        <subtitle>Shell scripts to make GnuPG more accessible and easier to use</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+    <room name="Protik">
+      <event id="6032">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>open source</slug>
+        <title>Open Source 101</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>open source</type>
         <language/>
-        <abstract>&lt;p&gt;There are scads of options presented by GnuPG, which are all part of making it the flexible and powerful an encryption framework that it is. But it's extremely complicated to get started with, and that quite reasonably puts people off.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;EasyGnuPG&lt;/strong&gt; is a wrapper script that tries to simplify the process of using GnuPG. In order to simplify things, it is opinionated about the "right" way to use GnuPG.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The philosophic goals here are these:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Make GPG as easy to use as possible. The more people using strong encryption, the better for everyone. One of the big hang ups right now is that the GPG tools are difficult to use - more so than they strictly have to be.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Make the interface itself auditable. This is why this is presented as shell scripts rather than a web service or a GUI. If you're concerned about what &lt;strong&gt;egpg&lt;/strong&gt; does, open up the files and read them, or have someone you trust read them.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Build a guide forward. The simplified interface provided here should be good to get started with, and with luck many users will find they never need anything beyond what &lt;strong&gt;egpg&lt;/strong&gt; provides. If you find that you need to do something more, though, the goal is that you have a foundation to start with, and some direction on how to proceed.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Make it customizable. If it doesn't fit your workflow, adapt and extend it to fit your way of doing things. Share your extensions with the others too.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;Welcome to Open Source 101!&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;This session gives the big picture overview of what open source is and how you can get started. Learn what it means when we talk about free and open source software and where this movement began, over 30 years ago. After understanding the philosophy, get practical advice on how to choose a project and community to contribute to. You won’t believe the two things nobody ever told you about choosing a project! At the end, we’ll look at the Fedora Project community as an example and explain how you can begin contributing to an open source community today.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="5004">Dashamir Hoxha</person>
+          <person id="4609">Justin Flory</person>
         </persons>
         <links>
-          <link href="https://slides.com/dashohoxha/easy-gnupg">https://slides.com/dashohoxha/easy-gnupg</link>
-          <link href="https://github.com/dashohoxha/egpg">https://github.com/dashohoxha/egpg</link>
-          <link href="https://wiki.debian.org/SummerOfCode2018/Projects/EasyGnuPG">https://wiki.debian.org/SummerOfCode2018/Projects/EasyGnuPG</link>
-          <link href="https://video.fosdem.org/2018/H.2215/easy_gnupg.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/easy_gnupg.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6541.php">Submit feedback</link>
+          <link href="https://twitter.com/jflory7">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-101/">Website session link</link>
+        </links>
+      </event>
+      <event id="5969">
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>inclusive</slug>
+        <title>Building and growing a diverse and inclusive community</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>community</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;After more than seven years of activities, the LibreOffice community is getting bigger. While building and growing a diverse and inclusive community you’re looking for culture to be added, not culture to fit. New people can bring a point of view never seen before and is crucial to be able to include newcomers. The talk will describe the current state of the art of the LibreOffice community, underlining in progress activities and future possible outcomes.&lt;/p&gt;
+        </description>
+        <persons>
+          <person id="498">Marina Latini</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/deneb_alpha">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/building-and-growing-a-diverse-and-inclusive-community/">Website session link</link>
+        </links>
+      </event>
+      <event id="6541">
+        <start>11:00</start>
+        <duration>00:35</duration>
+        <room>Protik</room>
+        <slug>design</slug>
+        <title>How to contribute to LibreOffice as a non-developer</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>design</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;LibreOffice is one of the largest and best known Open Source projects and we need you to make it even better. Many non-developers hesitate to contribute but we also need people who file enhancement requests, think about better solutions to the workflow, or make the application visually more attractive. That’s what the design team does and this presentation will illustrate what exactly you can do.&lt;/p&gt;
+        </description>
+        <persons>
+          <person id="5004">Heiko Tietze</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/libodesign">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-contribute-to-libreoffice-as-a-non-developer/">Website session link</link>
         </links>
       </event>
       <event id="6181">
-        <start>12:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>bulletinboard_dht</slug>
-        <title>BulletinBoard DHT and wireguard-p2p</title>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>community</slug>
+        <title>Join LibreOffice Community and (possibly) become a TDF member</title>
         <subtitle/>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <track>Talk 2</track>
+        <type>project</type>
         <language/>
-        <abstract>&lt;p&gt;A introduction to BulletinBoard, a internet-wide general-purpose distributed-hash-table to store key/value pairs and wireguard-p2p, a tool for setting up WireGuard VPN connections from peer to peer.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;This talk describes quickly LibreOffice project and how to contribute to it and let it grow with personal satisfaction. It shows how much fun gives to be part of its community and most of all, how to give some effort even not being necessarily a developer. So it will try to tell why to commit and when it can bring to a The Document Foundation’s membership.&lt;/p&gt;</description>
         <persons>
-          <person id="4680">Manuel Schoelling</person>
+          <person id="4680">Gabriele Ponzo</person>
         </persons>
         <links>
-          <link href="https://manuels.github.io/bulletinboard-dht/">BulletinBoard DHT</link>
-          <link href="https://github.com/manuels/wireguard-p2p">wireguard-p2p</link>
-          <link href="https://video.fosdem.org/2018/H.2215/bulletinboard_dht.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/bulletinboard_dht.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6181.php">Submit feedback</link>
+          <link href="https://twitter.com/Ponzogabriele">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/join-libreoffice-community-and-possibly-become-a-tdf-member/">Website session link</link>
         </links>
       </event>
       <event id="6011">
-        <start>12:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>nakadi</slug>
-        <title>Nakadi Event Broker</title>
-        <subtitle>An event broker with a REST API, on top of Kafka-like queues</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>project</slug>
+        <title>The Document Foundation – The open, transparent and meritocratic future of free office software</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>project</type>
         <language/>
-        <abstract>&lt;p&gt;Nakadi is an open source event broker, built on top of Kafka-like queues, that provides a REST API for easy integration with microservices. In this talk, we will introduce Nakadi, and demonstrate one of its most important features: timelines.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Timelines is a feature of Nakadi that allows administrators to transparently move queues between different clusters, without interrupting producers or consumers. This is useful to move between clusters, possibly using different technologies, but also as a fail-over for publishers in case of downtime on a cluster. Timelines can also be used to move event types between brokers on the same cluster, which is an alternative to rebalance operations. Contrary to rebalance operations, using timelines does not require additional data copy between brokers, which can slow them down. Future plans include using timelines for re-partitioning, i.e. changing the number of partitions in an event type.&lt;/p&gt;
-
-&lt;p&gt;Nakadi is used at Zalando, to produce around 15 terabytes and consume around 40 terabytes of data daily.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;The Document Foundation is the charitable entity behind LibreOffice, the free office suite. It not only provides a legal framework for the project, but also manages assets and donations to support the further development of the software as well as the community. The organizational setup of TDF is rather unique – by having chosen a German “Stiftung”, the community has opted for an entity that is recognized as strong, stable and enduring. Its statutes provide for independence of a single corporate sponsor and at the same time focus on the core values of transparency, openness and meritocracy. In his talk, Florian gives an overview on how the foundation was set up, what goals it has achieved in the last six years of its existence and what plans and visions the community has for their future.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4547">Lionel Montrieux</person>
+          <person id="4547">Florian Effenberger</person>
         </persons>
         <links>
-          <link href="https://zalando.github.io/nakadi">Nakadi website and documentation</link>
-          <link href="https://github.com/zalando/nakadi">Nakadi code repository</link>
-          <link href="https://video.fosdem.org/2018/H.2215/nakadi.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/nakadi.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6011.php">Submit feedback</link>
+          <link href="https://twitter.com/floeff">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-document-foundation-the-open-transparent-and-meritocratic-future-of-free-office-software/">Website session link</link>
         </links>
       </event>
       <event id="5994">
-        <start>13:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>flogo</slug>
-        <title>Connecting the Edge</title>
-        <subtitle>Project Flogo as Ultra-lightweight IoT Apps framework </subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>project</slug>
+        <title>LibreOffice 6.0</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>project</type>
         <language/>
-        <abstract>&lt;p&gt;There are few things in today’s technology landscape that promise to be more transformational than the emergence of an estimated 20 billion IoT edge devices by 2020.One of the well understood impacts of the edge as it emerges is that it will unleash a data tsunami. The evidence is already out there—a connected car can produce up to 5 terabytes of data hourly, an oil and gas drilling rig can produce 7 to 8 terabytes of data daily. Waiting for all of this data to be sent to the cloud and acted upon won’t cut it for many applications in industrial or consumer domains. Even for edge analytical applications, conventional big data architectures that involve forwarding everything to the cloud to be stored and analysed doesn’t make sense—what you likely need are Machine Learning and streaming analytics capabilities at the edge.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Project Flogo is an 100%  open source light weight engine which enables developers in building the broadest open IoT community. Project Flogo functions as one the first design bots for IoT edge application development, with a tile-based, zero-code environment for building and deploying integration and data processing directly onto connected devices. Its design bot and Web-based UI bring the best of TIBCO’s design environments to the IoT, with prepackaged building blocks for building applications, integration, data processing, and microservices, as well as error handling, including the first-ever auto-stepback debugger. Project Flogo brings this power to many of the smallest connected devices, with an average installed footprint that is up to 20 times lighter than Node.js and 50 times lighter than Java.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Positioning of LibreOffice 6.0, with a presentation of the development directions and a description of the most significant features.&lt;/p&gt;</description>
         <persons>
-          <person id="4632">Anshul Sharma</person>
+          <person id="4632">Italo Vignoli</person>
         </persons>
         <links>
-          <link href="http://www.flogo.io/">Flogo</link>
-          <link href="https://video.fosdem.org/2018/H.2215/flogo.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/flogo.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/5994.php">Submit feedback</link>
+          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/libreoffice-6-0/">Website session link</link>
         </links>
       </event>
       <event id="6078">
-        <start>13:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>freepbx</slug>
-        <title>PBX on a non-specialized distro</title>
-        <subtitle>How and why we included an easy FreePBX setup in NethServer</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Talk 2</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;Installing FreePBX and Asterisk on a general-purpose system has a lot of hidden traps and requires sysadmin skills.
-But sometimes we don't want to use a specialized distro for several reasons.
-This talk is about why we have chosen to provide a ready-to-use PBX on NethServer and how we dealt with problems that you face when you try to install cutting edge FreePBX and Asterisk releases on a standard distro (CentOS 7 in our case) that has to work in production environment providing also other services.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Installing FreePBX and Asterisk on a general-purpose system has a lot of hidden traps and requires sysadmin skills.
-But sometimes we don't want to use a specialized distro for several reasons.
-This talk is about why we have chosen to provide a ready-to-use PBX on NethServer and how we dealt with problems that are faced when trying to install cutting edge FreePBX and Asterisk releases on a standard distro (CentOS 7 in our case) that has to work in production environment providing also other services.
-Issues solved are: PHP version required by FreePBX &gt; than CentOS upstream, missing or outdated RPMs, Installation scripts Vs RPMs, backup and restore, HTTPD instance that runs as asterisk user, security issues and keeping kernel modules up-to-date with upstream kernel.
-After this talk, you'll know how to package and maintain FreePBX, Asterisk and their dependencies for your favorite distro, and how to overcome issues you can usually encounter when packaging webapps.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4683">Stefano Fancello</person>
+          <person id="4683">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="https://github.com/NethServer/nethserver-freepbx">main package source</link>
-          <link href="http://www.nethserver.org/">distribution web site</link>
-          <link href="https://video.fosdem.org/2018/H.2215/freepbx.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/freepbx.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6078.php">Submit feedback</link>
         </links>
       </event>
       <event id="5920">
-        <start>13:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>urbit</slug>
-        <title>Urbit: the personal server</title>
-        <subtitle>A clean-slate decentralized software stack.</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>wikipedia</slug>
+        <title>My first edit on Albanian Wikipedia</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>wikimedia</type>
         <language/>
-        <abstract>&lt;p&gt;The internet has failed to decentralize. What started as a network of nodes in people's homes turned into a network of server farms largely owned by a handful of tech giants. Flaws in the internet's design and implementation allowed for an online world to form where a few large services control nearly all users. Social networks don't put you in touch with your friends. They put you in touch with a server that helps with that... at the cost of privacy and community.&lt;/p&gt;
-
-&lt;p&gt;Urbit aims to solve this and many other problems by providing a decentralized network of personal servers. These come with a personal identity and an operating system that provides an immutable global namespace and all the infrastructure needed for making decentralized applications.&lt;/p&gt;
-
-&lt;hr /&gt;</abstract>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;The internet has lost its way. What was promised to be an open cyberspace where digital communities could form and flourish has turned into a landscape of unmovable monoliths. It may not have wanted this, but flaws in the design of its infrastructure and software set it up to fail.&lt;/p&gt;
-
-&lt;p&gt;Security is hard, but the defaults aren't helping. Without diving into often complicated configurations and the inner machinations of your system, the best you're going to get is an unencrypted connection and passwords stored in plain text. Sysadmins can do this. Your parents probably can't.&lt;/p&gt;
-
-&lt;p&gt;Social networks don't put you in touch with your friends. They put you in touch with a server that helps you talk to your friends. It's difficult to form cohesive communities when you see everyone through a filtered stream of data, rather than getting to exchange content directly.&lt;/p&gt;
-
-&lt;p&gt;Wheels are being re-invented over and over again. WhatsApp, iMessage, Facebook Messenger, Telegram... can you still tell them apart? They fulfill nearly the exact same purpose, using practically identical interfaces. Why can't I message my friends on Twitter using Signal?&lt;/p&gt;
-
-&lt;p&gt;Everyone has a ton of accounts for all kinds of redundant services. You're just one person, and yet you're forced to juggle many different online identities. Password fatigue is at an all-time high precisely when people need to start caring more. Software isn't helping them care.&lt;/p&gt;
-
-&lt;p&gt;Trolls and spammers have no problem with creating many different identities though. They do their thing, and if they get banned, they just spin up a new account to continue their shady practices on.&lt;/p&gt;
-
-&lt;p&gt;What if the internet had been built with good, secure defaults?
-What if machines on that network could talk directly to each other, without requiring a sysadmin skillset?
-What if there was a general-purpose software stack for communication between individuals?
-What if everyone had their own, personal address on the network?
-What if the barrier to entry was just high enough to keep spammers out?
-What if we had Urbit?&lt;/p&gt;
-
-&lt;p&gt;Urbit is a re-imagining of the internet. It paves over all our existing infrastructure and builds its own brand-new stack on top of it, solving the problems it has seen arise at the root. In doing so, it aims to deliver generic infrastructure for a decentralized network of personal servers to grow on.&lt;/p&gt;
-
-&lt;p&gt;The Urbit virtual machine runs a sort of assembly language called Nock. Nock is so simple, its official specification fits on a t-shirt.&lt;/p&gt;
-
-&lt;p&gt;But just like nobody is expected to write raw assembly, nobody is expected to write raw Nock. Urbit has invented Hoon, a vaguely Lisp-like functional programming language. Though its syntax may seem alien at first, this up-front complexity is the price it pays for semantic simplicity. When it comes down to it, Hoon is quite a dumb language. It has recently been deemed mature enough to be handed off to the community for further development and maintenance.&lt;/p&gt;
-
-&lt;p&gt;The Urbit operating system, Arvo, is implemented entirely in Hoon. It uses a handful of kernel modules to give rise to a functional, decentralized network of personal servers. At all times, the state of these servers is the sum of all events they have ever received.&lt;/p&gt;
-
-&lt;p&gt;Arguably the most important of the kernel modules is Ames, the networking module. Packets it sends are encrypted by default, only readable by the intended recipients. The network it creates is hierarchically ordered, with higher-order nodes being responsible for peer discovery and software updates for their children. In the event a parent's child misbehaves, it can get kicked out. In the event a child is unsatisfied with the service its parent provides, it can find another node willing to adopt it. This way, digital cities can form. Not around centralized servers, but around communities on the network.&lt;/p&gt;
-
-&lt;p&gt;All of this already exists. Urbit is very much a functional piece of software. Though still operating on a testnet, it has managed to gather a vibrant community of users and developers alike who are fed up with the ever increasing centralization of the internet.&lt;/p&gt;
-
-&lt;p&gt;It's not yet ready to replace the internet, however. Things will start off a bit smaller than that. Urbit is starting to prove itself very useful for API aggregation: managing and mirroring all your existing online identities in one single place. Eventually, this can seamlessly transition into using Urbit's generic, decentralized messaging bus instead of the traditional services themselves.
-Personal publishing is another application you can use your Urbit for. People are already hosting blogs on their Urbits, and incoming changes are going to make this even better.&lt;/p&gt;
-
-&lt;p&gt;The internet has lost its way, so let's build it right this time.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;p&gt;My first edit, how I started, what worked . How i started to edit, what i got from it and how i managed to be one of the wikipedians with most edits.&lt;/p&gt;
+        &lt;p&gt;We want to let you know this talk is in Albanian only.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4058">Mark Staarink</person>
+          <person id="4058">Ismet Azizi</person>
         </persons>
         <links>
-          <link href="http://urbit.org/">Website</link>
-          <link href="http://media.urbit.org/whitepaper.pdf">Whitepaper</link>
-          <link href="https://video.fosdem.org/2018/H.2215/urbit.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/urbit.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/5920.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/my-first-edit-on-albanian-wikipedia/">Website session link</link>
         </links>
       </event>
       <event id="6742">
-        <start>14:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>making_electronics</slug>
-        <title>Making electronics</title>
-        <subtitle>How to assemble open source electronics projects</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>wikimedia</slug>
+        <title>LGBT issues on Wikipedia</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>lgbt</type>
         <language/>
-        <abstract>&lt;p&gt;Open source electronics is only useful if you actually know how to make and assemble a given design. In this lightning talk Kaspar will walk through the build of an electronic circuit assembly: from ordering or making the board, getting the parts and soldering them on to get to a working project.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;I initiated the LGBTI project in Albanian Wikipedia a couple of months ago, when I was scamming through Wikipedia and noticed that there was a strong lack of information regarding topics on LGBT community. I feel close to the same concerns of this marginalized community because I work as a human rights journalist about LGBTI community in Albania. Through this lightining talk I would like to sum up the research I did during this months for the Wiki LGBT project.&lt;/p&gt;</description>
         <persons>
-          <person id="2377">Kaspar Emanuel</person>
+          <person id="2377">Kristina Millona</person>
         </persons>
         <links>
-          <link href="https://github.com/monostable/awesome-electronics">Awesome Electronics - A curated list of resources for electronic engineers and hobbyists</link>
-          <link href="https://kitspace.org">Kitspace - A free and open source site to share open source hardware designs</link>
-          <link href="https://monostable.github.io/presentations/fosdem2018-making-electronics">(slides)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/making_electronics.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/making_electronics.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6742.php">Submit feedback</link>
+          <link href="https://twitter.com/KristinaMillona">Speaker Twiteer</link>
+          <link href="https://oscal.openlabs.cc/sessions/lgbt-issues-on-wikipedia/">Website session link</link>
         </links>
       </event>
       <event id="6627">
-        <start>14:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>ppci</slug>
-        <title>Introduction into the ppci project</title>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>Wikidata</slug>
+        <title>Wikidata for developers</title>
         <subtitle/>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <track>Talk 2</track>
+        <type>dev</type>
         <language/>
-        <abstract>&lt;p&gt;Ppci is a compiler written entirely in Python. This allows for easy compiler development, portability and installation. The compiler is able to process C code into WASM, WASM into xtensa code, but there are more possible code paths. During this session a demo will be shown on how to compile some webassembly to the riscv platform.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The ppci project was started by the need for a better system level programming language then C. The compiler is implemented in python, and hence is not very fast. On the other hand, the compiler is portable and is easier to develop due to being implemented into a higher level language. Currently it supports msp430, x86, xtensa, avr, arm, open risc and stm8 computer architectures, in various levels of maturity. The supported languages are C3 and brainfuck. Language support for C is a work in progress.&lt;/p&gt;
-
-&lt;p&gt;The C3 language was the starting point for the compiler, aiming at being a better version of C. It has no header files, but features a more modular approach like C# and java. Furthermore its syntax is context free, making it easier to parse using standard compiler tools.&lt;/p&gt;
-
-&lt;p&gt;The backend of the compiler consists of a code generator featuring both instruction selection and register coloring algorithms. The output of the compiler is an instruction stream, which can be serialized as text or in binary form.&lt;/p&gt;
-
-&lt;p&gt;Possible uses of this library are:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Compile code and include it into the currently running python instance
-Create ctypes bindings for C code by making use of the C parser frontend
-Create a programming language using ply/textx and generate machine code from it using ppci
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;During this session, we will explore the various parts of the ppci library and have a good overview what it is capable of.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Wikidata is the free structured data project, sister project to Wikipedia. This talk will explain what it is and how it can be integrated into your development projects.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="5066">Windel Bouwman</person>
+          <person id="5066">Arianit Dobroshi</person>
         </persons>
         <links>
-          <link href="http://ppci.readthedocs.io/en/latest/">Documentation page</link>
-          <link href="https://video.fosdem.org/2018/H.2215/ppci.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/ppci.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6627.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/wikidata-for-developers/">Website session link</link>
         </links>
       </event>
       <event id="6330">
-        <start>14:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>i3</slug>
-        <title>i3 window manager</title>
-        <subtitle>A tiling wm for developers</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>debian</slug>
+        <title>Open source programs and Debian</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>debian</type>
         <language/>
-        <abstract>&lt;p&gt;i3 is a tiling window manager aimed at developers for maximizing their productivity and control on their windows appearance, while maintaining maximum simplicity.&lt;/p&gt;
-
-&lt;p&gt;The idea behind tiling window managers is to give full control over the arrangement and placement of windows with minimal efforts, only displaying what's required and wanted.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The talk will introduce the project and its core principles, as well as a demonstration of how it works and some little hacks for customizing your setup. At the end of the talk, I hope you're eager to install and try i3!&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Debian has been actively participating in open source programs such as GSoC and outreachy and encouraging more students to open source.The talk will be about the journey through it.&lt;/p&gt;</description>
         <persons>
-          <person id="4854">Emeric Planet</person>
+          <person id="4854">Jaminy Prabaharan</person>
         </persons>
         <links>
-          <link href="https://i3wm.org/">Official website</link>
-          <link href="https://github.com/i3">Github repository</link>
-          <link href="https://github.com/eplanet/2018-fosdem-i3wm">Presentation slides / resources</link>
-          <link href="https://video.fosdem.org/2018/H.2215/i3.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/i3.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6330.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-programs-and-debian/">Website session link</link>
         </links>
       </event>
       <event id="6709">
-        <start>15:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>godot3</slug>
-        <title>Godot 3, libre gamedev for everyone</title>
-        <subtitle>The 2D and 3D game engine you've waited for!</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>fedora</slug>
+        <title>Fedora atomic workstation in practice</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>fedora</type>
         <language/>
-        <abstract>&lt;p&gt;Community driven and fully FOSS, Godot Engine has established itself as the main 2D and 3D game engine in the FOSS ecosystem, and one of the key players in the game development industry as a whole. Its third installment brings 18 months of hard work from over 400 contributors, and so many features that we can't possibly showcase them all during a lightning talk - still, we will give a quick overview of the engine, its strength and the most striking features that may light in you the spark of game development using FOSS tools!&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The award-winning 2D and 3D FOSS game engine Godot got its bigger release so far in January 2018, and after 18 months of intensive development (10 to 20 pull requests a day!) it is ready to shine as the best game engine in the free software ecosystem, and one of the best even against proprietary engines, gathering a lot of interest from the game development industry.&lt;/p&gt;
-
-&lt;p&gt;Godot 3 brings state-of-the-art rendering features such as PBR shading (Physically Based Rendering), real-time global illumination, GPU particles and many more.
-It runs flawlessly on the Web using WebAssembly and WebGL 2.0 (even the editor itself, which is a Godot game!), and also exports to most desktop and mobile platforms (including of course Linux, *BSDs and even Haiku).
-On the scripting side, Mono/C# is added together with VisualScript and GDNative, an interface to use native code in Godot, paving the way to support languages such as Python, Nim, D, Rust and others.
-It ships with Bullet as physics engine, and a completely overhauled audio engine with advanced sound engineering effects.
-And many more features which can't all be listed here, but which the overenthusiastic Godot developers spread all over the FOSDEM campus will gladly tell you about at length!&lt;/p&gt;
-
-&lt;p&gt;This lightning talk will give a fast overview of what Godot is and the awesome features packed in its third installment. The presentation "slides" will even be a Godot game themselves, allowing to showcase game examples and special effects directly during the presentation.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Since a few releases, the Fedora project contributors have been working on a new system to deliver updates to the distribution based on immutable images with ostree and containers technology for the workstation such as flatpak.&lt;/p&gt;
+        &lt;p&gt;This talk will present the work, how it is used to enable distribution rollback, better security with isolation and what changed on the day to day workflow of a user.&lt;/p&gt;</description>
         <persons>
-          <person id="3771">Rémi Verschelde</person>
+          <person id="3771">Michael Scherer</person>
         </persons>
         <links>
-          <link href="https://godotengine.org">Godot Engine website</link>
-          <link href="https://github.com/godotengine/godot">Godot Engine source code</link>
-          <link href="https://www.youtube.com/watch?v=XptlVErsL-o">Video preview of Godot 3.0</link>
-          <link href="https://video.fosdem.org/2018/H.2215/godot3.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/godot3.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6709.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/fedora-atomic-workstation-in-practice/">Website session link</link>
         </links>
       </event>
       <event id="6692">
-        <start>15:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>leuven_run</slug>
-        <title>i++: run your FOSS off</title>
-        <subtitle>Automatically counting laps at the 24 hour run in Leuven</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>openSUSE</slug>
+        <title>The precious stones of the openSUSE crown</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>openSUSE</type>
         <language/>
-        <abstract>&lt;p&gt;Once a year, the students of Leuven congregate to run like hell. Teams of students compete against each other in a 24 hour relay race. ULYSSIS is a student organisation that voluntarily provides many IT services for other students, like providing the automatic lap counting system at the 24 hour run, using their own software called i++. This talk will describe how this lap counting system works and describe the dream I have of a cheap user-friendly system using free and open source software, that would enable other organisations to organise similar events.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We will start with gentle introduction of openSUSE ecosystem in order to set the context of the talk. Then we will continue with brief description of few of the precious stones of the openSUSE crown. The talk will end with a short demo of each one of the discussed topics.&lt;/p&gt;</description>
         <persons>
-          <person id="4601">Roel Standaert</person>
+          <person id="4601">Dimitar Zahariev</person>
         </persons>
         <links>
-          <link href="https://ulyssis.org">ULYSSIS</link>
-          <link href="https://github.com/ULYSSIS-KUL/ipp">i++ GitHub repository</link>
-          <link href="http://24urenloop.be">24 hour run website (in Dutch)</link>
-          <link href="http://10urenloop.be">10 hour run in Antwerp (in Dutch), lap counting system also provided by ULYSSIS</link>
-          <link href="https://video.fosdem.org/2018/H.2215/leuven_run.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/leuven_run.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6692.php">Submit feedback</link>
+          <link href="https://twitter.com/shekeriev">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-precious-stones-of-the-opensuse-crown/">Website session link</link>
         </links>
       </event>
       <event id="6580">
-        <start>15:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>drlm_in_action</slug>
-        <title>AMENDMENT DRLM in Action!</title>
-        <subtitle>GNU/Linux Disaster Recovery, the open source way</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>github</slug>
+        <title>Using Git and Github to contribute to open source</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>git</type>
         <language/>
-        <abstract>&lt;p&gt;Disaster Recovery is a commonly ignored topic, only considered
-when something serious happen. Then, usually, is too late to react
-efficiently. The consequences? generally money loss and reputation,
-sometimes is also the beginning of the end for a company.&lt;/p&gt;
-
-&lt;p&gt;This short session will show you, how easy is to use ReaR and DRLM,
-two open source projects that, together, provide a great and flexible
-solution for Disaster Recovery, system migrations and OS deployments.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The whole session is a live demo, showing how easy is to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Install ReaR and all of it's requirements on a system from DRLM.&lt;/li&gt;
-&lt;li&gt;Take a DR backup of that system using DRLM.&lt;/li&gt;
-&lt;li&gt;Break the system.&lt;/li&gt;
-&lt;li&gt;Recover from the disaster using DRLM.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;All this in just few minutes!&lt;/p&gt;
-
-&lt;p&gt;During the session, conducted by Didac Oliveira, co-founder and maintainer of
-DRLM project, the attendees will see how easy is to have an open source DR
-solution for their GNU/Linux systems.&lt;/p&gt;
-
-&lt;p&gt;Questions and doubts will be answered during the session and/or at the end of it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note that this replaces "Integration of Bikeshare Information into an Open-source Transportation App
-Google Summer of Code 2017" by Rodrigo Carvalho who is no longer able to attend the event.&lt;/strong&gt;&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We love open source, but sometimes its daunting to take the first step and contribute to a project we follow. However, open source projects could always need more helping hands.&lt;/p&gt;
+          &lt;p&gt;In this talk, we will go through steps of how to get started with open source. We will see how to use github and helpful resources to find issues we can do depending on our skills, fork a project, and make a pull request to a problem we solve.&lt;/p&gt;
+          &lt;p&gt;We will do this step by step, by learning a bit Git as well we will contribute together to a project, make a pull request and see that is not that scary after all. At the end it will feel great to have done something for the community.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="3920">Didac Oliveira</person>
+          <person id="3920">Renato Selenica</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.2215/drlm_in_action.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/drlm_in_action.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6580.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/using-git-and-github-to-contribute-to-open-source/">Website session link</link>
         </links>
       </event>
       <event id="6443">
-        <start>16:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>starviewer</slug>
-        <title>Starviewer: FOSS DICOM Medical Imaging Software</title>
-        <subtitle>Over 10 years fulfilling the daily needs of clinicians and researchers</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>tools</slug>
+        <title>Open Source Tools for Delivering Fast and Beautiful Images and Video</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>tools</type>
         <language/>
-        <abstract>&lt;p&gt;Starviewer is a user-friendly diagnosis application. Thanks to its versatility, it is able to combine, in the same environment, the day to day diagnosis interface with a more specific research application. The platform is the result of combining research knowledge of Graphics and Imaging Laboratory technicians, from the University of Girona, with the experience of the radiologists from Institut de Diagnòstic per la Imatge, a prestigious imaging institute located in the main Catalan public hospitals. Starviewer has been in use for more than 10 years and has about 600 daily active users.&lt;/p&gt;
-
-&lt;p&gt;Starviewer integrates in the same environment basic and advanced image analysis techniques to assist radiologists in diagnosis. The modular design of the platform supports the integration of new funcionalities designed to diagnose any kind of pathology. Starviewer is a GPLv3+ multi-language and cross-platform application available on Windows, macOS and GNU/Linux. It supports the DICOM standard and IHE profiles.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;DICOM (Digital Imaging and Communications in Medicine) is a standard for the transmission, storage and visualization of medical images and data. This standard is widely adopted by device manufacturers, storage servers and visualization software. Thus, the medical imaging ecosystem is not a walled garden.&lt;/p&gt;
-
-&lt;p&gt;Starviewer is developed in C++ making use of several open source libraries like Qt, VTK, ITK, DCMTK, GDCM and ThreadWeaver. It has modules for 2D and 3D visualization, and for DICOM printing. Additionally, there are several research modules focused on segmentation, registration, etc. which are not intended for daily use. Our main goal is to provide a medical image viewer focused on the image diagnosis process that is quick and efficient, and covers most of the daily needs.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Video and images bringing high engagement to your website, but inefficient delivery can add to load time, decreasing customer satisfaction. This talk will walk through Open Source tools and techniques to deliver beautiful images and video content quickly to all screens using the latest tips and techniques.&lt;/p&gt;</description>
         <persons>
-          <person id="4939">Marc Ruiz</person>
-          <person id="5395">Adria Julia (adriaj)</person>
+          <person id="4939">Doug Sillars</person>
         </persons>
         <links>
-          <link href="http://starviewer.org/">Starviewer website</link>
-          <link href="https://github.com/starviewer-medical/starviewer">Starviewer GitHub repository</link>
-          <link href="https://video.fosdem.org/2018/H.2215/starviewer.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/starviewer.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6443.php">Submit feedback</link>
+          <link href="https://twitter.com/dougsillars">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-tools-for-delivering-fast-and-beautiful-images-and-video/">Website session link</link>
         </links>
       </event>
       <event id="6697">
-        <start>16:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>automotive_floss</slug>
-        <title>War Stories from the Automotive FLOSS Front</title>
-        <subtitle>fun and pain doing FLOSS in the car</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Workshop 1</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;We (Elektrobit automotive) do FLOSS based production projects in various car brands for several years.  We’d like to entertain some of our most delightful encounters of the third kind in the automotive world and tell why we love bringing FLOSS on the road, where some aspects of FLOSS challenge all of us, and why we have lots of fun.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;fun stories trying to turn automotive industry open source, e.g.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GENIVI - MISRA Checker auf Kernel 8-o&lt;/li&gt;
-&lt;li&gt;Dilemma: automotive safety vs open source
-
-&lt;ul&gt;
-&lt;li&gt;excursion safety vs security&lt;/li&gt;
-&lt;li&gt;"Tyrant devices" &amp;amp; GPL3 vs safety&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://archive.fosdem.org/2014/schedule/event/safety_critical_devices/"&gt;that's old news btw&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Cars are sold for 8 years, last 15 years.  Does Linux?
-
-&lt;ul&gt;
-&lt;li&gt;leverage Layering, containers, kernel ABI stability, ... ?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="5050">Susanne Oberhauser-Hirschoff</person>
-          <person id="5384">Stefan Potyra</person>
+          <person id="5050">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="https://www.elektrobit.com/products/ecu/eb-corbos/linux/">https://www.elektrobit.com/products/ecu/eb-corbos/linux/</link>
-          <link href="https://video.fosdem.org/2018/H.2215/automotive_floss.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/automotive_floss.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6697.php">Submit feedback</link>
         </links>
       </event>
       <event id="6495">
-        <start>16:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>gasdotto</slug>
-        <title>GASdotto: a platform for ethical purchasing</title>
-        <subtitle>Matching freesoftware with ethical economy</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>transport</slug>
+        <title>Mapping public transport stops and lines using JOSM</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>transport</type>
         <language/>
-        <abstract>&lt;p&gt;Introduction to "ethical purchasing groups", presentation of the GASdotto application, and a call to extend the model in other countries.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;"Ethical purchasing groups" are an established reality in Italy: groups of people purchasing goods collectively, usually from local producers, to sustain local economy, pay a fair price, and obtain fresh and healthy products.
-GASdotto is a free and opensource web-based accounting application developed to manage their particular economic flow (quite different from an usual "e-commerce").
-The purpose of this talk is to inspire more people, especially outside Italy, to explore this purchasing model and to leverage the GASdotto platform for use in other countries.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Mapping public transport is not the easiest task to accomplish in OpenStreetMap.org. Therefore I mentored the creation of the PT_Assistant plugin as part of Google Summer of Code. This enables visualising the stops and the routes and gives validator warnings when problems are detected. Last summer the functionality was extended to bicycle and foot routes.&lt;/p&gt;</description>
         <persons>
-          <person id="4973">Roberto Guido</person>
+          <person id="4973">Jo Decock</person>
         </persons>
         <links>
-          <link href="http://gasdotto.net/">Main Website</link>
-          <link href="https://github.com/madbob/gasdottong">GASdotto on GitHub</link>
-          <link href="https://video.fosdem.org/2018/H.2215/gasdotto.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/gasdotto.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6495.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/mapping-public-transport-stops-and-lines-using-josm/">Website session link</link>
         </links>
       </event>
       <event id="6000">
-        <start>17:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>xwiki</slug>
-        <title>Addressing the long tail of applications</title>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>postgresql</slug>
+        <title>Intro to PostgreSQL / PostGIS</title>
         <subtitle/>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <track>Workshop 1</track>
+        <type>sql</type>
         <language/>
-        <abstract>&lt;p&gt;Every day we imagine some new apps we'd love to have: having an application to allow people to submit talks, to register new holiday requests, expense reports, simply get data from one site and combine it with data from another site and display that, etc. This is the &lt;a href="http://platform.xwiki.org/xwiki/bin/view/Main/SecondGenerationWiki"&gt;long tail of application&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However in most cases we just drop the idea and continue with our life because we know it would take days or weeks to be able to develop that quickly before you could reap the benefits.&lt;/p&gt;
-
-&lt;p&gt;What if there was a way to have these apps developed and working in just a few minutes!&lt;/p&gt;
-
-&lt;p&gt;We'll demonstrate how a next generation wiki platform allows to do just that by using the &lt;a href="http://xwiki.org"&gt;XWiki open source project&lt;/a&gt; as an example.&lt;/p&gt;</abstract>
+        <abstract>&lt;p&gt;Introduction to RDMS PostgreSQL, with specific topic related to PostGIS topic.&lt;/p&gt;
+        </abstract>
         <description></description>
         <persons>
-          <person id="1387">Vincent Massol</person>
+          <person id="1387">Besfort Guri</person>
+          <person id="1997">Dian Fishkeqi</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.2215/xwiki.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/xwiki.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6000.php">Submit feedback</link>
+          <link href="https://twitter.com/BGuri">Besfort's Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/intro-to-postgresql-postgis/">Website session link</link>
         </links>
       </event>
       <event id="6695">
-        <start>17:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>open_food_facts</slug>
-        <title>Open Food Facts: the wikipedia of food products</title>
-        <subtitle>What if you could freely analyse all the food and cosmetic products in the world?</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>leafletjs</slug>
+        <title>Web Development using LeafletJS</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>webdev</type>
         <language/>
-        <abstract>&lt;p&gt;Open Food Facts is a free, online and crowdsourced database of food products from around the world, licensed under the Open Database License (ODBL). It was launched in 2012, and today it is powered by 5000 contributors who have collected data and images for over 380 000 products in 178 countries.&lt;/p&gt;
-
-&lt;p&gt;Scan a product using your phone, take a picture, and you're already part of the Open Food Facts revolution !&lt;/p&gt;
-
-&lt;p&gt;In this talk we'll show how Open Food Facts leverages open source technologies such as Perl, MongoDB, Pastec.io, Android, Swift as well as the great power of communities to open data of public interest for health &amp;amp; science, as well as unforeseen applications in your daily life.&lt;/p&gt;
-
-&lt;p&gt;We will also introduce you to the recently launched Open Beauty Facts, for freeing your cosmetic cupboard: shampoos, toothpastes, lipsticks, etc.&lt;/p&gt;</abstract>
-        <description>&lt;h3&gt;How does it work?&lt;/h3&gt;
-
-&lt;p&gt;Using our Android or iPhone app, you can easily scan the barcode of products from your home or local stores, to either check them out at a glance (thanks to the decoding and comparison tools) or to contribute them by uploading pictures of their labels. The same can also be done from the website, where additional tools are available to fill in the product details from the labels, navigate the database based on various criteria, make statistics and chart visualisations, or access APIs and raw data to make your own tools and analyses.&lt;/p&gt;
-
-&lt;h3&gt;Open all the way&lt;/h3&gt;
-
-&lt;p&gt;Open Food Facts is developed and managed by a community of open source, open data and food enthusiasts and is organised as a non-profit association. All its creations are open:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the collected data is published as Open Data,&lt;/li&gt;
-&lt;li&gt;the software running the server(s) is open source and reusable (it was also used to create the Open Beauty Facts database),&lt;/li&gt;
-&lt;li&gt;the mobile applications are open source as well.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="5054">Anca Luca</person>
+          <person id="5054">Amanti Lulo</person>
         </persons>
         <links>
-          <link href="https://openfoodfacts.org">Open Food Facts Website</link>
-          <link href="https://openbeautyfacts.org">Open Beauty Facts Website</link>
-          <link href="https://github.com/openfoodfacts/">GitHub</link>
-          <link href="https://twitter.com/openfoodfacts">Twitter</link>
-          <link href="https://video.fosdem.org/2018/H.2215/open_food_facts.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/open_food_facts.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6695.php">Submit feedback</link>
+          <link href="https://twitter.com/AmantiLulo">Speaker Website</link>
+          <link href="https://oscal.openlabs.cc/sessions/web-development-using-leafletjs/">Website session link</link>
         </links>
       </event>
       <event id="6014">
-        <start>17:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>litops</slug>
-        <title>LitOps: literature-as-software</title>
-        <subtitle>Briging DevOps culture to the creation and production of books</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>git</slug>
+        <title>Deploy to Linux Server with Git</title>
+        <subtitle></subtitle>
+        <track>Workshop 2</track>
+        <type>server</type>
         <language/>
-        <abstract>&lt;p&gt;Book production, from inception to publication, is still very much trapped in writing-correction-production cycles that resemble how software was made much earlier. However, productivity would be very much increased if the writing-correction-publication would be taken a step (or two forward) to a continuous integration/continuous delivery DevOps-like environment where you define by software the whole pipeline a book is going to follow from writing to publication. LitOps is a transpiling of the DevOps culture to book production, using mainly software development tools, and rigging them so that you can produce and publish quality-checked books using as many automation tools as possible.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Although most arts make extensive use of automation tools, from textures in comic to automatic motion generation tools in 2 or 3-d animation, writing a book, whatever its class, technical or fiction, gives the word manuscript its full meaning, since the most advanced tool used is the spell and maybe grammar checker. This leads to long development cycles, with new editions published after long rewriting-edition-production cycles.
-Nowadays, authors can publish directly using a variety of places, from Leanpub to Kindle Direct Publishing, and there are all kind of tools available for doing that kind of thing. Still, this has not lead to fast production cycles where new editions are produced as soon as "bugs" are found and fixed and all formats are published at the same time.
-My personal history in this area started when I decided to write a book from the first line using GitHub. That lead to using continuous integration, and it kind of ballooned from here. Nowadays I have created a full automation suite, in Perl6 and Python, that produces "printed" versions (shortening and expanding URLs), checks for line bleeds, and produces several high-quality formats from a Markdown source; time from change to new publication-ready version takes a few seconds. The only thing missing is an API for publication sites that would allow to make an automatic deployment. However, even without that final steps, the LitOps concept that codifies book production pipelines using scripts, including error checks and the rest, actually might mean a sea change in how fiction and non-fiction is produced, using LitOps teams and adopting the rest of the patterns of the software industry: forking, hackathons and linting, and finally taking manuscripting to this century.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Git is one of the most commonly used tools to deploy files from your local machine to your remote machine/server. In this workshop we will introduce the steps needed to take in order to create a repository to our server so we can deploy from our local machine to our remote location by using git.&lt;/p&gt;</description>
         <persons>
-          <person id="1263">Juan Julián Merelo</person>
+          <person id="1263">Silvi Kolumçaj</person>
         </persons>
         <links>
-          <link href="http://github.com/JJ/1line-py">Repo for Python book produced using LitOps techniques</link>
-          <link href="http://github.com/JJ/perl6em">Perl6 book, with Perl6 tools for production</link>
-          <link href="https://video.fosdem.org/2018/H.2215/litops.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/litops.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6014.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/deploy-to-linux-server-with-git/">Website session link</link>
         </links>
       </event>
       <event id="6670">
-        <start>18:00</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>eu_bug_bounties</slug>
-        <title>EU-FOSSA 2</title>
-        <subtitle>OSS bug bounties sponsored by the EU</subtitle>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>workflow</slug>
+        <title>Git &amp; GitHub workflow for beginners</title>
+        <subtitle></subtitle>
+        <track>Workshop 2</track>
+        <type>github</type>
         <language/>
-        <abstract>&lt;p&gt;The EU-FOSSA project developed by European institutions is aiming at improving the security of Open Source Software. The next iteration of the project, EU-FOSSA 2, is continuing in 2017-2019 with a higher budget of 2.6 M€ and a novelty, the bug bounties. Information about the planning and status of the project will be given during this talk.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The EU-FOSSA project is aiming at improving the security of Open Source Software. The first iteration of the project was executed during 2015-2016. This project:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;developed a methodology to perform code reviews at the EU institutions,&lt;/li&gt;
-&lt;li&gt;performed an inventory of Open Source Software used in the European Commission,&lt;/li&gt;
-&lt;li&gt;reviewed code of Apache HTTP Server Core and KeePass, with the help of an external company.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;In the new iteration of the project, running during 2017-2019 with a total budget of 2.6 M€, we explore the possibility of using public money to fund bug bounties. This way the European institutions intend to improve the security of major Open Source Software to reduce the risk of a new major incident like Heartbleed. We also intend to convince everyone that this should become a permanent activity of the European Union.&lt;/p&gt;
-
-&lt;p&gt;We are also planning other activities, like more active communication and direct collaboration with open source communities. The peak of activities is expected during Q3/2018 - Q2/2019. The timing of FOSDEM18 is a perfect opportunity to inform everyone interested in the project about the status and the activities planned.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;An Intro to Git and GitHub for beginners, explaining git and some git commands. Also, what are branches, what is a fork, how to sync forks, how to set up Travis CI on your own fork etc?&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4056">Marek Przybyszewski</person>
+          <person id="4056">Xheni Myrtaj</person>
         </persons>
         <links>
-          <link href="https://joinup.ec.europa.eu/collection/eu-fossa">Project home page on Joinup</link>
-          <link href="http://ted.europa.eu/TED/notice/udl?uri=TED:NOTICE:280411-2017:TEXT:EN:HTML">Prior Information Notice - upcoming Call for Tenders</link>
-          <link href="https://video.fosdem.org/2018/H.2215/eu_bug_bounties.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/eu_bug_bounties.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6670.php">Submit feedback</link>
+          <link href="https://twitter.com/xh3n1">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/git-github-workflow-for-beginners/">Website session link</link>
         </links>
       </event>
       <event id="6672">
@@ -9729,7 +9246,7 @@ other projects, since Kernel and U-Boot integration are already existing.&lt;/p&
         <title>Global Diversity CFP Day</title>
         <subtitle>Advance registration needed.</subtitle>
         <track>Global Diversity CFP Day</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;On Saturday 3rd February 2018 there will be numerous workshops hosted around the globe encouraging and advising newbie speakers to put together your very first talk proposal and share your own individual perspective on any subject of interest to people in tech. Mozilla and the Mozilla TechSpeakers will bring this global event to Brussels during the first day of FOSDEM, and during the workshop will also provide CFP help and mentoring to any of the FOSDEM participants.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;&lt;a href="https://www.globaldiversitycfpday.com/"&gt;Global Diversity CFP Day&lt;/a&gt; is an event happening across the globe, simultaneously in 40+ cities on the 3rd of February. The &lt;a href="https://www.globaldiversitycfpday.com/events/50"&gt;Brussels event&lt;/a&gt; is organized at FOSDEM as the libre conference/community gathering and the GDCFPDay dates coincide happening on the same weekend. The Brussels event is organized by the Mozilla TechSpeakers, a community program by Mozilla for empowering and improving the skills of community public speakers in Mozilla's open-source community.&lt;/p&gt;
@@ -9788,16 +9305,16 @@ other projects, since Kernel and U-Boot integration are already existing.&lt;/p&
     </room>
   </day>
   <day index="2" date="2018-02-04">
-    <room name="Janson">
+    <room name="Pyramid">
       <event id="6158">
         <start>10:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>sancus</slug>
         <title>Sancus 2.0: Open-Source Trusted Computing for the IoT</title>
         <subtitle/>
         <track>Security and Encryption</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;I will talk about Trusted Computing, what it can do, where the limitations are, and why we need trusted computing architectures to be open-source. Special emphasis will be on the Sancus architecture, which brings Trusted Computing to embedded domains such as the IoT or safety-critical control systems.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;An important but often neglected safety aspect of our society's critical infrastructure involves the security of embedded software in contexts such as the Internet of Things, smart cities or the smart grid.  In this talk I will present an approach to the security-conscious design of embedded control systems.  Our work is based on Sancus, a lightweight Trusted Computing platform and Protected Module Architectures (PMA, think of Intel SGX, but for 16-bit MCUs) and guarantees authenticity, integrity and confidentiality properties of event-driven distributed embedded applications.&lt;/p&gt;
@@ -9814,20 +9331,20 @@ establish trust in the platform and in systems built on top of it.&lt;/p&gt;</de
         <links>
           <link href="https://distrinet.cs.kuleuven.be/software/sancus/">Sancus Website</link>
           <link href="https://github.com/sancus-pma">Sancus on Github</link>
-          <link href="https://video.fosdem.org/2018/Janson/sancus.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/sancus.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/sancus.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/sancus.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/6158.php">Submit feedback</link>
         </links>
       </event>
       <event id="6061">
         <start>11:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>tpm</slug>
         <title>Using TPM 2.0 As a Secure Keystore on your Laptop</title>
         <subtitle>It's not as difficult as you think!</subtitle>
         <track>Security and Encryption</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;For decades, all laptops have come with a TPM.  Now with Microsoft forcing the transition to the next generation, Linux faces a challenge in that all the previous TPM 1.2 tools don't work with 2.0.  Having to create new tools for TPM 2.0 also provides the opportunity to integrate the TPM more closely into our current crypto systems and thus give Linux the advantage of TPM resident and therefore secure private keys.  This talks will provide the current state of play in using TPM 2.0 in place of crypto sticks and USB keys for secure key handling; including the algorithm agility of TPM 2.0 which finally provides a support for Elliptic Curve keys which have become the default recently.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;This talk will provide an overview of current TSS (Trusted computing group Software Stack) for TPM 2.0 implementation on Linux, including a discussion of the two distinct Intel and IBM stacks with their relative strengths and weaknesses.  We will then move on to integration of the TSS into existing crypto system implementations that allow using TPM resident keys to be used with common tools like openssl, gnutls, gpg, openssh and gnome-keyring.  We will report on the current state of that integration including demonstrations of how it works and future plans.  The ultimate goal is to enable the seamless use of TPM resident keys in all places where encrypted private keys are currently used, thus increasing greatly the security posture of a standard Linux desktop.&lt;/p&gt;</description>
@@ -9840,20 +9357,20 @@ establish trust in the platform and in systems built on top of it.&lt;/p&gt;</de
           <link href="https://build.opensuse.org/project/show/home:jejb1:TPM">Current build repository for experimental Linux TPM2 cryptosystem integration</link>
           <link href="http://www.hansenpartnership.com/Impress-Slides/FOSDEM-2018">Presentation</link>
           <link href="https://git.kernel.org/pub/scm/linux/kernel/git/jejb/openssl_tpm2_engine.git/">OpenSSL Engine for TPM 2.0</link>
-          <link href="https://video.fosdem.org/2018/Janson/tpm.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/tpm.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/tpm.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/tpm.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/6061.php">Submit feedback</link>
         </links>
       </event>
       <event id="6130">
         <start>12:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>cryptsetup</slug>
         <title>Data integrity protection with cryptsetup tools</title>
         <subtitle>what is the Linux dm-integrity module and why we extended dm-crypt to use authenticated encryption</subtitle>
         <track>Security and Encryption</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;The talk describes the architecture of data integrity protection with cryptsetup on Linux systems and the following steps that need to be achieved to have encrypted block-level authenticated storage.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;The full disk encryption is a well-known way to achieve confidentiality of data. Unfortunately, it usually does not provide any integrity protection of data because of its length-preserving nature (plaintext is the same size as ciphertext; there is no space for data integrity tags).
@@ -9865,20 +9382,20 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         </persons>
         <links>
           <link href="https://gitlab.com/cryptsetup/cryptsetup">Cryptsetup upstream</link>
-          <link href="https://video.fosdem.org/2018/Janson/cryptsetup.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/cryptsetup.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/cryptsetup.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/cryptsetup.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/6130.php">Submit feedback</link>
         </links>
       </event>
       <event id="6070">
         <start>13:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>monero</slug>
         <title>Inside Monero</title>
         <subtitle>The world's first fungible cryptocurrency</subtitle>
         <track>Security and Encryption</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;While many in the tech industry are familiar with Bitcoin and the many altcoins that have forked off its code base, fewer are aware of Monero. Monero is evolved from CryptoNote, which is a completely independent code base from Bitcoin emphasizing privacy as opposed to Bitcoin's transparent blockchain. Like Bitcoin, Monero is fully open source. The project is driven entirely by volunteers. The Monero team has developed further innovations over the CryptoNote code base making it the most private cryptocurrency ever, and the first in the world with true fungibility.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;The talk includes a brief introduction to cryptocurrencies and their strengths and weaknesses. The main point of the talk is the additional features Monero has incorporated to preserve privacy and the consequences of using non-private cryptocoins.&lt;/p&gt;</description>
@@ -9886,20 +9403,20 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
           <person id="1508">Howard Chu</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/monero.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/monero.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/monero.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/monero.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/6070.php">Submit feedback</link>
         </links>
       </event>
       <event id="6301">
         <start>14:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>security_theatre</slug>
         <title>Security Theatre</title>
         <subtitle>The (mostly) unknown OSI Layer 8</subtitle>
         <track>Security and Encryption</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Security is but a feeling. A feeling that the admin has when he's leaving at beer o'clock. And mostly the biggest risks for the assets he has to protect are not of technical nature.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;This talk is full of examples, findings and revelations of twenty years of training, consulting, and being an investigative journalist. From passwords to Kerberos servers, from VPNs to the Dark net and anonymity, the hack in the German Bundestag and why it will happen again. Why Google is afraid, why modern hardware sucks, why most VPN services are not worth a cent. How to circumvent the great firewall of China. Eight years in Journalism have given me lots of anecdotes to tell.&lt;/p&gt;
@@ -9909,8 +9426,8 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
           <person id="4839">Markus Feilner</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/security_theatre.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/security_theatre.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/security_theatre.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/security_theatre.webm">Video recording (WebM/VP9)</link>
           <link href="http://www.feilner-it.net/files/Julia%20FOSDEM%202018.mov">MdEP Julia Reda to the Geeks</link>
           <link href="https://submission.fosdem.org/feedback/6301.php">Submit feedback</link>
         </links>
@@ -9918,12 +9435,12 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
       <event id="6077">
         <start>15:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>satnogs</slug>
         <title>SatNOGS: Crowd-sourced satellite operations</title>
         <subtitle>Satellite Open Source Ground Station Network</subtitle>
         <track>Space</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;An overview of the SatNOGS project, a network of satellite ground station around the world, optimized for modularity, built from readily available and affordable tools and resources.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;We love satellites! And there are thousands of them up there. SatNOGS provides a scalable and modular platform to communicate with them. Low Earth Orbit (LEO) satellites are our priority, and for a good reason. Hundreds of interesting projects worth of tracking and listening are happening in LEO and SatNOGS provides a robust platform for doing so. We support VHF and UHF bands for reception with our default configuration, which is easily extendable for transmission and other bands too.&lt;/p&gt;
@@ -9934,20 +9451,20 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         </persons>
         <links>
           <link href="https://satnogs.org/">website</link>
-          <link href="https://video.fosdem.org/2018/Janson/satnogs.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/satnogs.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/satnogs.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/satnogs.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/6077.php">Submit feedback</link>
         </links>
       </event>
       <event id="6068">
         <start>16:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>upsat</slug>
         <title>The story of UPSat</title>
         <subtitle>Building the first open source software and hardware satellite</subtitle>
         <track>Space</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;During 2016 Libre Space Foundation a non-profit organization developing open source technologies for space, designed, built and delivered UPSat, the first open source software and hardware satellite.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;The presentation will be covering the short history of Libre Space Foundation, our previous experience on upstream and midstream space projects, how we got involved in UPSat, the status of the project when we got involved, the design, construction, verification, testing and delivery processes. We will also be covering current status and operations, contribution opportunities and thoughts about next open source projects in space. During the presentation we will be focusing also on the challenges and struggles associated with open source and space industry.&lt;/p&gt;</description>
@@ -9956,15 +9473,15 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         </persons>
         <links>
           <link href="https://upsat.gr">UPSat website</link>
-          <link href="https://video.fosdem.org/2018/Janson/upsat.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/upsat.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/upsat.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/upsat.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/6068.php">Submit feedback</link>
         </links>
       </event>
       <event id="7324">
         <start>17:00</start>
         <duration>00:50</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>closing_keynote</slug>
         <title>Exploiting modern microarchitectures</title>
         <subtitle>Meltdown, Spectre, and other hardware attacks</subtitle>
@@ -9979,15 +9496,15 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
           <person id="1089">Jon Masters</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/closing_keynote.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/closing_keynote.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/closing_keynote.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/closing_keynote.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/7324.php">Submit feedback</link>
         </links>
       </event>
       <event id="7315">
         <start>17:50</start>
         <duration>00:10</duration>
-        <room>Janson</room>
+        <room>Pyramid</room>
         <slug>closing_fosdem</slug>
         <title>Closing FOSDEM 2018</title>
         <subtitle/>
@@ -10000,8 +9517,8 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
           <person id="6">FOSDEM Staff</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/Janson/closing_fosdem.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/Janson/closing_fosdem.webm">Video recording (WebM/VP9)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/closing_fosdem.mp4">Video recording (mp4)</link>
+          <link href="https://video.fosdem.org/2018/Pyramid/closing_fosdem.webm">Video recording (WebM/VP9)</link>
           <link href="https://submission.fosdem.org/feedback/7315.php">Submit feedback</link>
         </links>
       </event>
@@ -10015,7 +9532,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>Cyborg Teams</title>
         <subtitle>Training machines to be Open Source contributors</subtitle>
         <track>Miscellaneous</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;A purely human team does not scale past a certain complexity point. In the Cockpit project we’ve done something amazing: We’ve built a team that’s part human and part machine working on an Open Source project.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;In the Cockpit project we’ve done something amazing: We’ve built a team that’s part human and part machine working on an Open Source project. “Cockpituous”, our project’s #5 commit contributor, is actually our automated team members.&lt;/p&gt;
@@ -10042,7 +9559,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>Running Android on the Mainline Graphics Stack</title>
         <subtitle/>
         <track>Miscellaneous</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Finally, it is possible to run Android on top of mainline Graphics! The recent addition of DRM Atomic Modesetting and Explicit Synchronization to the kernel paved the way, albeit some changes to the Android userspace were necessary.&lt;/p&gt;
 
@@ -10069,7 +9586,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>Re-structuring a giant, ancient code-base for new platforms</title>
         <subtitle>Making LibreOffice work well everywhere.</subtitle>
         <track>Miscellaneous</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Come and hear how LibreOffice is meeting the challenges of new platforms both hardware and software, adapting to new constraints &amp;amp; shining.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;LibreOffice has faced a lot of challenges recently, from hardware providing ever more threading resource to the need to provide an online version in the browser. These bring some interesting solutions.&lt;/p&gt;
@@ -10096,7 +9613,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>OpenADx – xcelerate your Automated Driving development</title>
         <subtitle>Leveraging open collaboration and open source to accelerate development of Automated Driving</subtitle>
         <track>Community</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;The Bosch Automated Driving division faces among many the challenge that the toolchain for developing automated driving solutions becomes more complex by every level of automation. Well established tools are not well integrated for the use cases needed and it is easy to detect gaps in the overall toolchain for dedicated tasks. Instead of solving these challenges alone, wasting lots of money on the path, the Bosch division together with partners from the industry but also from other domains builds up a community to solve the toolchain challenge together in the OpenADx initiative. With this the partners expect a substantial saving on toolchain costs but also a better integration within organization and especially at the interfaces between cooperating organizations. This talk will present the approach and the current state of the community.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;Automated driving solutions introduce a new complexity into the development of embedded systems in a car. This complexity rises with each level of control and autonomy of the automated driving systems. New tool categories have to be added like machine learning, but also existing technologies, like simulation, are stretched to their current limits. E.g., it is expected that the validation of a fully automated driving solution requires to do test drives in the amount of millions of kilometers. This results in the need for very complex simulation as part of the validation as well as the handling of extensive amounts of data in order to ensure quality at a realizable effort.&lt;/p&gt;
@@ -10127,7 +9644,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>Why I forked my own project and my own company</title>
         <subtitle>ownCloud to Nextcloud</subtitle>
         <track>Community</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;This talk will describe the reasons why ownCloud was founded as an open source project. The good and bad things when it was turned into a venture capital founded company, the thing that Frank and the core team does differently with Nextcloud and how the business model, licensing and community relations improved.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;Frank Karlitschek founded the ownCloud open source project in 2010 and co-founded a company named ownCloud Inc. late 2012. After being the maintainer for over 6 years and CTO of ownCloud Inc. for over 4 years Frank decided to start over. Leave his own project and company to create a fork called Nextcloud. This talk will describe the reasons why ownCloud was founded as an open source project. The good and bad things when it was turned into a centure capital based company, the thing that Frank and the core team want to do differently with Nextcloud and how the business model, licensing and community relations improved. This talk covers insights into different open source business models and how to create a win win situation for a company and a community.&lt;/p&gt;</description>
@@ -10148,7 +9665,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>Sustainability of Open Source in International Development</title>
         <subtitle>A new approach from the United Nations Foundation</subtitle>
         <track>Community</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Today’s global climate of international development funding cuts, along with growing challenges in sustainability of FOSS projects generally, means we need to focus on co-investment in shared resources for those projects -- the mission of the DIAL Open Source Center.&lt;/p&gt;
 
@@ -10193,7 +9710,7 @@ We will also shortly introduce new LUKS2 on-disk format that is designed to inte
         <title>AMENDMENT Community &amp; Business</title>
         <subtitle>Two worlds, one galaxy</subtitle>
         <track>Community</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;While open source software thrives with a community, a community also thrives from business. Open source is simply a way of doing things, providing transparency and other key factors such as the ability to modify its functionality. This talk provides insight for communities and how an open source project can really develop itself into a profitable project (not just fiscally).&lt;/p&gt;</abstract>
         <description>&lt;p&gt;Open source projects do well rooting their funding backends from corporations which deliver enterprise-level support and more. Basically most meaningful software projects in the open source world has some company in the back, delivering true value also back to the project itself.
@@ -10217,7 +9734,7 @@ Based on the example of Kopano and its community as a great community with a tru
         <title>AMENDMENT So you think you can validate email addresses</title>
         <subtitle>A journey down RFC5321</subtitle>
         <track>Miscellaneous</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Too often, developers think they know the right way to validate email addresses, which often leads to bad UX and frustrated users whose legitimate addresses are not accepted. This presentation will show you your true level of email validation skill via a simple and fun quiz, whose accuracy often approaches that of Cosmo quizzes.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;You think you know how to validate email addresses? You don't.&lt;/p&gt;
@@ -14029,7 +13546,7 @@ GStreamer project itself and for GStreamer application and plugin development.&l
         <track>BOFs (Track A - in H.3227)</track>
         <type>bof</type>
         <language/>
-        <abstract>&lt;p&gt;Meet and greet for blockchain developers.  (Follows the talk on Monero in Janson.)&lt;/p&gt;</abstract>
+        <abstract>&lt;p&gt;Meet and greet for blockchain developers.  (Follows the talk on Monero in Pyramid.)&lt;/p&gt;</abstract>
         <description></description>
         <persons>
           <person id="4828">Martin Bähr</person>
@@ -15197,11 +14714,11 @@ ARTIK 055s.&lt;/p&gt;
 &lt;p&gt;From this talk audience will take away an understanding of the privacy concerns related to IoT, and how they may be putting their personal information at risk by connecting my physical entities to the internet. Is it really safe to connect things to the internet?&lt;/p&gt;</abstract>
         <description>&lt;p&gt;Talk Structure:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;General Discussion on What Is IoT and its future 
+&lt;pre&gt;&lt;code&gt;General Discussion on What Is IoT and its future
 
-The pros and cons of connecting things to the internet 
+The pros and cons of connecting things to the internet
 
-How exploiters can breach the security and know our lifestyles 
+How exploiters can breach the security and know our lifestyles
 
  With a smart home rigged with cameras, can provide an intruder with victims' various details including lifestyles and visible passwords.That might result in identity theft with all the access codes including the biotech passwords.
 
@@ -16315,7 +15832,7 @@ and manage the lifetime of the generated code.&lt;/p&gt;
 
 &lt;p&gt;  int foo(int a) {&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;// compile a specialized version of baz 
+&lt;pre&gt;&lt;code&gt;// compile a specialized version of baz
 auto baz_2 = easy::jit(baz, _1, 2); // mimics std::bind
 return baz_2(a); // run !
 &lt;/code&gt;&lt;/pre&gt;
@@ -16406,15 +15923,15 @@ metadata to have introspection on structures.&lt;/p&gt;
 &amp;gt;&amp;gt;&amp;gt; lib.cdef("#include &amp;lt;stdio.h&amp;gt;", ["puts"])
 &amp;gt;&amp;gt;&amp;gt; lib.puts("Hello world!")
 Hello world!
-&amp;gt;&amp;gt;&amp;gt; lib.compile("int foo(int a) { puts("hi!"); return a+1; }") 
+&amp;gt;&amp;gt;&amp;gt; lib.compile("int foo(int a) { puts("hi!"); return a+1; }")
 &amp;gt;&amp;gt;&amp;gt; lib.foo(4)
-hi! 
-5   
-&amp;gt;&amp;gt;&amp;gt; lib.cdef("struct A { int a; short b; }") 
+hi!
+5
+&amp;gt;&amp;gt;&amp;gt; lib.cdef("struct A { int a; short b; }")
 &amp;gt;&amp;gt;&amp;gt; C = lib.A(a=4,b=5)
 &amp;gt;&amp;gt;&amp;gt; print(C.a,C.b)
-4,5 
-&amp;gt;&amp;gt;&amp;gt; lib.compile('void dump(struct A* obj) { printf("From C: %d %d\n", obj-&amp;gt;a, obj-&amp;gt;b"); }') 
+4,5
+&amp;gt;&amp;gt;&amp;gt; lib.compile('void dump(struct A* obj) { printf("From C: %d %d\n", obj-&amp;gt;a, obj-&amp;gt;b"); }')
 &amp;gt;&amp;gt;&amp;gt; lib.dump(C)
 From C: 4, 5
 &lt;/code&gt;&lt;/pre&gt;
@@ -20184,7 +19701,7 @@ This session will not go into a legal discussion but will be focused on technica
         <title>Mozilla TechSpeakers CFP-help</title>
         <subtitle>Drop-in session.  All welcome.</subtitle>
         <track>Global Diversity CFP Day</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Ask Mozilla TechSpeakers your public speaking, conference- and CFP (call-for-proposals)-related questions at the Mozilla booth, hear some tips &amp;amp; tricks about public speaking and some inspiration for nailing your next conference submission.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;Cannot make it to the &lt;a href="https://www.globaldiversitycfpday.com/events/50"&gt;Global Diversity CFP Day Brussels workshop&lt;/a&gt;? Or do you simply want to ask a few questions about public speaking or writing conference proposals? Drop by the Mozilla booth on Sunday, February 4 at FOSDEM between 10:00-12:00 and 14:00-16:00 and as talk to some seasoned veteran Mozilla TechSpeakers about public speaking, or ask them questions about public speaking/cfp-s in general or your talk (idea).&lt;/p&gt;</description>
@@ -20206,7 +19723,7 @@ This session will not go into a legal discussion but will be focused on technica
         <title>Mozilla TechSpeakers CFP-help</title>
         <subtitle>Mozilla Booth drop-in session. All welcome.</subtitle>
         <track>Global Diversity CFP Day</track>
-        <type>maintrack</type>
+        <type>Talk 1</type>
         <language/>
         <abstract>&lt;p&gt;Ask Mozilla TechSpeakers your public speaking, conference- and CFP (call-for-proposals)-related questions at the Mozilla booth, hear some tips &amp;amp; tricks about public speaking and some inspiration for nailing your next conference submission.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;Cannot make it to the &lt;a href="https://www.globaldiversitycfpday.com/events/50"&gt;Global Diversity CFP Day Brussels workshop&lt;/a&gt;? Or do you simply want to ask a few questions about public speaking or writing conference proposals? Drop by the Mozilla booth on Sunday, February 4 at FOSDEM between 14:00-16:00 and as talk to some seasoned veteran Mozilla TechSpeakers about public speaking, or ask them questions about public speaking/cfp-s in general or your talk (idea).&lt;/p&gt;</description>

@@ -28,4 +28,18 @@ export default {
     }
   },
 
+  actions: {
+  showZoomTip ({commit, state, dispatch}) {
+    if (!state.zoomTipShown) {
+      dispatch('showNotification', {
+        message: 'Click on a building to zoom in',
+        color: 'info',
+        timeout: 10000
+      })
+      commit('setZoomTipShown', true)
+    }
+  }
+}
+
+
 }
