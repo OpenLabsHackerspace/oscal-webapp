@@ -8,7 +8,7 @@ export default {
       'AW': new Building({name: 'AW'}),
       'U': new Building({name: 'U'}),
       'Protik': new Building({name: 'Protik'}),
-      'P': new Building({name: 'Pyramid'})
+      'Pyramid': new Building({name: 'Pyramid'})
     },
 
     zoomTipShown: false

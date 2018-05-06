@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview11621"
      showgrid="false"
      inkscape:zoom="1.8101934"
-     inkscape:cx="98.519661"
+     inkscape:cx="170.61141"
      inkscape:cy="206.5111"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -8496,7 +8496,7 @@
       <a
          transform="translate(0,74.999999)"
          target="_parent"
-         xlink:href="/#/map/P"
+         xlink:href="/#/map/Pyramid"
          id="a12522">
         <path
            style="fill:#d9cfc7;fill-opacity:1;fill-rule:evenodd;stroke:#ea272b;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
