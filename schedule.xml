@@ -513,7 +513,7 @@ and openness. The internet age in which we are living and the fast adoption of d
         <subtitle></subtitle>
         <track>Talk 2</track>
         <type>wikimedia</type>
-        <language/>
+        <language>Albanian</language>
         <abstract></abstract>
         <description>&lt;p&gt;My first edit, how I started, what worked . How i started to edit, what i got from it and how i managed to be one of the wikipedians with most edits.&lt;/p&gt;
         &lt;p&gt;We want to let you know this talk is in Albanian only.&lt;/p&gt;
@@ -786,946 +786,621 @@ and openness. The internet age in which we are living and the fast adoption of d
         </links>
       </event>
       <event id="6672">
-        <start>18:20</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>open_source_finance</slug>
-        <title>Tips &amp; Tricks to finance an Open Source Project without selling your soul</title>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>ipfs</slug>
+        <title>Building web applications using IPFS</title>
         <subtitle/>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <track>Workshop 2</track>
+        <type>webdev</type>
         <language/>
-        <abstract>&lt;p&gt;In this lightning talk the objective is to share actual implemented ideas that have helped financed the XWiki and Cryptpad open source projects without external capital. For now 14 years, XWiki has been able to self finance writing Open Source code and sharing it with the community. We will quickly share what has worked or not, what has proven difficult, what is tricky in order to keep the Open spirit and what has been miraculous !&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this lightning talk the objective is to share actual implemented ideas that have helped financed the XWiki and Cryptpad open source projects without external capital. For now 14 years, XWiki has been able to self finance writing Open Source code and sharing it with the community. We will quickly share what has worked or not, what has proven difficult, what is tricky in order to keep the Open spirit and what has been miraculous !&lt;/p&gt;
-
-&lt;p&gt;XWiki is and Open Source software created 14 years ago by Ludovic Dubost and developed under the LGPL licence. The XWiki software is used by thousands of companies to help them organize information. CryptPad, created by the XWiki team in 2016, is a realtime encrypted pad allowing to share information without exposing your content to your cloud provider. These software have been possible by finding ways to have the XWiki team paid to write open source software, which we will share in this lightning talk.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open. &lt;/p&gt;</abstract>
+        <description>&lt;p&gt;The current protocol the web uses, HTTP, is facing some limitations. With more of the world online, bandwidth and latency are becoming issues. The web is getting slower. In terms of data permanence HTTP links get deleted all the time. Imagine if someone could delete all wikipedia database. All the data would be lost. Centralization is also an issue, a few companies owning a huge amount of the data.&lt;/p&gt;
+        &lt;p&gt;This can all change through IPFS, which offer a decentralized system of navigating the web. In this workshop we will explain what IPFS is, how is could help us make the web faster and decentralized and how could we use it by building a small application.&lt;/p&gt;</description>
         <persons>
-          <person id="2113">Ludovic Dubost</person>
+          <person id="2113">Renato Selenica</person>
         </persons>
         <links>
-          <link href="http://www.xwiki.org">XWiki</link>
-          <link href="https://cryptpad.fr">Cryptpad</link>
-          <link href="https://video.fosdem.org/2018/H.2215/open_source_finance.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/open_source_finance.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6672.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/building-web-applications-using-ipfs/">Website session link</link>
         </links>
       </event>
       <event id="6721">
-        <start>18:40</start>
-        <duration>00:15</duration>
-        <room>H.2215 (Ferrer)</room>
-        <slug>fossology</slug>
-        <title>FOSSology - OSS Project for License Compliance</title>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
         <subtitle/>
-        <track>Lightning Talks</track>
-        <type>lightningtalk</type>
+        <track>Workshop 2</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;FOSSology is a popular tool for the end-to-end analysis of software components in a single Web server application. It can scan source code for: a) License information, b) Copyright notices, c) Export control relevant statements. It makes software analysis more efficient by offering high precision, greatly reducing overhead costs. FOSSology lets users generate compliance documentation according to the organization's needs, in a variety of data formats, emphasizing SPDX tag-value and RDF documents.&lt;/p&gt;
-
-&lt;p&gt;FOSSology is Open Source Software licensed under GPL-2.0 and a Linux Foundation collaboration project. In the past year, FOSSology has improved in many areas such as reporting, license management and data exchange capabilities. This talk provides and update about The SPDX Import and Export Functionality.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;License proliferation, the growing number of open source components and the heterogeneity within large open source components require thorough license analysis. Text or regular expression scanners are often not enough to get a precise picture of the licensing situation. Precise license analysis can occur when legal cases arise as well as when important product decisions must be made. The trade-off is the effort to invest in order to achieve a precise analysis.&lt;/p&gt;
-
-&lt;p&gt;FOSSology is a component analysis for license, copyright and ECC statements analysis, offering a high recognition precision. It allows for capturing exact license text wording for SPDX reporting. At the same time, aggregated views provide efficiency. Automation functionality enables effective workflows. Most recent points are the SPDX export functionality and the recently added the SPDX import.&lt;/p&gt;
-
-&lt;p&gt;FOSSology is an open source project since 2008, originally contributed by HP. It is licenses under the GPL-2.0 and is freely available for all, companies, organization and open source projects.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="3904">Michael Jaeger</person>
-          <person id="5401">Maximilian Huber</person>
+          <person id="3904">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="http://www.fossology.org">Project Website</link>
-          <link href="http://github.com/fossology/fossology">Github Website</link>
-          <link href="https://video.fosdem.org/2018/H.2215/fossology.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.2215/fossology.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6721.php">Submit feedback</link>
         </links>
       </event>
-    </room>
-    <room name="H.1301 (Cornil)">
       <event id="6283">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>dpdk_microservices</slug>
-        <title>The path to Data-plane micro-services</title>
-        <subtitle>Software defined network functions are changing!</subtitle>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title>Community meetup: Girls in open source</title>
+        <subtitle></subtitle>
+        <track>Workshop 2</track>
+        <type>meetups</type>
         <language/>
-        <abstract>&lt;p&gt;Embracing containers and micro-services with their scaling model and resiliency is the new frontier in software packet processing.
-This talk will describe the reasons, the challenges and opportunities of this trend.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;DPDK revolutionized software packet processing initially for discrete appliances and then for Virtual Network Functions.
-Containers and micro-services technologies are extensively used as a means to scale up and out in the Cloud.&lt;/p&gt;
-
-&lt;p&gt;Containers and micro-services now include Comms Service Providers among their advocates, and embracing these technologies with their scaling model and resiliency is the new frontier in software packet processing.
-However there are challenges in decomposing Software Network Functions into Data-plane Micro-Services.&lt;/p&gt;
-
-&lt;p&gt;This talk will describe:-
-1. The challenges of enabling robustness and scaling, while still meeting data-plane performance goals.
-2. The use cases, the trends and the timelines.
-3. The enabling work to date in DPDK and FD.io VPP, and the next steps.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4661">Ray Kinsella</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/dpdk_microservices.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/dpdk_microservices.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6283.php">Submit feedback</link>
         </links>
       </event>
       <event id="6393">
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>opendaylight</slug>
-        <title>OpenDaylight as a Platform for Network Programmability</title>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title>Community meetup: Meet the Fedora community</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Workshop 2</track>
+        <type>meetups</type>
         <language/>
-        <abstract>&lt;p&gt;Software Defined Networking (SDN) may have started as the separation of the control plane and the data plane, but the true power lies in the ability to communicate with the network through well defined interfaces using standard protocols. This session provides a brief intro to SDN in general, and more specifically to OpenDaylight, an open source platform for programmable SDN. Next we dive into network programmability, including why we need it and the role of NETCONF, YANG, and RESTCONF.  Then we put the theory into practice as we install OpenDaylight as use it a platform for programming a sample network.&lt;/p&gt;</abstract>
+        <abstract></abstract>
         <description></description>
         <persons>
-          <person id="3782">Charles Eckel</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/opendaylight.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/opendaylight.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6393.php">Submit feedback</link>
         </links>
       </event>
       <event id="6083">
-        <start>11:30</start>
-        <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>ligato</slug>
-        <title>Ligato: a platform for development of cloud-native VNFs</title>
-        <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title> Community meetup: Albanian Wikipedia Community Discussion</title>
+        <subtitle>Part 1</subtitle>
+        <track>Workshop 2</track>
+        <type>meetups</type>
         <language/>
-        <abstract>&lt;p&gt;The talk will present Ligato - an open source platform for creating cloud-native VNFs. We will give the motivation and background for developing Ligato, describe its the architecture, and provide examples or real-world use cases. We will compare the performance and scale of Ligato-based VNF deployments with performance and scale of VNFs deployed in other environments, such as OpenStack.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;A virtual network function (or VNF), as commonly known today, is a software implementation of a network function that runs on one or more virtual machines (VMs) on top of the hardware networking infrastructure — routers, switches, etc. Individual virtual network functions can be connected or combined together as building blocks to offer a full-scale networking communication service. A VNF may be implemented as standalone entity using existing networking and orchestration paradigms - for example being managed through CLI, SNMP or Netconf. Alternatively, an NFV may be a part of an SDN architecture, where the control plane resides in an SDN controller and the data plane is implemented in the VNF.&lt;/p&gt;
-
-&lt;p&gt;A cloud-native VNF is a VNF designed for the emerging cloud environment - it runs in a container rather than a VM, its lifecycle is orchestrated by a container orchestration system, such as Kubernetes, and it's using cloud-native orchestration paradigms. In other words, its control/management plane looks just like any other container based 12-factor app. to orchestrator or external clients it exposes REST or gRPC APIs, data stored in centralized KV data stores, communicate over message bus, cloud-friendly logging and config, cloud friendly build &amp;amp; deployment process, etc., Depending on the desired functionality, scale and performance, a cloud- native VNF may provide a high-performance data plane, such as the VPP.&lt;/p&gt;
-
-&lt;p&gt;Ligato (https://github.com/ligato) is a Golang platform for building cloud-native microservices. Although it was originally intended for development/implementation of custom management/control plane agents for cloud-native Virtual Network Functions (VNFs), it can be used to develop any microservice. Each management/control plane app built on top of the CN-Infra platform is basically a set of modules called "plugins", where each plugin provides a very specific/focused functionality. Some plugins are provided by the platform itself, some are written by the app's implementors. In other words, the Ligato platform itself is implemented as a set of plugins that together provide the platform's functionality, such as logging, health checks, messaging (e.g. Kafka), a common front-end API and back-end connectivity to various KV data stores (Etcd, Cassandra, Redis, ...), and REST and gRPC APIs.&lt;/p&gt;
-
-&lt;p&gt;The platform is modular and extensible. Plugins supporting new functionality (e.g. another KV store or another message bus) can be easily added to the existing set of Ligato platform plugins. Moreover, Ligato based apps can be built in layers: a set of app plugins together with platform plugins can form a new platform providing APIs/services to higher layer apps. This approach was used to create a management/control plane agent for VPP (https://FD.io). The VPP Agent is basically a set of VPP-specific plugins that use the core Ligato platform to interact with other services / microservices in the cloud (e.g. a KV data store, messaging, log warehouse, etc.). The VPP Agent exposes VPP functionality to client apps via a VPP-specific model-driven API. Clients that consume this API may be either external (connecting to the VPP Agent via REST, gRPC API, Etcd or message bus transport), or local Apps and/or Extension plugins running on the same CN-Infra platform in the same Linux process.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4690">Jan Medved</person>
         </persons>
         <links>
-          <link href="https://github.com/ligato">Ligato github repository</link>
-          <link href="https://fd.io">FD.io (VPP) home page</link>
-          <link href="https://video.fosdem.org/2018/H.1301/ligato.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/ligato.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6083.php">Submit feedback</link>
         </links>
       </event>
       <event id="6468">
-        <start>12:00</start>
+        <start>17:00</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>networking_vpp</slug>
-        <title>Networking-VPP</title>
-        <subtitle>A fast forwarding vSwitch/vRouter for OpenStack</subtitle>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title>Community meetup: Albanian Wikipedia Community Discussion</title>
+        <subtitle>Part 2</subtitle>
+        <track>Workshop 2</track>
+        <type>meetups</type>
         <language/>
-        <abstract>&lt;p&gt;Goal of this presentation is to explain what is FD.io/VPP and how it is integrated with OpenStack neutron.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;VPP is a fast network data plane, part of the Linux Foundation FD.io project.  It is designed on top of DPDK to run network workloads at ludicrous speeds using vector packet processing technology.&lt;/p&gt;
-
-&lt;p&gt;Networking-VPP is a VPP network driver for Neutron designed to take advantage of VPP’s performance. VPP brings the performance; Networking-VPP brings the resiliency, simplicity, security and scalability required to make it useful in OpenStack environments.&lt;/p&gt;
-
-&lt;p&gt;We’ll talk about what VPP is and why it’s a good choice for network workloads, particularly demanding ones such as NFV applications; how the ML2 driver is put together and why you can trust it to hold up in cloud environments (and even debug it); and the performance we see when we put the two together in a real world OpenStack deployment.&lt;/p&gt;</description>
-        <persons>
-          <person id="4959">Jerome Tollet</person>
-        </persons>
-        <links>
-          <link href="https://video.fosdem.org/2018/H.1301/networking_vpp.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/networking_vpp.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6468.php">Submit feedback</link>
-        </links>
-      </event>
-      <event id="7319">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>onap</slug>
-        <title>ONAP – A road to network automation</title>
-        <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
-        <language/>
-        <abstract>&lt;p&gt;ONAP (Open Network Automation Platform) is an open source software platform that delivers capabilities for the design, creation, orchestration, monitoring, and life cycle management of&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt; Virtual Network Functions (VNFs)&lt;/li&gt;
-&lt;li&gt; The carrier-scale Software Defined Networks (SDNs) that contain them&lt;/li&gt;
-&lt;li&gt; Higher-level services that combine the above&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;ONAP provides for automatic, policy-driven interaction of these functions and services in a dynamic, real-time cloud environment. ONAP is not just a run-time platform; it includes graphical design tools for function/service creation. This talk will introduce ONAP as a whole and walk through a specific use case (vCPE) from design to VNF onboarding and runtime. Eventually, how we can leverage ONAP to enable open/closed loop automation of Virtual Network Functions.&lt;/p&gt;</abstract>
+        <abstract></abstract>
         <description></description>
         <persons>
-          <person id="5375">Gervais-Martial Ngueko</person>
-          <person id="5407">Christophe Closset</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/onap.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/onap.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7319.php">Submit feedback</link>
+        </links>
+      </room>
+        </day>
+<day index="2" date="2018-05-20">
+  <room name="Pyramid">
+      <event id="7319">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>coding</slug>
+        <title>Everybody Should Learn How To Code</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>devroom</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We live in the age of digital technology. Gaining an understanding of the work developers do can open up our imagination to the endless possibilities to change ourselves, our neighbors, our communities, our cities, our countries, and indeed, the world itself.&lt;/p&gt;</description>
+        <persons>
+          <person id="5375">Johnny Siman</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/everybody-should-learn-how-to-code/">Website session link</link>
         </links>
       </event>
       <event id="6465">
-        <start>13:00</start>
+        <start>10:30</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>vde</slug>
-        <title>NFV a' la VDE way</title>
+        <room>Pyramid</room>
+        <slug>vulnerabilities</slug>
+        <title>Website vulnerabilities</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>website</type>
         <language/>
-        <abstract>&lt;p&gt;vSwitches, vRouter, vGateway can be transparently deployed on the
-hosts of a LAN using VDE based Networks of Namespaces (NoN).&lt;/p&gt;
-
-&lt;p&gt;A Network of Namespaces (NoN) interconnects network namespaces running on
-different hosts as if they were on the same (virtual) Local Area Network. It is
-possible to set up and maintain NoN using VLANs, veth, kernel bridge
-definitions,… but it would be a daunting work for system administrators.&lt;/p&gt;
-
-&lt;p&gt;VXVDE and VXVDEX implement zero-configuration NoN. Starting a namespace
-connected to a NoN it is as simple as typing a command like: “vdens vxvde://“.
-This new approach is fast (about the same performance figures of VXLAN’s kernel
-implementation) and it runs on vanilla Linux kernels.&lt;/p&gt;
-
-&lt;p&gt;Several protection features can be added to support different usage scenarios:
-VXVDEX provides NoN with access control, and the agnostic encryption (meta)
-plugin can protect any kind of VDE implementation from eavesdropping.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;In this presentation Alex will give an overview of existing and most common website vulnerabilities. To highlight the importance of security, he will enrich each type of vulnerability with his personal experience on how he faced them in real life.&lt;/p&gt;</description>
         <persons>
-          <person id="2639">Renzo Davoli</person>
+          <person id="2639">Oleksander Trotsenko</person>
         </persons>
         <links>
-          <link href="https://github.com/rd235/vdeplug4">github repository</link>
-          <link href="https://video.fosdem.org/2018/H.1301/vde.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/vde.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6465.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/website-vulnerabilities/">Website session link</link>
         </links>
       </event>
       <event id="7110">
-        <start>13:30</start>
+        <start>11:00</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>opnfv_xci</slug>
-        <title>Integrating cloud and container projects in the OPNFV community: Cross Community CI</title>
-        <subtitle>In this talk we will explain about the OPNFV community, and how it interacts with other communities, such as Kubernetes or OpenStack, to offer a platform for cross-project CI.</subtitle>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>tirana</slug>
+        <title>The open source projects implemented at the Municipality of Tirana</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>tirana_foss</type>
         <language/>
-        <abstract>&lt;p&gt;This talk will explain the tight relationship between the OpenStack and OPNFV communities, using as a base the Cross Community CI project, and the benefits that both communities get from it.&lt;/p&gt;
-
-&lt;p&gt;Initially the OPNFV CI was based on the consumption of stable artifacts, including stable versions of OpenStack. Developers were not able to work with master versions, causing lack of testing and delay on delivering projects.&lt;/p&gt;
-
-&lt;p&gt;Cross Community CI project (XCI) enabled testing based on master versions of the different upstream components (OpenStack , OpenDaylight...). This caused to significantly cut the time of development and identify bugs earlier.&lt;/p&gt;
-
-&lt;p&gt;In this talk we will introduce that concept, and we will also explain the tooling used to achieve it (bifrost, openstack-ansible, ansible-opendaylight), showing how a deployment goes from end to end, how to reuse this project for your own needs, and how to start integrating your own project into XCI if that fits into the scope.&lt;/p&gt;</abstract>
+        <abstract></abstract>
         <description></description>
         <persons>
-          <person id="3914">Fatih Degirmenci</person>
-          <person id="5262">Yolanda Robla Mota</person>
+          <person id="3914">Julian Killo</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/opnfv_xci.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/opnfv_xci.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7110.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-open-source-projects-implemented-at-the-municipality-of-tirana/">Website session link</link>
         </links>
       </event>
       <event id="6637">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>barometer</slug>
-        <title>Barometer: Taking the pressure off of assurance and resource contention scenarios for NFVI</title>
+        <start>11:30</start>
+        <duration>00:3  0</duration>
+        <room>Pyramid</room>
+        <slug>osi</slug>
+        <title>Consensus as a Service: OSI 20th Anniversary</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>service</type>
         <language/>
-        <abstract>&lt;p&gt;If fixed function appliances are going to be replaced and complemented by a mix of physical and virtualized appliances, the manageability and service assurance capabilities need to remain consistent or improve on what is available today.
-The ability to monitor the Network Function Virtualization Infrastructure (NFVI) where VNFs are in operation will be a key part of Service Assurance within an NFV environment.&lt;/p&gt;
-
-&lt;p&gt;It is vital to monitor systems for malfunctions that could lead to users' application service disruption and promptly react to these fault events to facilitate improving overall system performance and user experience.
-The relevant events and metrics must be reported to higher level fault management systems, to detect violations (and enforce SLAs), as well as faults or degradation in the performance of NFVI resources.&lt;/p&gt;
-
-&lt;p&gt;Additional statistics facilitate more resilient and performant telco/NFV clouds.
-By exposing system statistics to collectd, there is more data available, which can be used for monitoring, performance analysis, fault detection, failure prediction, etc. using OPNFV, action can then be taken to negate the effects of any faults in the deployment.&lt;/p&gt;
-
-&lt;p&gt;This talk will include:
-- a short overview of the Barometer (NFVI Service Assurance) project in OPNFV
-- A demo of how quickly you can start monitoring the NFVI with Barometer.
-- How OPNFV and ONAP are taking these changes on board&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract>&lt;br /&gt;&lt;p&gt;The Open Source label was born in February 1998 as a new way to popularise free software for business adoption. OSI will celebrate its 20th Anniversary on February 3, 2018, during the opening day of FOSDEM 2018.&lt;/p&gt;
+        </abstract>
+        <description>&lt;p&gt;The presentation will summarize the evolution of open source licences and the Open Source Definition (OSD) across two decades, explain why the concept of free open source software has grown in both relevance and popularity and explore trends for the third decade of opensource.&lt;/p&gt;</description>
         <persons>
-          <person id="5016">Emma Foley</person>
+          <person id="5016">Italo Vignoli</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/barometer.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/barometer.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6637.php">Submit feedback</link>
+          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/consensus-as-a-service-osi-20th-anniversary/">Website session link</link>
         </links>
       </event>
       <event id="6467">
-        <start>14:30</start>
+        <start>12:00</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>xdp</slug>
-        <title>The challenges of XDP hardware offload</title>
+        <room>Pyramid</room>
+        <slug>cooking</slug>
+        <title>How to cook your own open source event</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>events</type>
         <language/>
-        <abstract>&lt;p&gt;To improve the historically mediocre performances of the Linux kernel regarding high-speed networking, the community has been working hard over the last years. In particular, eBPF (extended Berkeley Packet Filter) programs, when attached to XDP (eXpress Data Path) hooks at the driver level, provide a fast in-kernel programmable data plane.&lt;/p&gt;
-
-&lt;p&gt;Because XDP is so low-level, the only way to move packet processing further down to earn additional performances is to involve the hardware. In fact, it is possible since kernel 4.9 to offload eBPF programs directly onto a compatible NIC, thus offering acceleration while retaining the flexibility of such programs.&lt;/p&gt;
-
-&lt;p&gt;Building the compatible NIC, and optimising the offload process are not trivial. The objective of this talk is to present the current state of eBPF offload, the challenges that have been overcome, and the ones that lay ahead.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract>&lt;br /&gt;&lt;p&gt;Eight years ago, the idea of open source cooking in Munich first was on the table and since then took place over a dozen of times already.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;After the first meal it became clear immediately: You indeed can apply the principles of free software communities to other areas of life. Many contributors working jointly on a common goal, each of them bringing in their individual skills and interests, to create something delicious and tasty many benefit from – lots of fun for everyone included!&lt;/p&gt;
+        &lt;p&gt;Created as a rather, well, “spontaneous” idea during our open source meetings, many free software enthusiasts nowadays bring their kids and family along to meet, cook together, have a good time and lots of fun, all of that (mostly 🙂 far away from smartphones, computers or wifi.&lt;/p&gt;
+      &lt;p&gt;In this talk, Florian gives an overview of open source activities in Munich, shares some wild ideas for the future and explains why open source and cooking have more in common than you may actually think. Bon appétit!&lt;/p&gt;</description>
         <persons>
-          <person id="4933">Quentin Monnet</person>
+          <person id="4933">Florian Effenberger</person>
         </persons>
         <links>
-          <link href="https://www.netdevconf.org/1.2/session.html?jakub-kicinski">Netdev 1.2 (October 2016) - eBPF/XDP hardware offload to SmartNICs (Jakub Kicinski, Nic Viljoen)</link>
-          <link href="https://www.netdevconf.org/2.2/session.html?viljoen-xdpoffload-talk">Netdev 2.2 (November 2017) - Comprehensive XDP off‌load-handling the edge cases (Jakub Kicinski, Nic Viljoen)</link>
-          <link href="https://open-nfp.org/dataplanes-ebpf/">Resources on eBPF hardware offload on the Open-NFP platform</link>
-          <link href="https://video.fosdem.org/2018/H.1301/xdp.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/xdp.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6467.php">Submit feedback</link>
+          <link href="https://twitter.com/floeff">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-cook-your-own-open-source-event/">Website session link</link>
         </links>
       </event>
       <event id="6438">
-        <start>15:00</start>
+        <start>12:30</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>af_xdp</slug>
-        <title>Fast Packet Processing in Linux with AF_XDP</title>
+        <room>Pyramid</room>
+        <slug>writing</slug>
+        <title>Free software won’t write itself</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>coding</type>
         <language/>
-        <abstract>&lt;p&gt;Deep Packet Inspection (DPI) and other specialized packet processing
-workloads are often run in user space due to their complexity and/or
-specialization. With the increase of Ethernet speeds from 40, 100 to
-200 Gbits/s, the need for high-speed raw Ethernet frame delivery to
-Linux user-space is ever increasing. In this talk, we present AF&lt;em&gt;XDP
-(formerly known as AF&lt;/em&gt;PACKET V4) designed to scale to these high
-networking speeds through the use of true zero-copy, lock-less data
-structures, elimination of syscalls and other techniques, while still
-abiding to the isolation and security rules of Linux. AF_XDP is
-currently an RFC on the Linux netdev mailing list with the goal to
-get it accepted upstream.&lt;/p&gt;
-
-&lt;p&gt;In our evaluation, AF&lt;em&gt;XDP provides a performance increase of up to 40x
-for some microbenchmarks and 20x for tcpdump compared to previous
-AF&lt;/em&gt;PACKET (raw socket) versions in Linux. To illustrate the approach,
-we have implemented support for Intel I40E NICs and veth, but it should
-hopefully be easy to port to other NICs and virtual devices as
-well. AF&lt;em&gt;XDP is designed as an extension to the existing XDP support
-in Linux so that XDP enabled devices will be able to use this. We also
-show how SW networking libraries and SDKs such as DPDK can benefit
-from AF&lt;/em&gt;XDP to achieve increased robustness, ease-of-use and HW
-independence.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Name: Magnus Karlsson, Intel, Stockholm, Sweden&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;  Björn Töpel, Intel, Stockholm, Sweden
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Bio Magnus Karlsson:&lt;/p&gt;
-
-&lt;p&gt;Magnus Karlsson has worked with low-level SW and microprocessor design
-for most of his life. Started in academia as a post-doc, but for the
-past 11 years he has been working "in the real world". Currently, his
-main interests lie in Linux networking, telecom systems and
-hypervisors. He is an avid cook, skier and runner, and dreams of
-becoming a wine grower or beer brewer at some point in his life.&lt;/p&gt;
-
-&lt;p&gt;Bio Björn Töpel:&lt;/p&gt;
-
-&lt;p&gt;Björn Töpel has dabbled in all kinds of networking stacks, ranging
-from Skype's peer-to-peer stack, high-frequency trading platforms all
-the way down to Ethernet device drivers. For the moment, most of his
-time is spent in the Linux kernel. He's a coffee addict, avid runner
-and wannabe librarian.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Lots of people talk about Free software, not as many contribute to it. It’s found on most servers and it’s at the core of a lot of businesses. What if won’t be developed anymore? What can we do to build our projects on solid foundations and be part of an healthy environment?&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4937">Magnus Karlsson</person>
+          <person id="4937">Riccardo Magliocchetti</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/af_xdp.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/af_xdp.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6438.php">Submit feedback</link>
+          <link href="https://twitter.com/rmistaken">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/free-software-wont-write-itself/">Website session link</link>
         </links>
       </event>
       <event id="6104">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>netmdev</slug>
-        <title>netmdev: mediated net_device</title>
-        <subtitle>Clean native userland access to net_devices from VPP, ODP, DPDK...</subtitle>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Pyramid</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Talk 1</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;Unbinding Linux kernel drivers to allow userland IO through VFIO has a number of disadvantages such as another large  touchy code base to deal with the hardware, loss of standard Linux tools (ifconfig, ethtool, tcpdump, SNMPd...) and impossibility to accelerate container networking. Mediated device introduced in Linux kernel 4.10 for GPUs and provisions for additional devices hold the promise of collaboration between kernel drivers and userland application in need of direct datapath steering.
-Packet frameworks such as OpenDataPlane, DPDK, VPP and Netmap may benefit from leveraging mediated devices.
-This sessions intends to discuss the practicalities and security aspects of such an approach and how ODP and DPDK communities may collaborate on userland IO.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Topics covered:
-- slides: brief review of IOMMU, IOMMU groups and default group, DMA API and VFIO
-- slides: An overview of the proposed approach and challenges will be presented in the form of slides.
-- demo: crypto IO from userland and selected code walk through  (generic device access)
-- demo: network IO from userland and selected code walk through (net_device specific extensions)&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4712">François-Frédéric Ozog</person>
+          <person id="4712">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/netmdev.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/netmdev.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6104.php">Submit feedback</link>
         </links>
       </event>
       <event id="6437">
-        <start>16:00</start>
+        <start>14:00</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>lua_snabb</slug>
-        <title>How to write your own NIC device driver (and why)</title>
-        <subtitle>Our experience writing 10G/100G drivers for Snabb in Lua (without NDAs)</subtitle>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <room>Pyramid</room>
+        <slug>contributions</slug>
+        <title>Get paid to contribute to FOSS</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>payment</type>
         <language/>
-        <abstract>&lt;p&gt;We will explain the value of writing your own Ethernet device drivers from scratch and how we do this in Lua for the Snabb project.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Outreachy, Google Summer of Code and Rails Summer of Code are some programs which offer paid internships with open source projects. I have been an past Outreachy intern and also a mentor for GSoC. I will talk about these programs, their timeline and application tips. This talk will mainly have a Q and A session with attendees about their queries and will involve other interns of these programs too.&lt;/p&gt;</description>
         <persons>
-          <person id="4671">Asumu Takikawa</person>
-          <person id="4938">Luke Gorrie</person>
+          <person id="4671">Bee Padalkar</person>
         </persons>
         <links>
-          <link href="http://github.com/snabbco/snabb">Snabb</link>
-          <link href="http://www.mellanox.com/related-docs/user_manuals/Ethernet_Adapters_Programming_Manual.pdf">Mellanox Adapter Programmer's Reference Manual</link>
-          <link href="https://video.fosdem.org/2018/H.1301/lua_snabb.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/lua_snabb.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6437.php">Submit feedback</link>
+          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/get-paid-to-contribute-to-foss/">Website session link</link>
         </links>
       </event>
       <event id="6456">
-        <start>16:30</start>
+        <start>14:30</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>vnf_vpp</slug>
-        <title>High performance network functions with VPP</title>
+        <room>Pyramid</room>
+        <slug>communication</slug>
+        <title>Importance of communication in Open Source communities</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>comms</type>
         <language/>
-        <abstract>&lt;p&gt;Vector Packet Processing is a high performance data-plane running on commodity hardware. VPP is a framework for building bespoke network functions. This talk will give an introduction to VPP architecture and function and give examples of how virtual network functions can be built with VPP.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Open Source communities are excellent example of most diverse and globally spread work-space. Although, this is a major plus and feels amazing to work in such a diverse culture, but at the same time we need to face the challenge of accurate communication. When we are not at the same place and can’t talk face-to-face, expressing the right thing in correct manner becomes more important and we need to take care of several things. Obviously, we are not always using video chats when we are communicating with our fellow community members and lack of those facial expressions make it more complex to deliver the right message. Communication has many attributes to it – right content, ambiguity, accurate by all means (ethically, culturally) and at the end we are conveying what is intended.&lt;/p&gt;
+        &lt;p&gt;We may think communication to be a very basic technique of delivering message, but it gets complicated specially when it is not verbal and not on video chat. You may want to write a good “WOW” but it can be interpreted as a bad “WOW” depending on the receiver’s culture/mood and intend.&lt;/p&gt;
+        &lt;p&gt;My paper will highlight certain examples of such communication glitches and also some basic magical rules of good communication.</description>
         <persons>
-          <person id="4951">Ole Trøan</person>
+          <person id="4951">Amita Sharma</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/vnf_vpp.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/vnf_vpp.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6456.php">Submit feedback</link>
+          <link href="https://twitter.com/AmitaSharma6">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/importance-of-communication-in-open-source-communities/">Website session link</link>
         </links>
       </event>
       <event id="6596">
-        <start>17:00</start>
+        <start>15:00</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>virtio</slug>
-        <title>Virtio 1.1 </title>
-        <subtitle>What's new in the next version of the Virtio standard</subtitle>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <room>Pyramid</room>
+        <slug>school</slug>
+        <title>Building the School 2.0</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>education</type>
         <language/>
-        <abstract>&lt;p&gt;Virtio is a common framework for IO virtualization in hypervisors. It is part of DPDK accelerated Open vSwitch and allows for hardware abstracted VNFs.  The virtio OASIS standard is going into the next round and the focus will be on performance improvements.  We aim to make it work better on the underlying hardware but also allow for hardware implementations of virtio. This talk will give an update on the current developments and the progress made towards version 1.1.  We will look into some of the new features, some benchmarking results and how these help with improving performance.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;How do we build the next generation education as an open source platform? What does open, free as in beer and free as in freedom have to do with it? How can we use crowdsourcing and AI to power communities and humanity to build their sustainable education? Story of ups and downs in building the school of the future.&lt;/p&gt;</description>
         <persons>
-          <person id="5028">Jens Freimann</person>
+          <person id="5028">Marko Kažić</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1301/virtio.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/virtio.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6596.php">Submit feedback</link>
+          <link href="https://twitter.com/marxo">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/building-the-school-2-0/">Website session link</link>
         </links>
       </event>
       <event id="6470">
-        <start>17:30</start>
+        <start>15:30</start>
         <duration>00:30</duration>
-        <room>H.1301 (Cornil)</room>
-        <slug>srv6</slug>
-        <title>SRv6 Network Programming on FD.io VPP and Linux</title>
+        <room>Pyramid</room>
+        <slug>Linux</slug>
+        <title>Just under the surface of Linux</title>
         <subtitle/>
-        <track>SDN and NFV</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>surface</type>
         <language/>
-        <abstract>&lt;p&gt;SRv6 Network Programming on FD.io VPP and Linux&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Tittle: SRv6 Network Programming on FD.io VPP and Linux&lt;/p&gt;
-
-&lt;p&gt;Description:
-Segment Routing is a new network architecture that leverages the source routing paradigm to remove state from the network. The IPv6 instantiation, allows to deliver a so called network program, where a packet traverses the network executing functions on different nodes of the network. This functions can be NPU-related functions, or it can be complex VNFs running in containers. In this way, we can leverage SRv6 for overlays, underlays and service chaining all from one single protocol.
-In this session we want to give a brief overview on SRv6, cover the SRv6 implementation in FD.io VPP, as well as showcase how to create your own network functions in VPP. Also, we would like to showcase how to develop SRv6 functions in Linux, and show the first-ever SRv6-aware app in the world: SERA, an advanced SR aware firewall, capable of taking stateless actions programmed in the SRH (Segment Routing Header).&lt;/p&gt;
-
-&lt;p&gt;Speaker: This workshop will be lead by two speakers.&lt;/p&gt;
-
-&lt;p&gt;Speaker 1:
-Pablo Camarillo is a software engineer in Cisco CTAO. He's one of the members of the core SRv6 architecture team and has developed the SR implementation in FD.io VPP. Prior joining Cisco, he was a research engineer at IMDEA Networks institute, where he prototyped a BGP route server in ExaBGP and researched on the algorithmic of TI-LFA (SR Topology Independent Loop Free Alternates).&lt;/p&gt;
-
-&lt;p&gt;Speaker 2:
-Ahmed Abdelsalam is a PhD student at Gran Sasso Science Institute researching on SRv6 for SFC in Linux. During his PhD he successfully completed an internship at Cisco Systems. He is CCNA, CCNP and CCAI certified.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We all use files, directories, and processes whenever we use Linux, but not everyone knows what they really are and how they are brought into existence. We won’t go very deeply into it, but will introduce the underlying concepts enough to improve your understanding of what’s going on in your computer.&lt;/p&gt;
+        </description>
         <persons>
-          <person id="4698">Pablo Camarillo</person>
+          <person id="4698">John Sturdy</person>
         </persons>
         <links>
-          <link href="http://www.segment-routing.net/">SR website</link>
-          <link href="https://wiki.fd.io/view/VPP">FD.io VPP</link>
-          <link href="https://wiki.fd.io/view/VPP/Segment_Routing_for_IPv6">SRv6 in VPP</link>
-          <link href="https://docs.fd.io/vpp/17.10/srv6_doc.html">SRv6 in VPP documentation</link>
-          <link href="https://tools.ietf.org/html/draft-filsfils-spring-srv6-network-programming">SRv6 Network Programming IETF draft</link>
-          <link href="https://video.fosdem.org/2018/H.1301/srv6.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1301/srv6.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6470.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/just-under-the-surface-of-linux/">Website session link</link>
         </links>
       </event>
-    </room>
-    <room name="H.1302 (Depage)">
       <event id="7270">
-        <start>11:00</start>
-        <duration>00:50</duration>
-        <room>H.1302 (Depage)</room>
-        <slug>de_mystifying_contributing_to_postgresql</slug>
-        <title>De-mystifying contributing to PostgreSQL</title>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>projects</slug>
+        <title>Petting your sideprojects</title>
         <subtitle/>
-        <track>PostgreSQL</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>sideprojects</type>
         <language/>
-        <abstract>&lt;p&gt;PostgreSQL is a great community. They are open-minded, friendly, agreeable and so on. You feel like helping them.&lt;/p&gt;
-
-&lt;p&gt;The problem is you are shy and you look at community people as gods. On top of that you don't want to mess up with their work or bother them with obvious and silly (to them) questions!&lt;/p&gt;
-
-&lt;p&gt;This conference talk is based on my own true story. I will tell you about how I submitted my very first patch to the community. After some background presentation about how the community works, I will try to answer the following questions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What can I do to help (and you'll see that even without coding you can do a lot!) ?&lt;/li&gt;
-&lt;li&gt;What's a contribution ?&lt;/li&gt;
-&lt;li&gt;What's a patch ? How can I create one?&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;And I hope that sooner or later you'll come and join the community and you'll feel so proud of yourselves!&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;A creative mind never sleeps, it cannot be stopped and it doesn’t have any boundaries (maybe except of imagining a new color). In the hands of an engineer this can be a powerful double-edged sword. It can both produce the next cool startup that changes the world as well as a bunch of ragequits from your editor. This talk is about how my sideprojects were born, failed, thrived or took control over my work.&lt;/p&gt;</description>
         <persons>
-          <person id="5339">Lætitia Avrot</person>
+          <person id="5339">Dávid Halász</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1302/de_mystifying_contributing_to_postgresql.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/de_mystifying_contributing_to_postgresql.webm">Video recording (WebM/VP9)</link>
-          <link href="https://www.postgresql.eu/events/fosdem2018/schedule/session/1705-de-mystifying-contributing-to-postgresql/">Talk on the FOSDEM PGDay website (may include slides)</link>
-          <link href="https://submission.fosdem.org/feedback/7270.php">Submit feedback</link>
+          <link href="https://twitter.com/halaszdavid">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/petting-your-sideprojects/">Website session link</link>
         </links>
       </event>
       <event id="7271">
-        <start>12:00</start>
-        <duration>00:50</duration>
-        <room>H.1302 (Depage)</room>
-        <slug>postgresql_a_crash_course</slug>
-        <title>PostgreSQL -- A Crash Course</title>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>machine</slug>
+        <title>Machine Learning on Open Source code</title>
         <subtitle/>
-        <track>PostgreSQL</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>machine_learning</type>
         <language/>
-        <abstract>&lt;p&gt;A crash course to get you up and running with PostgreSQL. We will cover:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Installation from binaries and source&lt;/li&gt;
-&lt;li&gt;Cluster initialization, startup, and session management&lt;/li&gt;
-&lt;li&gt;Basic configuration - postgresql.conf and pg_hba.conf&lt;/li&gt;
-&lt;li&gt;psql use/hints&lt;/li&gt;
-&lt;li&gt;SQL syntax and quoting&lt;/li&gt;
-&lt;li&gt;Data types&lt;/li&gt;
-&lt;/ul&gt;
-</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Few people look at open source code as a massive dataset for researchers. Yet we’ve accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source.&lt;/ul&gt;
+        &lt;p&gt;GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference’s proceedings and also touches the related research we conduct.&lt;/ul&gt;</description>
         <persons>
-          <person id="5340">Joe Conway</person>
+          <person id="5340">Vadim Markovtsev</person>
         </persons>
         <links>
-          <link href="https://www.postgresql.eu/events/fosdem2018/schedule/session/1713-postgresql-a-crash-course/">Talk on the FOSDEM PGDay website (may include slides)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/postgresql_a_crash_course.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/postgresql_a_crash_course.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7271.php">Submit feedback</link>
+          <link href="https://github.com/src-d/awesome-machine-learning-on-source-code">Research</link>
+          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/machine-learning-on-open-source-code/">Website session link</link>
         </links>
       </event>
       <event id="7272">
-        <start>13:00</start>
-        <duration>00:50</duration>
-        <room>H.1302 (Depage)</room>
-        <slug>postgresql_replication_in_2018</slug>
-        <title>PostgreSQL Replication in 2018</title>
-        <subtitle/>
-        <track>PostgreSQL</track>
-        <type>devroom</type>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>IM</slug>
+        <title>Death by a thousand chats</title>
+        <subtitle>Helping developers and users stay sane.</subtitle>
+        <track>Talk 1</track>
+        <type>chats</type>
         <language/>
-        <abstract>&lt;p&gt;The world of PostgreSQL replication has come a long way from the days of manually compiling and installing erServer. The options are new, and there are many of them, directed at solving different problems. This talk takes a look at some of the options available today and tomorrow.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Email, Real-time communications services, apps and giant animated billboards are relentlessly seeking to grab our attention, 24 hours per day, 7 days per week. Has it gone too far? A novice motorcyclist needs little training to learn rapid acceleration: to stay alive, however, requires learning how and when to slow down as well. Achieving prosperity and avoiding burn-out in the information age requires a similar level of discipline in our use of technology. &lt;/p&gt;
+        &lt;p&gt;As developers, this is even more critical for us as we implement tools for our own communities and our users. In this session, Pocock, an experienced developer in a range of fields including real-time communications and monitoring systems, shines a light on these issues, looks at how we can improve our experience as developers and shows how free software is the most effective way to solve these challenges for our users, society at large.&lt;/p&gt;</description>
         <persons>
-          <person id="2154">Magnus Hagander</person>
+          <person id="2154">Daniel Pocock</person>
+          <person id="9881">Enkelena Haxhiu</person>
         </persons>
         <links>
-          <link href="https://www.postgresql.eu/events/fosdem2018/schedule/session/1755-postgresql-replication-in-2018/">Talk on the FOSDEM PGDay website (may include slides)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/postgresql_replication_in_2018.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/postgresql_replication_in_2018.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7272.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/death-by-a-thousand-chats/">Website session link</link>
         </links>
       </event>
       <event id="7273">
-        <start>14:00</start>
-        <duration>00:50</duration>
-        <room>H.1302 (Depage)</room>
-        <slug>jiting_postgresql_using_llvm</slug>
-        <title>JITing PostgreSQL using LLVM</title>
+        <start>17:30</start>
+        <duration>00:15</duration>
+        <room>Pyramid</room>
+        <slug>closing</slug>
+        <title>Closing speech – Day 2</title>
         <subtitle/>
-        <track>PostgreSQL</track>
-        <type>devroom</type>
+        <track>Talk 1</track>
+        <type>closing_speech</type>
         <language/>
-        <abstract>&lt;p&gt;In a number of workloads, primarily of analytical nature, several parts of postgres' query execution are limited by CPU speeds. One way to address that is by allowing queries to be processed by more than one core at a time; which the project started to enable with 9.6, extended a lot in version 10, with significant additional features expected in 11.  But that does not address the efficiency / economics of overall query execution.&lt;/p&gt;
-
-&lt;p&gt;This talk will focus on increasing the efficiency of query execution by just in time compiling parts of queries. That is, instead of having roughly interpreter like code to execute the queries, emit native code doing precisely the work needed for a specific query.&lt;/p&gt;
-
-&lt;p&gt;The current goal of the project is to use LLVM to perform JIT of two main parts of query execution:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;expression evaluation (WHERE clause, aggregates, GROUP BY clauses, etc)&lt;/li&gt;
-&lt;li&gt;tuple deforming (converting on-disk tuples into a more efficiently accessible in-memory representation)&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;and to integrate as much of that work as possible into PostgreSQL 11.&lt;/p&gt;
-
-&lt;p&gt;We'll discuss:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;how the above parts of the system were identified as the primary bottlenecks&lt;/li&gt;
-&lt;li&gt;how JIT compilation can help resolve them&lt;/li&gt;
-&lt;li&gt;which structural changes to postgres were required to allow for JIT compilation&lt;/li&gt;
-&lt;li&gt;how JIT compilation is currently implemented, including the current development state&lt;/li&gt;
-&lt;li&gt;the problems faced using LLVM for this task, and which improvements to it could make it better for the use-case&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Depending on the available time, we'll also discuss possible future avenues for optimization.&lt;/p&gt;</abstract>
+        <abstract></abstract>
         <description></description>
         <persons>
-          <person id="3682">Andres Freund</person>
+          <person id="3682">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="http://anarazel.de/talks/fosdem-2018-02-03/jit.pdf">Slides</link>
-          <link href="https://video.fosdem.org/2018/H.1302/jiting_postgresql_using_llvm.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/jiting_postgresql_using_llvm.webm">Video recording (WebM/VP9)</link>
-          <link href="https://www.postgresql.eu/events/fosdem2018/schedule/session/1736-jiting-postgresql-using-llvm/">Talk on the FOSDEM PGDay website (may include slides)</link>
-          <link href="https://submission.fosdem.org/feedback/7273.php">Submit feedback</link>
         </links>
+      </room>
+  <room name="Protik">
       </event>
       <event id="7274">
-        <start>15:00</start>
-        <duration>00:50</duration>
-        <room>H.1302 (Depage)</room>
-        <slug>blue_elephant_on_demand_postgres_kubernetes</slug>
-        <title>Blue elephant on-demand:  Postgres + Kubernetes</title>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>react</slug>
+        <title>Patterns in React</title>
         <subtitle/>
-        <track>PostgreSQL</track>
-        <type>devroom</type>
+        <track>Talk 2</track>
+        <type>reactjs</type>
         <language/>
-        <abstract>&lt;p&gt;So, you've chosen Postgres to manage your data; next challenge is where to run it at scale? Want to avoid vendor lock-in and take advantage of the latest Postgres features and popular extensions not available in managed services from commercial vendors? Need to integrate your Postgres databases with existing monitoring and deployment tools? Interested in building your own database as a service?&lt;/p&gt;
-
-&lt;p&gt;In fact, you can do it with existing open-source components. Our talk is a story of how the database team at Zalando created company-wide database-as-a-service based on Postgres, Kubernetes and various open-source tools we developed on our own. We will share how we run  hundreds of high-availability Postgres clusters on Kubernetes and automate routine operations using our open-source Postgres operator, providing developers easy-to-use tools to create, manage and monitor their database instances.&lt;/p&gt;
-
-&lt;p&gt;We are going to cover, among other things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kubernertes Postgres operator&lt;/li&gt;
-&lt;li&gt;Postgres HA with Patroni&lt;/li&gt;
-&lt;li&gt;Postgres web-based realtime monitoring&lt;/li&gt;
-&lt;li&gt;Postgres pam authentication with Oauth2 tokens&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;and other open-source components. We will also show a live demo.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;It’s been five years since React’s first version was released in 2013. Back then there were little to none code practices, project structures and community rules to be followed. And with the release of React 16 we have a more stable environment some patterns start to evolve as the community it’s taking shape. This talk is about some of the most interesting parts of React, Design Patterns, Code structures, Redux best practices and scalability.&lt;/p&gt;</description>
         <persons>
-          <person id="5341">Oleksii Kliukin</person>
-          <person id="5342">Jan Mussler</person>
+          <person id="5341">Kristi Buda</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1302/blue_elephant_on_demand_postgres_kubernetes.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/blue_elephant_on_demand_postgres_kubernetes.webm">Video recording (WebM/VP9)</link>
-          <link href="https://www.postgresql.eu/events/fosdem2018/schedule/session/1735-blue-elephant-on-demand-postgres-kubernetes/">Talk on the FOSDEM PGDay website (may include slides)</link>
-          <link href="https://submission.fosdem.org/feedback/7274.php">Submit feedback</link>
+          <link href="https://twitter.com/BudaKristi">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/patterns-in-react/">Website session link</link>
         </links>
       </event>
       <event id="7275">
-        <start>16:00</start>
-        <duration>00:50</duration>
-        <room>H.1302 (Depage)</room>
-        <slug>the_fabulous_destiny_of_0000000200000008000000bb</slug>
-        <title>The Fabulous Destiny of 0000000200000008000000BB</title>
-        <subtitle/>
-        <track>PostgreSQL</track>
-        <type>devroom</type>
-        <language/>
-        <abstract>&lt;p&gt;Hi, soon, i will be a WAL file. I am not born yet, but everything is ready for me.
-I have high expectations for my life, but what will it be?&lt;/p&gt;
-
-&lt;p&gt;I may end up in a lonely server after a very long work, or I may finish frozen in the archives of a cold tape band.
-But what I really want is to be part of a replication stream, I want to travel!&lt;/p&gt;
-
-&lt;p&gt;Some call me "transaction log", some others go with "Redo log", PostgreSQL community has chosen WAL. But whatever you name me, come to listen to all the lifes I could have!&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5343">Patrick Francelle</person>
-        </persons>
-        <links>
-          <link href="https://video.fosdem.org/2018/H.1302/the_fabulous_destiny_of_0000000200000008000000bb.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1302/the_fabulous_destiny_of_0000000200000008000000bb.webm">Video recording (WebM/VP9)</link>
-          <link href="https://www.postgresql.eu/events/fosdem2018/schedule/session/1724-the-fabulous-destiny-of-0000000200000008000000bb/">Talk on the FOSDEM PGDay website (may include slides)</link>
-          <link href="https://submission.fosdem.org/feedback/7275.php">Submit feedback</link>
-        </links>
-      </event>
-    </room>
-    <room name="H.1308 (Rolin)">
-      <event id="5991">
         <start>10:30</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>stateofgo</slug>
-        <title>The State of Go</title>
-        <subtitle>What's new in Go 1.10</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>security</slug>
+        <title> Open-Source security tools – Should you?</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>tools</type>
         <language/>
-        <abstract>&lt;p&gt;Go 1.10 is planned to be released in February 2018 and this talk covers what's coming up with it.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk I will describe the common pitfalls that I had during my job as a Security Engineer from the Defensive point of view and give my opinion on the ethical misconception of publishing Offensive security tools.&lt;/p&gt;</description>
         <persons>
-          <person id="2072">Francesc Campoy</person>
+          <person id="5343">Rio Sherri</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/stateofgo.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/stateofgo.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/5991.php">Submit feedback</link>
+          <link href="https://twitter.com/0x09AL">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-security-tools-should-you/">Website session link</link>
+        </links>
+      </event>
+      <event id="5991">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>pwa</slug>
+        <title>PWA power!</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>pwa</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;Make your website work completely offine, with look and feel of native App!&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="2072">Gabriele Falasca</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/pwa-power/">Website session link</link>
         </links>
       </event>
       <event id="6528">
-        <start>11:00</start>
+        <start>11:30</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>delve</slug>
-        <title>Advanced Go debugging with Delve</title>
+        <room>Protik</room>
+        <slug>radare</slug>
+        <title>Executable reverse engineering 101 with radare 2</title>
         <subtitle/>
-        <track>Go</track>
+        <track>Talk 2</track>
         <type>devroom</type>
         <language/>
-        <abstract>&lt;p&gt;Learn how to utilize the Delve debugger to dig into and solve complex bugs in your code.&lt;/p&gt;
-
-&lt;p&gt;Delve is a powerful yet simple open source debugger for the Go programming language. In this talk, I will discuss what makes
-both Go and Delve different from other languages / debuggers, and then dive into real world usage. I will begin by introducing
-the tool, and showing the basics of how it works. From there I will use specific example problems to show how to use some of
-the most powerful features of Delve to solve even the most complex bugs.&lt;/p&gt;
-
-&lt;p&gt;This talk will be beneficial to beginners and advanced users alike.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Learn how to utilize the Delve debugger to dig into and solve complex bugs in your code.&lt;/p&gt;
-
-&lt;p&gt;Delve is a powerful yet simple open source debugger for the Go programming language. In this talk, I will discuss what makes
-both Go and Delve different from other languages / debuggers, and then dive into real world usage. I will begin by introducing
-the tool, and showing the basics of how it works. From there I will use specific example problems to show how to use some of
-the most powerful features of Delve to solve even the most complex bugs.&lt;/p&gt;
-
-&lt;p&gt;This talk will be beneficial to beginners and advanced users alike.&lt;/p&gt;
-
-&lt;p&gt;I will start with a deep dive into the Go programming language. Topics of discussion will include the runtime, DWARF, scheduler, and more.
-From there, I will introduce Delve and discuss how it is different from other debuggers and walk through basic usage. After that I will
-switch over to a terminal where I will work through several pre-made bugs, highlighting certain features of Delve. The goal of this talk
-is to equip users with all of the knowledge and confidence they need to use Delve to effectively debug their programs.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Suffering from a lack of good free software tools, reverse engineering on Linux never been a very popular activity among hobbyists. However, more tools exist now, and we will discover how to use Radare2, a GPL set of tools to examine a wide range of binaries.&lt;/p&gt;
+        &lt;p&gt;This session will present the very basics concepts behind assembly and low level languages, and show simple commands and the philosophy behind radare 2. In order to be concrete, a very simple binary will be looked at to illustrate the concepts, tools and practices, and let people be ready to tackle more complex challenges either for fun (such as a security CTF) or for more serious reasons (such as malware and exploit dissecting).&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;No binaries will be harmed during the presentation.&lt;/strong&gt;&lt;/p&gt;</description>
         <persons>
-          <person id="4999">Derek Parker</person>
+          <person id="4999">Michael Scherer</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/delve.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/delve.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6528.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/executable-reverse-engineering-101-with-radare-2/">Website session link</link>
         </links>
       </event>
       <event id="6647">
-        <start>11:30</start>
+        <start>12:30</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>networking</slug>
-        <title>Networking deepdive</title>
-        <subtitle>From net.Dial to gRPC</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>pylint</slug>
+        <title>How to write pylint plugins</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>plugins</type>
         <language/>
-        <abstract>&lt;p&gt;In this talk we'll discuss networking in Go. We start off with a review of the stdlib net package and its sub-packages and then walk through common use cases, patterns and challenges. In the second part we focus on best practices using the stdlib and community-provided frameworks such as gorilla/websocket and gRPC.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk we'll discuss networking in Go. The goal is to provide beginners with a comprehensive overview of what the stdlib offers as well as what packages outside of the stdlib exist that can be used for networking. More advanced users can benefit from networking best practices and guidance for implementing distributed systems.&lt;/p&gt;
-
-&lt;p&gt;The talk is has two parts:&lt;/p&gt;
-
-&lt;h2&gt;Part 1: Basics&lt;/h2&gt;
-
-&lt;p&gt;We start off with a review of the stdlib net package and its sub-packages, walk through common use cases, patterns and challenges:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Discussion of net and sub-packages (main types, interfaces, understanding what is available)&lt;/li&gt;
-&lt;li&gt;Socket-level programming&lt;/li&gt;
-&lt;li&gt;Timeouts, retries&lt;/li&gt;
-&lt;li&gt;Security&lt;/li&gt;
-&lt;li&gt;DNS&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Part 2: Best practices and beyond stdlib&lt;/h2&gt;
-
-&lt;p&gt;In the second part we focus on best practices using the stdlib and community-provided frameworks for networking:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Best practices writing networked applications&lt;/li&gt;
-&lt;li&gt;Review of non-stdlib packages useful for networking: golang.org/x/net/websocket, gorilla/websocket, gRPC&lt;/li&gt;
-&lt;/ul&gt;
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Pylint is the most popular Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It is possible to write plugins to add your own checks, for example coding patterns that you have observed inside your software and are generally a bad practice or rules which you would like to enforce inside of a particular project, e.g. class name and inheritance conventions.&lt;/ul&gt;
 </description>
         <persons>
-          <person id="3583">Michael Hausenblas</person>
+          <person id="3583">Alexander Todorov</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/networking.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/networking.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6647.php">Submit feedback</link>
+          <link href="https://twitter.com/atodorov_">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-write-pylint-plugins/">Website session link</link>
         </links>
       </event>
       <event id="7001">
-        <start>12:00</start>
+        <start>13:00</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>testing_and_automation_in_the_era_of_containers</slug>
-        <title>Testing and Automation in the Era of Containers</title>
-        <subtitle>(with Go)</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>encryption</slug>
+        <title>End-to-End Encrypted Messaging: Next Steps for Privacy and Decentralization</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>encryption</type>
         <language/>
-        <abstract>&lt;p&gt;As containers and orchestration technologies went from niche to necessary tools to build modern distributed systems, traditional testing is no longer enough. e2e cases represent a great solution, but it's often easier said than done.
-In this talk, I will share my experience of building a testing framework for distributed systems, revisiting common mistakes, how to avoid them, and showing how to take advantage of the power of Go to make sure our systems behavior match our original expectations, with scalability in mind through automation.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Containers are everywhere. Whether teams decide to use bare containers, orchestrators or enterprise solutions built on top of these technologies, the result is the same in terms of testing.&lt;/p&gt;
-
-&lt;p&gt;With rolling updates and fault-tolerant clusters getting more popular every day in organizations of all sizes, availability issues are now easier to handle, whereas the complexity of reliability in our systems stays the same or even increases.&lt;/p&gt;
-
-&lt;p&gt;Given the nature of distributed systems, a traditional approach towards testing is not enough. Smoke, integration and unit tests should be only the entry point, while e2e tests are no longer a luxury item in our developer toolset. However, writing and running them with scale and time constraints in mind is a task that is easier said than done.&lt;/p&gt;
-
-&lt;p&gt;Since Go was born with tools for developers in mind, it's a great language thatenables productivity, which sometimes is cited as an excuse to avoid writing stronger e2e cases. In this talk, I will share my experience of building a testing framework for distributed systems, revisiting common mistakes, how to avoid them, and I will show how to take advantage of the power of Go to write reliable e2e tests to make sure our systems' behaviors really match our original expectations, with scalability in mind through automation.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;We rely on end-to-end encrypted messaging apps for protecting our confidential and sensitive information. However, how do you know your messages are really protected? What does the server or a third-party eavesdropper know about your contacts and communication? To be honest, it’s difficult to tell these applications apart.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk, we’ll review the state of the art Signal protocol (also used by WhatsApp), Telegram, and iMessage – and how all of these protocols fail to address privacy, group messaging, and decentralization. For example, Telegram group chats are unencrypted, and even Signal group messaging is not as secure as one-to-one messaging. &lt;/p&gt;
+        &lt;p&gt;We’ll show how privacy-preserving blockchains can help decentralize secure messaging, how Tor and mix networking can address the open privacy problems (at the cost of spped!), how the new Message Layer Security (MLS) open standard from the IETF may be able to fix group messaging – and how you can to get involved in the open source projects to fix secure messaging! &lt;/p&gt;
+        </description>
         <persons>
-          <person id="5018">Verónica López</person>
+          <person id="5018">Harry Halpin</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/testing_and_automation_in_the_era_of_containers.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/testing_and_automation_in_the_era_of_containers.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7001.php">Submit feedback</link>
+          <link href="https://twitter.com/harryhalpin">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/end-to-end-encrypted-messaging-next-steps-for-privacy-and-decentralization/">Website session link</link>
         </links>
       </event>
       <event id="6740">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>upspin</slug>
-        <title>Upspin and a future of the Internet</title>
-        <subtitle>My vision of Rob Pike's Upspin as a basis for a decentralized Internet</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Talk 2</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;Upspin is both a protocol and a reference implementation for a global name space for network-accessible files that comes with permissions and end-to-end encryption. With simplicity at its core (the protocol is just 10 methods), it is very versatile and can be a building block for a decentralized Internet&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Last October, Rob Pike published the Upspin manifesto on his blog - command center. This manifesto is centered around a concept I care for: the separation of the producers and the consumers of data. I had been willing to create web services that could freely inter-operate and Upspin is a wonderful tool for that. Since then, I have been working on a collection of Upspin client and servers to prove the concept.&lt;/p&gt;
-
-&lt;p&gt;In this talk I will present:
-- the basic concepts and architecture of Upspin
-- my implementations of Upspin client and servers (directory and storage)
-- my thoughts about what can be done with Upspin&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="5114">Gildas Chabot</person>
+          <person id="5114">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/upspin.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/upspin.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6740.php">Submit feedback</link>
         </links>
       </event>
       <event id="6852">
-        <start>13:00</start>
+        <start>14:00</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>dep</slug>
-        <title>Dep Deep Dive!</title>
+        <room>Protik</room>
+        <slug>cityzen</slug>
+        <title>Privacy aware city navigation with CityZen</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Talk 2</track>
+        <type>navigation</type>
         <language/>
-        <abstract>&lt;p&gt;This talk dives into github.com/golang/dep, the “official experiment” and precursor to a new approach to dependency management in the go toolchain itself. To help you get the most out of dep, we’ll cover both the essential workflows, and dep’s core design principles.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;This talk will cover the essential mechanics of dep, combined with an explanation of the main ideas behind dep’s design. It makes sense to explain these together, as dep is an opinionated tool with a spare interface: if people don’t understand dep’s basic way of thinking about dependency management, then they may find themselves “holding it wrong,” and having a difficult time. The benefit of dep’s spare design is that doesn’t take long to cover the essentials, and attendees will be able to walk away with a clear sense of how to leverage dep to their advantage.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;Navigating our cities using free software community based mobile apps in ‘private mode’ might sound like an easy task in 2017, but with a little research you will be quickly disappointed. There are related platforms out there, but some of them are lacking good User Experience, others are not community lead or are getting away from the free software freedoms due to their partnerships with companies that do not respect our privacy online.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;These are only some of the reasons the CityZen app was born in Tirana, as an OSM based Android app that helps us navigate our cities without tracking our location and activities. At the same time the app offers easy mobile optimized OpenStreetMap editing for easy contributions on the go. CityZen aims to be empowered by the community in terms of development and promotion and as a digital wallet for cryptocurrency used to make payments for goods and services from POIs easily through the app.&lt;/p&gt;
+        &lt;p&gt;Soon CityZen will apply blockchain as a decentralized process for the management of the cryptocoin based revenue that will be gathered through the app making it one of the few platforms out there used to help you find physical POIs and buy goods without giving away your real identity.&lt;/p&gt;</description>
         <persons>
-          <person id="4675">Sam Boyer</person>
+          <person id="4675">Mariana Balla</person>
         </persons>
         <links>
-          <link href="https://github.com/golang/dep">dep project</link>
-          <link href="https://video.fosdem.org/2018/H.1308/dep.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/dep.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6852.php">Submit feedback</link>
+          <link href="https://twitter.com/marianaballa1">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/privacy-aware-city-navigation-with-cityzen/">Website session link</link>
         </links>
       </event>
       <event id="6930">
-        <start>13:30</start>
+        <start>14:30</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>networking_swiss_knife</slug>
-        <title>Networking Swiss Army Knife for Go</title>
+        <room>Protik</room>
+        <slug>community</slug>
+        <title>The driving force behind open source communities</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Talk 2</track>
+        <type>opensource</type>
         <language/>
-        <abstract>&lt;p&gt;Creating and managing network devices, Traffic Control, routing and iptables, introspecting and manipulating network packets. That normally involves a lot of low level C programming, which introduces a huge gap between frontend (web and service oriented) and backend needs (systems programming). Go is excellent in bridging this gap in general, and thanks to the great work of the Go community, networking tasks are very easy to solve too. This session will introduce a set of libraries which form a comprehensive Swiss Army Knife to tackle almost any network related task on Linux with Go.&lt;/p&gt;</abstract>
+        <abstract>&lt;br /&gt;&lt;p&gt;What motivates people to contribute? What makes contributors stay? How to retain new contributors? Contribution to open source survey.&lt;/p&gt;</abstract>
         <description></description>
         <persons>
-          <person id="3407">Roman Mohr</person>
+          <person id="3407">Marinela Gogo</person>
+          <person id="3237">Xheni Myrtaj</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/networking_swiss_knife.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/networking_swiss_knife.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6930.php">Submit feedback</link>
+          <link href="https://twitter.com/MarinelaGogo">Marinela's Twitter</link>
+          <link href="https://twitter.com/xh3n1">Xheni's Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-driving-force-behind-open-source-communities/">Website session link</link>
         </links>
       </event>
       <event id="6095">
-        <start>14:00</start>
+        <start>15:00</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>interface</slug>
-        <title>The case for interface{}</title>
-        <subtitle>When and how to use empty interface</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>machines</slug>
+        <title>State of open source machine learning</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>google</type>
         <language/>
-        <abstract>&lt;p&gt;The empty interface (interface{}) is one of the most interesting, powerful, and easily abused features of Go, but there are use cases for which it is uniquely and excellently suited. In this talk for the Go devroom, I will propose a set of rules which can be used to see if your use of interface{} will be the elegant and simple API that interface{} promised, or merely lead to a maintainability nightmare down the road.&lt;/p&gt;</abstract>
+        <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
         <description></description>
         <persons>
-          <person id="4629">Sam Whited</person>
+          <person id="4629">Vadim Markovtsev</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/interface.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/interface.webm">Video recording (WebM/VP9)</link>
+          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/state-of-open-source-machine-learning/">Website session link</link>
           <link href="https://submission.fosdem.org/feedback/6095.php">Submit feedback</link>
         </links>
       </event>
@@ -7831,7 +7506,7 @@ A quick discussion about what are the plans for the future, including a way to m
 [2] https://github.com/kubevirt/kubevirt
 [3] https://github.com/kubernetes/client-go&lt;/p&gt;</description>
         <persons>
-          <person id="3407">Roman Mohr</person>
+          <person id="3408">Roman Mohr</person>
         </persons>
         <links>
           <link href="https://video.fosdem.org/2018/UD2.120/declarative_extensions_for_kubernetes_in_go.mp4">Video recording (mp4)</link>
@@ -9301,10 +8976,10 @@ other projects, since Kernel and U-Boot integration are already existing.&lt;/p&
         </links>
       </event>
     </room>
-    <room name="K.Level.2">
-    </room>
-  </day>
-  <day index="2" date="2018-02-04">
+
+
+
+
     <room name="Pyramid">
       <event id="6158">
         <start>10:00</start>

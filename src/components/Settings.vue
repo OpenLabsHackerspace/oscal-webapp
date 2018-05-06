@@ -3,7 +3,7 @@
     <v-card>
       <v-card-text>
         <v-layout row wrap>
-          <v-flex sm12 md6 offset-md3>
+          <v-flex xs12 md8 offset-md2>
             <div class="description">
               <p>Download a fresh version of conference schedule. It is never updated automatically.</p>
             </div>
@@ -87,8 +87,5 @@ export default {
     text-align: center;
   }
 
-  li {
-    margin-left: 20px;
-  }
-</style>
 
+</style>
