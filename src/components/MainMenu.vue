@@ -3,7 +3,7 @@
     <v-list dense>
       <menu-item title="Categories" icon="toc" to="/tracks"></menu-item>
       <menu-item title="Locations" icon="weekend" to="/rooms"></menu-item>
-      <menu-item title="All Events" icon="home" to="/all"></menu-item>
+      <menu-item title="Agenda" icon="home" to="/all"></menu-item>
       <menu-item title="Favourite Events" icon="favorite" to="/favourites"></menu-item>
       <v-divider></v-divider>
       <menu-item title="Venue Map" icon="map" to="/map"></menu-item>
@@ -40,7 +40,7 @@ export default {
 
 <style>
 .application.theme--light a {
-color: #EA272B; 
+color: #EA272B;
 }
 
 .list__tile--active .list__tile__action:first-of-type .icon {
@@ -50,4 +50,3 @@ color: #EA272B;
 color: #EA272B;
 }
 </style>
-
