@@ -632,7 +632,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <language/>
         <abstract></abstract>
         <description>&lt;br /&gt;&lt;p&gt;We love open source, but sometimes its daunting to take the first step and contribute to a project we follow. However, open source projects could always need more helping hands.&lt;/p&gt;
-          &lt;p&gt;IIn this talk, we will go through the steps of how to get started with open source. We will see how to use github and helpful resources to find issues we can solve depending on our skills, fork a project, and make a pull request to a problem we solve.&lt;/p&gt;
+          &lt;p&gt;In this talk, we will go through steps of how to get started with open source. We will see how to use github and helpful resources to find issues we can do depending on our skills, fork a project, and make a pull request to a problem we solve.&lt;/p&gt;
           &lt;p&gt;We will do this step by step, by learning a bit Git as well we will contribute together to a project, make a pull request and see that is not that scary after all. At the end it will feel great to have done something for the community.&lt;/p&gt;
         </description>
         <persons>
@@ -790,8 +790,9 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <track>Workshop 2</track>
         <type>webdev</type>
         <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open. The current protocol the web uses, HTTP, is facing some limitations. With more of the world online, bandwidth and latency are an increasing issue. The web is getting slower. In terms of data permanence HTTP links get deleted all the time. Imagine if someone could delete the entire Wikipedia database. All the data would be lost. Centralization is also an issue, a few companies owning a huge amount of the data.&lt;/p&gt;
-        &lt;p&gt;This can all change through IPFS, which offers a decentralized system of navigating the web. In this workshop we will explain what IPFS is, how is could help us make the web faster and decentralized, and how could we use it by building a small application.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open. &lt;/p&gt;</abstract>
+        <description>&lt;p&gt;The current protocol the web uses, HTTP, is facing some limitations. With more of the world online, bandwidth and latency are becoming issues. The web is getting slower. In terms of data permanence HTTP links get deleted all the time. Imagine if someone could delete all wikipedia database. All the data would be lost. Centralization is also an issue, a few companies owning a huge amount of the data.&lt;/p&gt;
+        &lt;p&gt;This can all change through IPFS, which offer a decentralized system of navigating the web. In this workshop we will explain what IPFS is, how is could help us make the web faster and decentralized and how could we use it by building a small application.&lt;/p&gt;</description>
         <persons>
           <person id="2113">Renato Selenica</person>
         </persons>
