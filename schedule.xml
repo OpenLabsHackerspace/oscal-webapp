@@ -1405,319 +1405,210 @@ and openness. The internet age in which we are living and the fast adoption of d
         </links>
       </event>
       <event id="6356">
-        <start>14:30</start>
+        <start>15:30</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>observability</slug>
-        <title>Google’s approach to distributed systems observability for Go</title>
+        <room>Protik</room>
+        <slug>architecture</slug>
+        <title>*x architectural patterns for frontend development</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Talk 2</track>
+        <type>devs</type>
         <language/>
-        <abstract>&lt;p&gt;The progression of microservices in the industry resembles me the way microservices progressed at Google. First, a common container format. Then, a way to express complicated systems in terms of containers. Then, tools to deploy them and services to schedule them. Then, core networking services to support the complicated networking requirements of our highly large systems with complex dependencies. Then, observability: collecting diagnostics data not just to recognize and debug production problems, but also to provide critical signals about usage to our highly adaptive and scalable environment.&lt;/p&gt;</abstract>
+        <abstract>&lt;br /&gt;&lt;p&gt;How to survive in a world of complex async and scalable webapps.&lt;/p&gt;</abstract>
         <description></description>
         <persons>
-          <person id="4881">Jaana Dogan (JBD)</person>
+          <person id="4881">Gabriele Falasca</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/observability.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/observability.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6356.php">Submit feedback</link>
+          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/x-architectural-patterns-for-frontend-development/">Website session link</link>
         </links>
       </event>
       <event id="6067">
-        <start>15:00</start>
+        <start>16:00</start>
         <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>gopherjs</slug>
-        <title>Creating GopherJS Apps with gRPC-Web</title>
+        <room>Protik</room>
+        <slug>angularjs</slug>
+        <title>The main features of the latest AngularJS release</title>
         <subtitle/>
-        <track>Go</track>
+        <track>Talk 2</track>
         <type>devroom</type>
         <language/>
-        <abstract>&lt;p&gt;This presentation will introduce gRPC, gRPC-Web and GopherJS to attendees. At the end of the presentation, they will know how to create a GopherJS frontend and leverage GopherJS gRPC-Web bindings for the communications with a generic Go gRPC backend.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;I'm the author of the &lt;a href="https://github.com/johanbrandhorst/protobuf"&gt;GopherJS gRPC-Web bindings&lt;/a&gt;. The library is based on the &lt;a href="https://github.com/improbable-eng/grpc-web"&gt;TypeScript gRPC-Web library by Improbable&lt;/a&gt;. It allows the user to define the frontend-backend interface as a proto3 protobuf file and generate a Go-gRPC-client-like interface for the GopherJS frontend to consume. In addition, it allows the user to write GopherJS frontends for generic gRPC servers, with the use of a proxy developed by Improbable. For more information about gRPC-Web see &lt;a href="https://improbable.io/games/blog/grpc-web-moving-past-restjson-towards-type-safe-web-apis"&gt;Improbable's blog post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;My library further extends the capabilities of the Improbable library by adding client side and bidirectional streaming over a websockets with a custom Go proxy library.&lt;/p&gt;
-
-&lt;p&gt;I have developed a demo for the library, available on &lt;a href="https://grpcweb.jbrandhorst.com"&gt;https://grpcweb.jbrandhorst.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The presentation will start with a quick introduction to Protobuf, gRPC and gRPC-Web, then introduce GopherJS and my GopherJS gRPC-Web bindings and walk through development of a small web app using GopherJS, the GopherJS gRPC-Web bindings and a generic Go gRPC backend server. I have previously delivered a lightning talk to the London Go User Group on the topic of this library, &lt;a href="https://skillsmatter.com/skillscasts/10924-using-grpc-web-to-connect-gopherjs-apps-to-grpc-backends"&gt;recording available&lt;/a&gt;. For this talk I will be able to talk more about the implementation details and walk through getting started with developing a GopherJS web app. I will wrap up with a summary of what we've discussed.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Yes! We are very excited. In this talk we are going to review the main features of the latest Angular release. We will also go over some cool demos and provide top tips for a shiny upgrade.&lt;/p&gt;</description>
         <persons>
-          <person id="4676">Johan Brandhorst</person>
+          <person id="4676">Gerard Sans</person>
         </persons>
         <links>
-          <link href="https://grpcweb.jbrandhorst.com">Demo of library in use</link>
-          <link href="https://github.com/johanbrandhorst/protobuf">Library repo</link>
-          <link href="https://jbrandhorst.com/post/gopherjs-grpcweb/">Blog post introducing library</link>
-          <link href="https://jbrandhorst.com/post/client-streaming/">Blog post introducing bidi streaming support</link>
-          <link href="https://skillsmatter.com/skillscasts/10924-using-grpc-web-to-connect-gopherjs-apps-to-grpc-backends">Lightning talk about library</link>
-          <link href="https://github.com/johanbrandhorst/grpcweb-example">Example app built with library</link>
-          <link href="https://github.com/johanbrandhorst/grpcweb-boilerplate">Boilerplate repo</link>
-          <link href="https://talks.godoc.org/github.com/johanbrandhorst/presentations/fosdem/grpcweb.slide">Slides for talk</link>
-          <link href="https://www.youtube.com/watch?v=R2HaxH7Et64">YouTube video of talk</link>
-          <link href="https://video.fosdem.org/2018/H.1308/gopherjs.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/gopherjs.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6067.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-main-features-of-the-latest-angularjs-release/">Website session link</link>
         </links>
       </event>
       <event id="6973">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>datastore</slug>
-        <title>Building and testing a distributed data store in Go</title>
+        <start>16:30</start>
+        <duration>00:15</duration>
+        <room>Protik</room>
+        <slug>fedora</slug>
+        <title>Fedora Labs – curated bundles for gamers, security researchers, designers and more</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Talk 2</track>
+        <type>labs</type>
         <language/>
-        <abstract>&lt;p&gt;This talk covers my experiences designing, building and testing a open-source distributed metrics store in Go.&lt;/p&gt;
-
-&lt;p&gt;I'll explain:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the system architecture and the trade-offs involved in distributed systems&lt;/li&gt;
-&lt;li&gt;how the design evolved&lt;/li&gt;
-&lt;li&gt;how Go is well-suited to high throughput distributed systems&lt;/li&gt;
-&lt;li&gt;useful libraries for building such systems in Go&lt;/li&gt;
-&lt;li&gt;using pprof to identify performance bottlenecks&lt;/li&gt;
-&lt;li&gt;how data structures affect garbage collection in high-throughput systems&lt;/li&gt;
-&lt;li&gt;testing strategies and failure injection&lt;/li&gt;
-&lt;/ul&gt;
-</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Fedora labs offer customized bundles of tools and applications for your Fedora. There are Fedora Labs for security related work(penetration testing), gamers, designers etc. These may be installed as standalone full versions of Fedora or as add-ons to existing Fedora installations. I will talk about what are Fedora labs, who can use them and how to install and use them on your desktop&lt;/ul&gt;</description>
         <persons>
-          <person id="4638">Matt Bostock</person>
+          <person id="4638">Bee Padalkar</person>
         </persons>
         <links>
-          <link href="https://github.com/mattbostock/timbala">Timbala source code</link>
-          <link href="https://video.fosdem.org/2018/H.1308/datastore.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/datastore.webm">Video recording (WebM/VP9)</link>
-          <link href="http://go-talks.appspot.com/github.com/mattbostock/talks/2018-02-03-fosdem_building_a_distributed_data_store_in_go/main.slide#1">Slides</link>
-          <link href="https://github.com/mattbostock/timbala/projects/1">Timbala project kanban board</link>
-          <link href="https://github.com/mattbostock/timbala/blob/master/docs/architecture.md">Timbala architecture docs</link>
-          <link href="https://github.com/mattbostock/timbala/issues?utf8=✓&amp;q=label%3Adecision+">Timbala decision records</link>
-          <link href="https://submission.fosdem.org/feedback/6973.php">Submit feedback</link>
+          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/fedora-labs-curated-bundles-for-gamers-security-researchers-designers-and-more/">Website session link</link>
         </links>
       </event>
       <event id="6816">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>gocv</slug>
-        <title>Computer Vision Using Go And OpenCV</title>
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>Protik</room>
+        <slug>travel</slug>
+        <title>Free travel information for Albania</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Talk 2</track>
+        <type>information</type>
         <language/>
-        <abstract>&lt;p&gt;It is easier to see what comes next for the Internet of Things (IoT) when you have eyes on the world. Computer Vision (CV) software, in particular the powerful open source OpenCV (&lt;a href="http://opencv.org"&gt;http://opencv.org&lt;/a&gt;) has made big leaps in power and usability, and is ready to come into its own as a key part of an advanced IoT solution.&lt;/p&gt;
-
-&lt;p&gt;At the same time the Go programming language aka Golang has won over fans with clean code, high-performance, and portability. But there has not been any way to unlock the most state-of-the-art CV libraries using the most state-of-the-art programming language... until now.&lt;/p&gt;
-
-&lt;p&gt;Introducing GoCV (&lt;a href="https://gocv.io"&gt;https://gocv.io&lt;/a&gt;) a new package for letting Go programmers create computer vision applications using OpenCV.&lt;/p&gt;
-
-&lt;p&gt;In this talk I will show how to use GoCV to build the next generation of computer vision applications, with live code demonstrations.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;It is easier to see what comes next for the Internet of Things (IoT) when you have eyes on the world. Computer Vision (CV) software, in particular the powerful open source OpenCV (&lt;a href="http://opencv.org"&gt;http://opencv.org&lt;/a&gt;) has made big leaps in power and usability, and is ready to come into its own as a key part of an advanced IoT solution.&lt;/p&gt;
-
-&lt;p&gt;At the same time the Go programming language aka Golang has won over fans with clean code, high-performance, and portability. But there has not been any way to unlock the most state-of-the-art CV libraries using the most state-of-the-art programming language... until now.&lt;/p&gt;
-
-&lt;p&gt;Introducing GoCV (&lt;a href="https://gocv.io"&gt;https://gocv.io&lt;/a&gt;) a new package for letting Go programmers create computer vision applications using OpenCV.&lt;/p&gt;
-
-&lt;p&gt;In this talk I will show how to use GoCV to build the next generation of computer vision applications, with live code demonstrations.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;This short talk targeting policy makers makes the case for Albania to develop travel information as free and open and suggests some tools to do this, including Wikivoyage &amp; OSM.&lt;/p&gt;</abstract>
+        <description></description>
         <persons>
-          <person id="4480">Ron Evans</person>
+          <person id="4480">Arianit Dobroshi</person>
         </persons>
         <links>
-          <link href="https://gocv.io">GoCV website</link>
-          <link href="https://video.fosdem.org/2018/H.1308/gocv.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/gocv.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6816.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/free-travel-information-for-albania/">Website session link</link>
         </links>
       </event>
       <event id="6998">
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>faster</slug>
-        <title>Make your Go go faster!</title>
-        <subtitle>Optimising performance through reducing memory allocations</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>community</slug>
+        <title>Community Meetup</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>meetup</type>
         <language/>
-        <abstract>&lt;p&gt;This talk will preset a set of techniques to make your Go programs run faster.&lt;/p&gt;
-
-&lt;p&gt;Starting with CPU profiling, moving through memory allocation profiling, to escape analysis,
-we will point out some less-well-known corners of the runtime, how they impact performance, and how to mitigate this impact.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Often, the single biggest drain on performance in a Go program is the garbage collector.
-Each release of the Go runtime comes with a slightly faster collector, but you can make
-much bigger performance improvements by not creating garbage in the first place:
-if you can rework your code to make fewer heap allocations, then the garbage collector
-will run less often and have less work to do.&lt;/p&gt;
-
-&lt;p&gt;Examples will be drawn from real-world experience optimising the Open Source container visualisation project &lt;a href="https://github.com/weaveworks/cortex"&gt;Weave Cortex&lt;/a&gt;.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description></description>
         <persons>
-          <person id="4278">Bryan Boreham</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/faster.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/faster.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6998.php">Submit feedback</link>
         </links>
       </event>
       <event id="7032">
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>devops</slug>
-        <title>Distributing DevOps tools using GoLang and Containers, for Fun and Profit!</title>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>erp</slug>
+        <title>Open Source ERP systems</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Workshop 1</track>
+        <type>systems</type>
         <language/>
-        <abstract>&lt;p&gt;A look at our approach to distributing DevOps tools between many teams (and CI), using a GoLang app to launch containers.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;We needed a way to reduce the overheads associated with onboarding new starters, so instead of a document giving a list of software that needed to be downloaded, e.g. Chef Development Kit, Terraform, Docker etc. etc. they could just download a single thing which gave them a ready made development environment whether they used Mac or Linux PCs.&lt;/p&gt;
-
-&lt;p&gt;Initially we used Vagrant for this, but that ended up not being the best tool for the job.&lt;/p&gt;
-
-&lt;p&gt;Then along came Docker for Mac, and we quickly realised that, by manipulating the GoLang Docker SDK, we could just run everything in containers.
-Because we wrote this in Go, we could also interact with other Go SDKs for products and services we look after, like AWS and Hashicorp Vault, to prepare an environment for these containers.&lt;/p&gt;
-
-&lt;p&gt;This worked really well! Too well, in fact, as people from across the company started asking us "can you add XYZ to this tool?".
-We didn't want our tool to become bloated, so we open-sourced the guts of our tool for other teams to create their own versions, with the tools they needed.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source ERP systems.&lt;/p&gt;</abstract>
+        <description></description>
         <persons>
-          <person id="5164">Lucy Davinhart</person>
+          <person id="5164">Anisa Selimi</person>
+          <person id="5197">Çeljeta Shehu</person>
         </persons>
         <links>
-          <link href="https://github.com/skybet/cali">Cali Source Code</link>
-          <link href="https://github.com/LMHD/lucli">LU(cy) CLI Code</link>
-          <link href="https://github.com/staticli/staticli ">Staticli Code</link>
-          <link href="https://video.fosdem.org/2018/H.1308/devops.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/devops.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7032.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-erp-systems/">Website session link</link>
         </links>
       </event>
       <event id="6378">
-        <start>17:30</start>
-        <duration>00:30</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>dna_sequencing</slug>
-        <title>AMENDMENT DNA sequencing performance in Go, C++, and Java</title>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>migration</slug>
+        <title>Migrating to LibreOffice</title>
         <subtitle/>
-        <track>Go</track>
-        <type>devroom</type>
+        <track>Workshop 1</track>
+        <type>libreoffice</type>
         <language/>
-        <abstract>&lt;p&gt;While Go is not primarily designed for parallel programming, it nevertheless has features that end up being beneficial for parallelism as well, especially the inclusion of a work-stealing scheduler for goroutines and a concurrent, parallel garbage collector. For this reason, we have recently included Go as one of several candidate programming languages in an evaluation of their suitability for expressing sequencing pipelines. Other programming languages we have evaluated were C++ and Java. Go hits a sweet spot of performing very close to the best results with little programming effort and few compromises in terms of safety and generality.&lt;/p&gt;
-
-&lt;p&gt;This talk will present highlights of this experiments and the most important insights.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;A DNA sequencer takes a DNA sample, such as human tissue, and applies chemical processes to eventually read small fragments of the DNA sample and output them as large files. These files are then fed into software pipelines that reconstruct the original DNA sequence from those fragments, among other things. Such sequencing pipelines need large amounts of storage, on disk and/or in RAM, and can strongly benefit from parallel execution to improve runtime performance. Data sets for human DNA samples are usually in the order of several hundreds of GB of uncompressed data, and runtimes are typically in the order of several hours for single samples.&lt;/p&gt;
-
-&lt;p&gt;Go is usually presented as a language designed for concurrent applications, and it is usually stressed that support for parallel programming  was not a major design goal. It may therefore be surprising to a larger audience that Go actually fares very well for parallel programming tasks, with relatively little effort. This talk may encourage Go developers to explore the language for application areas that can benefit from parallelism, beyond the domains where Go is typically used.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please note that this talk replaces one entitled "Writing a structured syslog parser in Go" that was due to have been given by Brian Knox, who has sent his apologies but is now unable to attend FOSDEM this year.&lt;/strong&gt;&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
+        <description></description>
         <persons>
-          <person id="4901">Pascal Costanza</person>
+          <person id="4901">Italo Vignoli</person>
         </persons>
         <links>
-          <link href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132868">A paper about the original implementation of elPrep in Common Lisp, which we have now ported to Go.</link>
-          <link href="https://github.com/exascience/elprep">The source code for elPrep.</link>
-          <link href="https://github.com/ExaScience/pargo">The source code for Pargo, a library for parallel programming in Go that we implemented.</link>
-          <link href="https://video.fosdem.org/2018/H.1308/dna_sequencing.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/dna_sequencing.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6378.php">Submit feedback</link>
+          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/migrating-to-libreoffice/">Website session link</link>
         </links>
       </event>
       <event id="7316">
-        <start>18:00</start>
+        <start>13:00</start>
         <duration>01:00</duration>
-        <room>H.1308 (Rolin)</room>
-        <slug>lightning</slug>
-        <title>Go Lightning Talks</title>
-        <subtitle>Come speak!</subtitle>
-        <track>Go</track>
-        <type>devroom</type>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Workshop 1</track>
+        <type>break</type>
         <language/>
-        <abstract>&lt;p&gt;The last hour of the day will be dedicated to lightning talks.
-Come watch great short talks, or come present yours!&lt;/p&gt;</abstract>
+        <abstract></abstract>
         <description></description>
         <persons>
-          <person id="2072">Francesc Campoy</person>
-          <person id="4618">Maartje Eyskens</person>
+          <person id="2072">OSCAL Staff</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1308/lightning.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1308/lightning.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7316.php">Submit feedback</link>
         </links>
       </event>
-    </room>
-    <room name="H.1309 (Van Rijn)">
       <event id="6514">
-        <start>10:30</start>
-        <duration>00:25</duration>
-        <room>H.1309 (Van Rijn)</room>
-        <slug>om_html5</slug>
-        <title>video - It's a lot more than just a HTML5 tag</title>
-        <subtitle>Things to consider when building a video enabled site</subtitle>
-        <track>Open Media</track>
-        <type>devroom</type>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>wikipedia</slug>
+        <title>Wikipedia: WikiPride and Diversity</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>pride</type>
         <language/>
-        <abstract>&lt;p&gt;The &amp;lt;video&gt; element was first proposed by Opera Software in February 2007. Opera also released a preview build that was &lt;a href="http://coolastory.blogspot.co.uk/2007/03/sv-web-builders-event-world-premier-of.html"&gt;showcased&lt;/a&gt; the same day and a &lt;a href="http://www.wiumlie.no/2007/video"&gt;manifesto&lt;/a&gt; that called for video to become a first-class citizen of the web.&lt;/p&gt;
-
-&lt;p&gt;Integrating video elements into the HTML5 standard has changed the world forever and for the better and enabled us to gradually rid ourselves from the proprietary, exploitable and often slow FLASH technology.
-However, the means to embed video in HTML5 enabled web pages is only the tip of the iceberg. In this session, we will discuss other crucial aspects of handling and serving video.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;This session will cover in detail the following aspects and how we handle them in the Kaltura Open Source Video Platform:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Video ingestion [uploading, encoding/transcoding]&lt;/li&gt;
-&lt;li&gt;Content distribution and Caching&lt;/li&gt;
-&lt;li&gt;Redundancy&lt;/li&gt;
-&lt;li&gt;Metadata cataloging and Searching&lt;/li&gt;
-&lt;li&gt;On-the-fly repackaging of MP4 files into DASH, HDS and HLS&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;We will conclude with an end-to-end demo of the Kaltura Video Platform.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;During the workshop we will teach the new ones to edit on Wikipedia and the existing users how to write good articles about LGBT subjects and women. Our main focus will be Wikipedia shqip and Wikidata. We are expecting to have participants of LGBT parade which will be hosted close to OSCAL(17 May), so we’re thinking to have a 15 min talk about challenges in Wikipedia about these subject and the rest of the time to edit about these subjects.&lt;/p&gt;</description>
         <persons>
-          <person id="2206">Jess Portnoy</person>
+          <person id="9865">Jona Rizvanolli</person>
+          <person id="2735">Kristina Millona</person>
         </persons>
         <links>
-          <link href="https://submission.fosdem.org/feedback/6514.php">Submit feedback</link>
+          <link href="https://twitter.com/JRizvanolli">Jona's Twitter</link>
+          <link href="https://twitter.com/KristinaMillona/">Kristina's Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/wikipedia-wikipride-and-diversity/">Website session link</link>
         </links>
       </event>
       <event id="7211">
-        <start>11:30</start>
-        <duration>00:25</duration>
-        <room>H.1309 (Van Rijn)</room>
-        <slug>om_imscjs</slug>
-        <title>Rendering of subtitles in HTML5 with imscJS</title>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>machines</slug>
+        <title>Introduction to Machine Learning</title>
         <subtitle/>
-        <track>Open Media</track>
-        <type>devroom</type>
+        <track>Workshop 1</track>
+        <type>machine_learning</type>
         <language/>
-        <abstract>&lt;p&gt;The TTML Profile for Internet Media Subtitles and Captions (IMSC) is the most promising candidate for a long awaited harmonized subtitle format for the Web. The open source library imscJS is not only a polyfill to render IMSC subtitles in the browser: as an open reference implementation it is a blueprint how to integrate IMSC subtitles in other open source projects e.g. in video players. The presentation will show how imscJS parses and renders IMSC subtitle files, where imscJS is already used and how the open source ecosystem for subtitles could benefit from it in the future.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We will begin with a small introductory talk about Machine Learning and its present day applications. I will also talk about some common machine learning models, how they work and their pros and cons. During the last 30 minutes of the workshop, attendees will use learnings from the talk to build a machine learning model and derive some interesting predictions.&lt;/p&gt;
+        &lt;p&gt;The workshop will need knowledge of Python programming basics however, you are welcome to attend initial introductory talk to Machine Learning even if you don’t know programming or Python yet. Please have python3 installed before if you plan to attend the workshop.&lt;/p&gt;</description>
         <persons>
-          <person id="2735">Andreas Tai</person>
+          <person id="9965">Bee Padalkar</person>
         </persons>
         <links>
-          <link href="https://github.com/sandflow/imscJS">Github Repository of imscJS</link>
-          <link href="https://www.w3.org/TR/ttml-imsc1/">Version 1.0 of IMSC </link>
-          <link href="https://www.w3.org/TR/ttml-imsc1.1/">Draft of the version 1.1 of IMSC</link>
-          <link href="https://github.com/Dash-Industry-Forum/dash.js/">DASH JS as an example how IMSC is used in other Open Source Projects</link>
-          <link href="https://video.fosdem.org/2018/H.1309/om_imscjs.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1309/om_imscjs.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/7211.php">Submit feedback</link>
+          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/introduction-to-machine-learning/">Website session link</link>
         </links>
       </event>
       <event id="7280">
-        <start>12:00</start>
-        <duration>00:25</duration>
-        <room>H.1309 (Van Rijn)</room>
-        <slug>vlc</slug>
-        <title>An update on VLC and the VideoLAN community</title>
-        <subtitle>VLC 4.0, VLC.js, VLC-VR?</subtitle>
-        <track>Open Media</track>
-        <type>devroom</type>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>server</slug>
+        <title>First Linux Setup for Web Server</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>start</type>
         <language/>
         <abstract>&lt;p&gt;This talk will present some updates on the VideoLAN community and on VLC.&lt;/p&gt;</abstract>
         <description>&lt;p&gt;We will notably discuss about VLC 4.0 (the next release); VideoLAN infrastructure, including security; and other projects like VLC.js or VLC-VR.&lt;/p&gt;
@@ -1742,15 +1633,13 @@ However, the means to embed video in HTML5 enabled web pages is only the tip of 
         <track>Open Media</track>
         <type>devroom</type>
         <language/>
-        <abstract>&lt;p&gt;A short walk through of what we have been doing past year since v17 release and what we are still planning to do.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;During the time we worked towards the final release of v17 some of our developers already took a head start for v18. During past year developers in and outside of the Kodi Team have been steadily refactoring and working on new features that will be included in the upcoming V18. Various parts have already been published in articles on our website though we will also sum up some parts that are in the pipe line. In total will try to do a brief rundown on what we hope will be included.&lt;/p&gt;</description>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;In this workshop we will see how to make the first setup for Linux Web Server by configuring ssh, firewall, failtoban and also LAMPP Stack (Apache, MySQL, PHP (with the specified PHP version) PhpMyAdmin, setting up the right user permissions and configuring and scheduling backups according to the requirements (Debian and Ubuntu and CentOS).&lt;/p&gt;</description>
         <persons>
-          <person id="2447">Martijn Kaijser</person>
+          <person id="2447">Silvi Kolumçaj</person>
         </persons>
         <links>
-          <link href="https://video.fosdem.org/2018/H.1309/om_kodi.mp4">Video recording (mp4)</link>
-          <link href="https://video.fosdem.org/2018/H.1309/om_kodi.webm">Video recording (WebM/VP9)</link>
-          <link href="https://submission.fosdem.org/feedback/6968.php">Submit feedback</link>
+          <link href="https://oscal.openlabs.cc/sessions/first-linux-setup-for-web-server/">Website session link</link>
         </links>
       </event>
       <event id="6960">
@@ -6495,7 +6384,7 @@ We will present a wide range of techniques like manual QA, automated tests, code
 Learn how you help curating this data and where it could be embedded.&lt;/p&gt;</abstract>
         <description></description>
         <persons>
-          <person id="5197">Florian Scholz</person>
+          <person id="5100">Florian Scholz</person>
         </persons>
         <links>
           <link href="https://github.com/mdn/browser-compat-data">https://github.com/mdn/browser-compat-data</link>
@@ -7723,7 +7612,7 @@ Graphite store data in it's own database, called whisper. But managing whisper a
 
 &lt;p&gt;The talk will be shortened to fit in 25min (+5 min questions).&lt;/p&gt;</description>
         <persons>
-          <person id="5100">Corentin Chary</person>
+          <person id="5176">Corentin Chary</person>
         </persons>
         <links>
           <link href="https://video.fosdem.org/2018/UD2.120/graphite_at_scale_at_criteo_biggraphite.mp4">Video recording (mp4)</link>
@@ -15877,7 +15766,7 @@ We’ll go through the complete process of testing step by step and answering al
 
 &lt;p&gt;All of the topics above are told from the perspective of a fully remote design team working with open source software, including a wide community.&lt;/p&gt;</description>
         <persons>
-          <person id="5176">Dimitrie Hoekstra</person>
+          <person id="8176">Dimitrie Hoekstra</person>
         </persons>
         <links>
           <link href="https://video.fosdem.org/2018/K.4.201/osd_improving_gitlabs_navigation_and_design_system.mp4">Video recording (mp4)</link>
