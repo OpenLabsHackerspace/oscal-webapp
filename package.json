@@ -1,7 +1,7 @@
 {
   "name": "OSCAL",
   "description": "OSCAL 2018 conference planner, version web",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "author": "Anxhelo Lushka <anxhelo@lushka.al>",
   "private": true,
   "scripts": {
