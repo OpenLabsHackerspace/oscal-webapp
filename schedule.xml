@@ -1491,20 +1491,20 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Protik</room>
-        <slug>erp</slug>
-        <title>Open Source ERP systems</title>
+        <slug>crm</slug>
+        <title>Introduction to opensource CRM</title>
         <subtitle/>
         <track>Workshop 1</track>
         <type>systems</type>
         <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source ERP systems.&lt;/p&gt;</abstract>
+        <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source CRM systems.&lt;/p&gt;</abstract>
         <description></description>
         <persons>
           <person id="5164">Anisa Selimi</person>
           <person id="5197">Çeljeta Shehu</person>
         </persons>
         <links>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-erp-systems/">Website session link</link>
+          <link href="https://oscal.openlabs.cc/sessions/introduction-to-opensource-crm/">Website session link</link>
         </links>
       </event>
       <event id="6378">
