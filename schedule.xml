@@ -752,2593 +752,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <type>start</type>
         <language/>
         <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;In this workshop we will see how to make the first setup for Linux Web Server by configuring ssh, firewall, failtoban and also LAMPP Stack (Apache, MySQL, PHP (with the specified PHP version) PhpMyAdmin, setting up the right user permissions and configuring and scheduling backups according to the requirements (Debian and Ubuntu and CentOS).&lt;/p&gt;</description>
-        <persons>
-          <person id="2447">Silvi Kolumçaj</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/first-linux-setup-for-web-server/">Website session link</link>
-        </links>
-      </event>
-      <event id="6670">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>workflow</slug>
-        <title>Git &amp; GitHub workflow for beginners</title>
-        <subtitle></subtitle>
-        <track>Workshop 2</track>
-        <type>github</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;An Intro to Git and GitHub for beginners, explaining git and some git commands. Also, what are branches, what is a fork, how to sync forks, how to set up Travis CI on your own fork etc?&lt;/p&gt;</description>
-        <persons>
-          <person id="4056">Xheni Myrtaj</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/xh3n1">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/git-github-workflow-for-beginners/">Website session link</link>
-        </links>
-      </event>
-      <event id="6672">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>ipfs</slug>
-        <title>Building web applications using IPFS</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>webdev</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The current protocol the web uses, HTTP, is facing some limitations. With more of the world online, bandwidth and latency are an increasing issue. The web is getting slower. In terms of data permanence HTTP links get deleted all the time. Imagine if someone could delete the entire Wikipedia database. All the data would be lost. Centralization is also an issue, a few companies owning a huge amount of the data. This can all change through IPFS, which offers a decentralized system of navigating the web. In this workshop we will explain what IPFS is, how is could help us make the web faster and decentralized, and how could we use it by building a small application.&lt;/p&gt;</description>
-        <persons>
-          <person id="2113">Renato Selenica</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/building-web-applications-using-ipfs/">Website session link</link>
-        </links>
-      </event>
-      <event id="6721">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3904">OSCAL Staff</person>
-        </persons>
-        <links></links>
-      </event>
-      <event id="6283">
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Girls in open source</title>
-        <subtitle></subtitle>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      <event id="6393">
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Meet the Fedora community</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      <event id="6083">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title> Community meetup - Albanian Wikipedia Community Discussion</title>
-        <subtitle>Part 1</subtitle>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6468">
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Albanian Wikipedia Community Discussion</title>
-        <subtitle>Part 2</subtitle>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      </room>
-    </day>
-<day index="2" date="2018-05-20">
-  <room name="Pyramid">
-      <event id="7319">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>coding</slug>
-        <title>Everybody Should Learn How To Code</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>devroom</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We live in the age of digital technology. Gaining an understanding of the work developers do can open up our imagination to the endless possibilities to change ourselves, our neighbors, our communities, our cities, our countries, and indeed, the world itself.&lt;/p&gt;</description>
-        <persons>
-          <person id="5375">Johnny Siman</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/everybody-should-learn-how-to-code/">Website session link</link>
-        </links>
-      </event>
-      <event id="6465">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>vulnerabilities</slug>
-        <title>Website vulnerabilities</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>website</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;In this presentation Alex will give an overview of existing and most common website vulnerabilities. To highlight the importance of security, he will enrich each type of vulnerability with his personal experience on how he faced them in real life.&lt;/p&gt;</description>
-        <persons>
-          <person id="2639">Oleksander Trotsenko</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/website-vulnerabilities/">Website session link</link>
-        </links>
-      </event>
-      <event id="7110">
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>tirana</slug>
-        <title>The open source projects implemented at the Municipality of Tirana</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>tirana_foss</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3914">Julian Killo</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/the-open-source-projects-implemented-at-the-municipality-of-tirana/">Website session link</link>
-        </links>
-      </event>
-      <event id="6637">
-        <start>11:30</start>
-        <duration>00:3  0</duration>
-        <room>Pyramid</room>
-        <slug>osi</slug>
-        <title>Consensus as a Service - OSI 20th Anniversary</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>service</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;The Open Source label was born in February 1998 as a new way to popularise free software for business adoption. OSI will celebrate its 20th Anniversary on February 3, 2018, during the opening day of FOSDEM 2018.&lt;/p&gt;
-        </abstract>
-        <description>&lt;p&gt;The presentation will summarize the evolution of open source licences and the Open Source Definition (OSD) across two decades, explain why the concept of free open source software has grown in both relevance and popularity and explore trends for the third decade of opensource.&lt;/p&gt;</description>
-        <persons>
-          <person id="5016">Italo Vignoli</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/consensus-as-a-service-osi-20th-anniversary/">Website session link</link>
-        </links>
-      </event>
-      <event id="6467">
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>cooking</slug>
-        <title>How to cook your own open source event</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>events</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Eight years ago, the idea of open source cooking in Munich first was on the table and since then took place over a dozen of times already.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;After the first meal it became clear immediately: You indeed can apply the principles of free software communities to other areas of life. Many contributors working jointly on a common goal, each of them bringing in their individual skills and interests, to create something delicious and tasty many benefit from – lots of fun for everyone included!&lt;/p&gt;
-        &lt;p&gt;Created as a rather, well, “spontaneous” idea during our open source meetings, many free software enthusiasts nowadays bring their kids and family along to meet, cook together, have a good time and lots of fun, all of that (mostly 🙂 far away from smartphones, computers or wifi.&lt;/p&gt;
-      &lt;p&gt;In this talk, Florian gives an overview of open source activities in Munich, shares some wild ideas for the future and explains why open source and cooking have more in common than you may actually think. Bon appétit!&lt;/p&gt;</description>
-        <persons>
-          <person id="4933">Florian Effenberger</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/floeff">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-cook-your-own-open-source-event/">Website session link</link>
-        </links>
-      </event>
-      <event id="6438">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>writing</slug>
-        <title>Free software won’t write itself</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>coding</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Lots of people talk about Free software, not as many contribute to it. It’s found on most servers and it’s at the core of a lot of businesses. What if won’t be developed anymore? What can we do to build our projects on solid foundations and be part of an healthy environment?&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4937">Riccardo Magliocchetti</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/rmistaken">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/free-software-wont-write-itself/">Website session link</link>
-        </links>
-      </event>
-      <event id="6104">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Pyramid</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Talk 1</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="4712">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6437">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>contributions</slug>
-        <title>Get paid to contribute to FOSS</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>payment</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Outreachy, Google Summer of Code and Rails Summer of Code are some programs which offer paid internships with open source projects. I have been an past Outreachy intern and also a mentor for GSoC. I will talk about these programs, their timeline and application tips. This talk will mainly have a Q and A session with attendees about their queries and will involve other interns of these programs too.&lt;/p&gt;</description>
-        <persons>
-          <person id="4671">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/get-paid-to-contribute-to-foss/">Website session link</link>
-        </links>
-      </event>
-      <event id="6456">
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>communication</slug>
-        <title>Importance of communication in Open Source communities</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>comms</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Open Source communities are excellent example of most diverse and globally spread work-space. Although, this is a major plus and feels amazing to work in such a diverse culture, but at the same time we need to face the challenge of accurate communication. When we are not at the same place and can’t talk face-to-face, expressing the right thing in correct manner becomes more important and we need to take care of several things. Obviously, we are not always using video chats when we are communicating with our fellow community members and lack of those facial expressions make it more complex to deliver the right message. Communication has many attributes to it – right content, ambiguity, accurate by all means (ethically, culturally) and at the end we are conveying what is intended.&lt;/p&gt;
-        &lt;p&gt;We may think communication to be a very basic technique of delivering message, but it gets complicated specially when it is not verbal and not on video chat. You may want to write a good “WOW” but it can be interpreted as a bad “WOW” depending on the receiver’s culture/mood and intend.&lt;/p&gt;
-        &lt;p&gt;My paper will highlight certain examples of such communication glitches and also some basic magical rules of good communication.</description>
-        <persons>
-          <person id="4951">Amita Sharma</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/AmitaSharma6">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/importance-of-communication-in-open-source-communities/">Website session link</link>
-        </links>
-      </event>
-      <event id="6596">
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>school</slug>
-        <title>Building the School 2.0</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>education</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;How do we build the next generation education as an open source platform? What does open, free as in beer and free as in freedom have to do with it? How can we use crowdsourcing and AI to power communities and humanity to build their sustainable education? Story of ups and downs in building the school of the future.&lt;/p&gt;</description>
-        <persons>
-          <person id="5028">Marko Kažić</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/marxo">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/building-the-school-2-0/">Website session link</link>
-        </links>
-      </event>
-      <event id="6470">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>Linux</slug>
-        <title>Just under the surface of Linux</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>surface</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We all use files, directories, and processes whenever we use Linux, but not everyone knows what they really are and how they are brought into existence. We won’t go very deeply into it, but will introduce the underlying concepts enough to improve your understanding of what’s going on in your computer.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4698">John Sturdy</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/just-under-the-surface-of-linux/">Website session link</link>
-        </links>
-      </event>
-      <event id="7270">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>projects</slug>
-        <title>Petting your sideprojects</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>sideprojects</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;A creative mind never sleeps, it cannot be stopped and it doesn’t have any boundaries (maybe except of imagining a new color). In the hands of an engineer this can be a powerful double-edged sword. It can both produce the next cool startup that changes the world as well as a bunch of ragequits from your editor. This talk is about how my sideprojects were born, failed, thrived or took control over my work.&lt;/p&gt;</description>
-        <persons>
-          <person id="5339">Dávid Halász</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/halaszdavid">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/petting-your-sideprojects/">Website session link</link>
-        </links>
-      </event>
-      <event id="7271">
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>machine</slug>
-        <title>Machine Learning on Open Source code</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>machine_learning</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Few people look at open source code as a massive dataset for researchers. Yet we’ve accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source.&lt;/ul&gt;
-        &lt;p&gt;GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference’s proceedings and also touches the related research we conduct.&lt;/ul&gt;</description>
-        <persons>
-          <person id="5340">Vadim Markovtsev</person>
-        </persons>
-        <links>
-          <link href="https://github.com/src-d/awesome-machine-learning-on-source-code">Research</link>
-          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/machine-learning-on-open-source-code/">Website session link</link>
-        </links>
-      </event>
-      <event id="7272">
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>IM</slug>
-        <title>Death by a thousand chats</title>
-        <subtitle>Helping developers and users stay sane.</subtitle>
-        <track>Talk 1</track>
-        <type>chats</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Email, Real-time communications services, apps and giant animated billboards are relentlessly seeking to grab our attention, 24 hours per day, 7 days per week. Has it gone too far? A novice motorcyclist needs little training to learn rapid acceleration: to stay alive, however, requires learning how and when to slow down as well. Achieving prosperity and avoiding burn-out in the information age requires a similar level of discipline in our use of technology. &lt;/p&gt;
-        &lt;p&gt;As developers, this is even more critical for us as we implement tools for our own communities and our users. In this session, Pocock, an experienced developer in a range of fields including real-time communications and monitoring systems, shines a light on these issues, looks at how we can improve our experience as developers and shows how free software is the most effective way to solve these challenges for our users, society at large.&lt;/p&gt;</description>
-        <persons>
-          <person id="2154">Daniel Pocock</person>
-          <person id="9881">Enkelena Haxhiu</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/death-by-a-thousand-chats/">Website session link</link>
-        </links>
-      </event>
-      <event id="7273">
-        <start>17:30</start>
-        <duration>00:15</duration>
-        <room>Pyramid</room>
-        <slug>closing</slug>
-        <title>Closing speech – Day 2</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>closing_speech</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3682">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      </room>
-  <room name="Protik">
-      <event id="7274">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>react</slug>
-        <title>Patterns in React</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>reactjs</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;It’s been five years since React’s first version was released in 2013. Back then there were little to none code practices, project structures and community rules to be followed. And with the release of React 16 we have a more stable environment some patterns start to evolve as the community it’s taking shape. This talk is about some of the most interesting parts of React, Design Patterns, Code structures, Redux best practices and scalability.&lt;/p&gt;</description>
-        <persons>
-          <person id="5341">Kristi Buda</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BudaKristi">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/patterns-in-react/">Website session link</link>
-        </links>
-      </event>
-      <event id="7275">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>security</slug>
-        <title> Open-Source security tools – Should you?</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>tools</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk I will describe the common pitfalls that I had during my job as a Security Engineer from the Defensive point of view and give my opinion on the ethical misconception of publishing Offensive security tools.&lt;/p&gt;</description>
-        <persons>
-          <person id="5343">Rio Sherri</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/0x09AL">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-security-tools-should-you/">Website session link</link>
-        </links>
-      </event>
-      <event id="5991">
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>pwa</slug>
-        <title>PWA power!</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>pwa</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Make your website work completely offine, with look and feel of native App!&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="2072">Gabriele Falasca</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/pwa-power/">Website session link</link>
-        </links>
-      </event>
-      <event id="6528">
-        <start>11:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>radare</slug>
-        <title>Executable reverse engineering 101 with radare 2</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>devroom</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Suffering from a lack of good free software tools, reverse engineering on Linux never been a very popular activity among hobbyists. However, more tools exist now, and we will discover how to use Radare2, a GPL set of tools to examine a wide range of binaries.&lt;/p&gt;
-        &lt;p&gt;This session will present the very basics concepts behind assembly and low level languages, and show simple commands and the philosophy behind radare 2. In order to be concrete, a very simple binary will be looked at to illustrate the concepts, tools and practices, and let people be ready to tackle more complex challenges either for fun (such as a security CTF) or for more serious reasons (such as malware and exploit dissecting).&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;No binaries will be harmed during the presentation.&lt;/strong&gt;&lt;/p&gt;</description>
-        <persons>
-          <person id="4999">Michael Scherer</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/executable-reverse-engineering-101-with-radare-2/">Website session link</link>
-        </links>
-      </event>
-      <event id="6647">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>pylint</slug>
-        <title>How to write pylint plugins</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>plugins</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Pylint is the most popular Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It is possible to write plugins to add your own checks, for example coding patterns that you have observed inside your software and are generally a bad practice or rules which you would like to enforce inside of a particular project, e.g. class name and inheritance conventions.&lt;/ul&gt;</description>
-        <persons>
-          <person id="3583">Alexander Todorov</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/atodorov_">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-write-pylint-plugins/">Website session link</link>
-        </links>
-      </event>
-      <event id="7001">
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>encryption</slug>
-        <title>End-to-End Encrypted Messaging: Next Steps for Privacy and Decentralization</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>encryption</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;We rely on end-to-end encrypted messaging apps for protecting our confidential and sensitive information. However, how do you know your messages are really protected? What does the server or a third-party eavesdropper know about your contacts and communication? To be honest, it’s difficult to tell these applications apart.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk, we’ll review the state of the art Signal protocol (also used by WhatsApp), Telegram, and iMessage – and how all of these protocols fail to address privacy, group messaging, and decentralization. For example, Telegram group chats are unencrypted, and even Signal group messaging is not as secure as one-to-one messaging. &lt;/p&gt;
-        &lt;p&gt;We’ll show how privacy-preserving blockchains can help decentralize secure messaging, how Tor and mix networking can address the open privacy problems (at the cost of spped!), how the new Message Layer Security (MLS) open standard from the IETF may be able to fix group messaging – and how you can to get involved in the open source projects to fix secure messaging! &lt;/p&gt;
-        </description>
-        <persons>
-          <person id="5018">Harry Halpin</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/harryhalpin">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/end-to-end-encrypted-messaging-next-steps-for-privacy-and-decentralization/">Website session link</link>
-        </links>
-      </event>
-      <event id="6740">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Talk 2</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="5114">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6852">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>cityzen</slug>
-        <title>Privacy aware city navigation with CityZen</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>navigation</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Navigating our cities using free software community based mobile apps in ‘private mode’ might sound like an easy task in 2017, but with a little research you will be quickly disappointed. There are related platforms out there, but some of them are lacking good User Experience, others are not community lead or are getting away from the free software freedoms due to their partnerships with companies that do not respect our privacy online.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;These are only some of the reasons the CityZen app was born in Tirana, as an OSM based Android app that helps us navigate our cities without tracking our location and activities. At the same time the app offers easy mobile optimized OpenStreetMap editing for easy contributions on the go. CityZen aims to be empowered by the community in terms of development and promotion and as a digital wallet for cryptocurrency used to make payments for goods and services from POIs easily through the app.&lt;/p&gt;
-        &lt;p&gt;Soon CityZen will apply blockchain as a decentralized process for the management of the cryptocoin based revenue that will be gathered through the app making it one of the few platforms out there used to help you find physical POIs and buy goods without giving away your real identity.&lt;/p&gt;</description>
-        <persons>
-          <person id="4675">Mariana Balla</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/marianaballa1">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/privacy-aware-city-navigation-with-cityzen/">Website session link</link>
-        </links>
-      </event>
-      <event id="6930">
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>community</slug>
-        <title>The driving force behind open source communities</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>opensource</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;What motivates people to contribute? What makes contributors stay? How to retain new contributors? Contribution to open source survey.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="3407">Marinela Gogo</person>
-          <person id="3237">Xheni Myrtaj</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/MarinelaGogo">Marinela's Twitter</link>
-          <link href="https://twitter.com/xh3n1">Xheni's Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/the-driving-force-behind-open-source-communities/">Website session link</link>
-        </links>
-      </event>
-      <event id="6095">
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>machines</slug>
-        <title>State of open source machine learning</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>google</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4629">Vadim Markovtsev</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/state-of-open-source-machine-learning/">Website session link</link>
-          <link href="https://submission.fosdem.org/feedback/6095.php">Submit feedback</link>
-        </links>
-      </event>
-      <event id="6356">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>architecture</slug>
-        <title>*x architectural patterns for frontend development</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>devs</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;How to survive in a world of complex async and scalable webapps.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4881">Gabriele Falasca</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/x-architectural-patterns-for-frontend-development/">Website session link</link>
-        </links>
-      </event>
-      <event id="6067">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>angularjs</slug>
-        <title>The main features of the latest AngularJS release</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>devroom</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Yes! We are very excited. In this talk we are going to review the main features of the latest Angular release. We will also go over some cool demos and provide top tips for a shiny upgrade.&lt;/p&gt;</description>
-        <persons>
-          <person id="4676">Gerard Sans</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/the-main-features-of-the-latest-angularjs-release/">Website session link</link>
-        </links>
-      </event>
-      <event id="6973">
-        <start>16:30</start>
-        <duration>00:15</duration>
-        <room>Protik</room>
-        <slug>fedora</slug>
-        <title>Fedora Labs – curated bundles for gamers, security researchers, designers and more</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>labs</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Fedora labs offer customized bundles of tools and applications for your Fedora. There are Fedora Labs for security related work(penetration testing), gamers, designers etc. These may be installed as standalone full versions of Fedora or as add-ons to existing Fedora installations. I will talk about what are Fedora labs, who can use them and how to install and use them on your desktop&lt;/ul&gt;</description>
-        <persons>
-          <person id="4638">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/fedora-labs-curated-bundles-for-gamers-security-researchers-designers-and-more/">Website session link</link>
-        </links>
-      </event>
-      <event id="6816">
-        <start>16:45</start>
-        <duration>00:15</duration>
-        <room>Protik</room>
-        <slug>travel</slug>
-        <title>Free travel information for Albania</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>information</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;This short talk targeting policy makers makes the case for Albania to develop travel information as free and open and suggests some tools to do this, including Wikivoyage &amp; OSM.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4480">Arianit Dobroshi</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/free-travel-information-for-albania/">Website session link</link>
-        </links>
-      </event>
-      <event id="6998">
-        <start>10:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>community</slug>
-        <title>Community Meetup</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>meetup</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="7032">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>erp</slug>
-        <title>Open Source ERP systems</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>systems</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source ERP systems.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5164">Anisa Selimi</person>
-          <person id="5197">Çeljeta Shehu</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-erp-systems/">Website session link</link>
-        </links>
-      </event>
-      <event id="6378">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>migration</slug>
-        <title>Migrating to LibreOffice</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>libreoffice</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4901">Italo Vignoli</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/migrating-to-libreoffice/">Website session link</link>
-        </links>
-      </event>
-      <event id="7316">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Workshop 1</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="2072">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6514">
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>wikipedia</slug>
-        <title>Wikipedia: WikiPride and Diversity</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>pride</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;During the workshop we will teach the new ones to edit on Wikipedia and the existing users how to write good articles about LGBT subjects and women. Our main focus will be Wikipedia shqip and Wikidata. We are expecting to have participants of LGBT parade which will be hosted close to OSCAL(17 May), so we’re thinking to have a 15 min talk about challenges in Wikipedia about these subject and the rest of the time to edit about these subjects.&lt;/p&gt;</description>
-        <persons>
-          <person id="9865">Jona Rizvanolli</person>
-          <person id="2735">Kristina Millona</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/JRizvanolli">Jona's Twitter</link>
-          <link href="https://twitter.com/KristinaMillona/">Kristina's Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/wikipedia-wikipride-and-diversity/">Website session link</link>
-        </links>
-      </event>
-      <event id="7211">
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>machines</slug>
-        <title>Introduction to Machine Learning</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>machine_learning</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We will begin with a small introductory talk about Machine Learning and its present day applications. I will also talk about some common machine learning models, how they work and their pros and cons. During the last 30 minutes of the workshop, attendees will use learnings from the talk to build a machine learning model and derive some interesting predictions.&lt;/p&gt;
-        &lt;p&gt;The workshop will need knowledge of Python programming basics however, you are welcome to attend initial introductory talk to Machine Learning even if you don’t know programming or Python yet. Please have python3 installed before if you plan to attend the workshop.&lt;/p&gt;</description>
-        <persons>
-          <person id="9965">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/introduction-to-machine-learning/">Website session link</link>
-        </links>
-      </event>
-      <event id="6014">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>git</slug>
-        <title>Deploy to Linux Server with Git</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>server</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Git is one of the most commonly used tools to deploy files from your local machine to your remote machine/server. In this workshop we will introduce the steps needed to take in order to create a repository to our server so we can deploy from our local machine to our remote location by using git.&lt;/p&gt;</description>
-        <persons>
-          <person id="1263">Silvi Kolumçaj</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/deploy-to-linux-server-with-git/">Website session link</link>
-        </links>
-      </event>
-      <event id="6200">
-        <start>10:30</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>debian</slug>
-        <title>Community meetup: Introduction to Debian tools</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>tools</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      <event id="6482">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>magento</slug>
-        <title>Speaking about Magento</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>dev</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;I am going to talk about Magento Community Edition.Speaking about Magento performance, security , development basics, Magento 2 and ways how to run Magento locally using docker.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4868">Ledian Hymetllari</person>
-          <person id="2138">James Cowie</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/ledihymetllari">Ledian's Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/speaking-about-magento/">Website session link</link>
-        </links>
-      </event>
-      <event id="7176">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>pandoc</slug>
-        <title>Pandoc — removing the fuss out of handing out documents</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>documents</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;An introduction on how to use pandoc in document editing, publishing, storage and conversion.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5290">Jor Bashllari</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/pandoc-removing-the-fuss-out-of-handing-out-documents/">Website session link</link>
-        </links>
-      </event>
-      <event id="7031">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Workshop 2</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="4511">OSCAL Staff</person>
-        </persons>
-        <links></links>
-      </event>
-      <event id="7170">
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>business</slug>
-        <title>Free software for business and freelancer financial accounting</title>
-        <subtitle>Part 1</subtitle>
-        <track>Workshop 2</track>
-        <type>financal</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="5294">Daniel Pocock</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/free-software-for-business-and-freelancer-financial-accounting-part-1/">Website session link</link>
-        </links>
-      </event>
-      <event id="6922">
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>business</slug>
-        <title>Free software for business and freelancer financial accounting</title>
-        <subtitle>Part 2</subtitle>
-        <track>Workshop 2</track>
-        <type>financial</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3074">Daniel Pocock</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/free-software-for-business-and-freelancer-financial-accounting-part-2/">Website session link</link>
-        </links>
-      </event>
-      <event id="7068">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>django</slug>
-        <title>Introduction to Web Development with Django</title>
-        <subtitle></subtitle>
-        <track>Workshop 2</track>
-        <type>webdev</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;A brief introduction to Django as an Open Source Web Framework and online resources to learn Web Development. After that a hands-on workshop on how to set up the Django Web Development Environment on your machine. If time permits we will also build a first simple app in Django.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5291">Fatjon Gërra</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/t0mkatt">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/introduction-to-web-development-with-django/">Website session link</link>
-        </links>
-      </event>
-    </room>
-  </day>
-</schedule>
-<?xml version="1.0" encoding="UTF-8"?>
-<schedule>
-  <conference>
-    <title>OSCAL 2018</title>
-    <subtitle/>
-    <venue>The Pyramid of Tirana and Protik Center</venue>
-    <city>Tirana</city>
-    <start>2018-05-19</start>
-    <end>2018-05-20</end>
-    <days>2</days>
-    <day_change>09:00:00</day_change>
-    <timeslot_duration>00:05:00</timeslot_duration>
-  </conference>
-  <day index="1" date="2018-05-19">
-    <room name="Pyramid">
-      <event id="7294">
-        <start>09:30</start>
-        <duration>00:15</duration>
-        <room>Main Track</room>
-        <slug>opening_speech</slug>
-        <title>Opening Speech</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>opening speech</type>
-        <language/>
-        <abstract>Opening speech of OSCAL 2018</abstract>
-        <description>The OSCAL 2018 opening speech from the organizers.</description>
-        <persons>
-          <person id="6">OSCAL Staff</person>
-        </persons>
-      </event>
-      <event id="6245">
-        <start>09:45</start>
-        <duration>00:15</duration>
-        <room>Pyramid</room>
-        <slug>mayor</slug>
-        <title>A word from the mayor of Tirana, Erion Veliaj</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>opening_speech</type>
-        <language/>
-        <abstract>A word from the mayor of Tirana, Erion Veliaj</abstract>
-        <description></description>
-        <persons>
-          <person id="228">Erion Veliaj</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/erionveliaj">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/erion-veliajs-speech/">Website Session Link</link>
-        </links>
-      </event>
-      <event id="6458">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>policy_making</slug>
-        <title>The approach to free software and culture at Roma Capitale</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type></type>
-        <language/>
-        <abstract>This article is focused on the actions of Roma Capitale to increase its use of Free and Libre Open Source Software (FLOSS), within the framework of Roma Capitale's Digital Agenda 2017-2021.</abstract>
-        <description>&lt;p&gt;The main objective is to break the vendor lock-in, to guarantee more efficiency, sustainability and independence from suppliers in the performance of its duty. Starting from the political level, in 2016 a Resolution for the use of FLOSS was adopted. In a few words, it was decided to be mandatory for this Administration to choose open source solutions whenever possible, taking into consideration the legal and technical constraints.&lt;/p&gt;
-           &lt;p&gt;Consequently, during the 2017, the Municipality of Rome took well-orchestrated steps to implement its program about the transformation towards FLOSS:&lt;/p&gt;
-           &lt;ol&gt;
-           &lt;li&gt;an assessment about Roma Capitale's main systems and their impacts on internal and external users, was released;&lt;/li&gt;
-           &lt;li&gt;the open and proprietary components were evaluated;&lt;/li&gt;
-           &lt;li&gt;a migration roadmap to FLOSS was established.&lt;/li&gt;
-           &lt;/ol&gt;
-           &lt;br /&gt;
-           &lt;p&gt;At present LibreOffice, Mozilla, Thunderbird, Zimbra have been installed and customized on more than 10000 client workstations and cohabit with proprietary software. A gradual switch off started first by employees that hardly ever use the traditional tools and a community of 100 FLOSS passionate people was constituted.&lt;/p&gt;</description>
-        <persons>
-          <person id="4913">Cecilia Colasanti</person>
-        </persons>
-        <links>
-            <link href="https://twitter.com/cecwitter">Speaker Twitter</link>
-            <link href="https://oscal.openlabs.cc/sessions/the-approach-to-free-software-and-culture-at-roma-capitale/">Website Session Link</link>
-        </links>
-      </event>
-      <event id="6230">
-        <start>10:30</start>
-        <duration>01:00</duration>
-        <room>Pyramid</room>
-        <slug>key</slug>
-        <title>Key Impressioning</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>security</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;p&gt;We’ve all seen lockpicking explained on several security venues. You might even have tried it yourself. But what if you need to open a lock a number of times? Wouldn’t it be great to have an opening technique that would supply you with a working key in the process?&lt;/p&gt;
-&lt;p&gt;A method to do this has existed for quite some time, but until recently it has remained quite unknown. Some time ago impressioning locks got “”re-invented”” by the lockpick community and the skill evolved to the level now shown at several international championships.&lt;/p&gt;
-&lt;p&gt;Unlike lockpicking, impressioning creates a fully working key for the lock which can be used to lock and unlock the cylinder at will. With practice, this technique can consistently open a lock in 10-15 minutes (and potentially faster)!
-What is it? How does it work? What skill is involved? Why is it the most interesting way to open a lock? These questions, and more will be answered in this talk.&lt;/p&gt;</description>
-        <persons>
-          <person id="3691">Jos Weyers</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/josweyers">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/key-impressioning/">Website Session Link</link>
-        </links>
-      </event>
-      <event id="6308">
-        <start>11:30</start>
-        <duration>01:00</duration>
-        <room>Pyramid</room>
-        <slug>privacy</slug>
-        <title>Government surveillance around the world &amp; what to do about it</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>privacy</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="4843">Arjen Kamphuis</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/ArjenKamphuis">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/government-surveillance-around-the-world-what-to-do-about-it/">Website Session Link</link>
-        </links>
-      </event>
-      <event id="6403">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>copyright</slug>
-        <title>EU Copyright Reform: Challenges and Risks in the FLOSS Ecosystem</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>copyright</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;p&gt;The current EU Copyright Reform proposal puts pressure on platforms to monitor and filter all content, including uploaded free and open-source software, for copyright infringement (Article 13), proposes a new 20-year license for news snippets (Article 11), and limits who can access datasets — including open data (Article 3). Any of these would be terrible outcomes. Let’s demand better copyright reform! In this session, we will tackle the following questions:&lt;/p&gt;
-          &lt;ul&gt;
-          &lt;li&gt;What’s happening with the EU Copyright Reform?&lt;/li&gt;
-          &lt;li&gt;What’s happening with the EU Copyright Reform?&lt;/li&gt;
-          &lt;li&gt;How will Articles 11, 13 + 3 affect the Internet experience in Europe?&lt;/li&gt;
-          &lt;li&gt;How will the proposed reform affect the FLOSS ecosystem in Europe? The rest of the world?&lt;/li&gt;
-          &lt;li&gt;Why is this happening?&lt;/li&gt;
-          &lt;li&gt;What is Mozilla doing about it, and what can you do about it?&lt;/li&gt;
-          &lt;/ul&gt;
-          &lt;br /&gt;
-          &lt;p&gt;Note: The EU Copyright Reform restrictions can also be applied to non-EU citizens, therefore everybody regardless of citizenship is encouraged to participate in the session.&lt;/p&gt;</description>
-        <persons>
-          <person id="392">Giannis Konstantinidis</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/ArjenKamphuis">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/eu-copyright-reform-challenges-and-risks-in-the-floss-ecosystem/">Website Session Link</link>
-        </links>
-      </event>
-      <event id="6005">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Pyramid</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Talk 1</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="4621">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6289">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>geodata</slug>
-        <title>How to improve OSM with official open-data (Tirana use-case)</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>geodata</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Part 1&lt;br /&gt;
-          &lt;p&gt;In many countries or cities we can find open-data publicly available but it’s not always the case, that’s why Open Labs contacted the Municipality of Tirana to make them open their data and … it worked ! Even though each country is different, we think it’s usually difficult to connect with officials, especially to promote open-source softwares and open-data, this is how Open Labs community succeeded in both in Tirana.&lt;/p&gt;
-          &lt;p&gt;Part 2&lt;br /&gt;
-          &lt;p&gt;Once we have open-data available (in many formats), how can we make those data available for the many people who do not have a GIS background ? The idea we had is to create easy-to-use and open-source website and services so anyone can use those data to map in Tirana using their favorite editor (iD, JOSM, …).&lt;/p&gt;</description>
-        <persons>
-          <person id="4837">Jonathan Beliën</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/jbelien">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-improve-osm-with-official-open-data-tirana-use-case/">Website Session Link</link>
-          <link href="http://bit.ly/2Cdjk47">Agreement</link>
-          <link href="http://bit.ly/2obIa07">Blogpost</link>
-          <link href="https://geoportal.openlabs.cc/">Open Labs Geoportal</link>
-        </links>
-      </event>
-      <event id="5927">
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>geodata</slug>
-        <title>How to make Albanian open imagery and maps available to OpenStreetMap editors</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>geodata</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Legal and technical steps are required until Albania’s data becomes available in the OpenStreetMap editors. I will make a short inventory of possible sources, explain why they aren’t background layers in OpenStreetMap editors yet, and show by example how communities elsewhere managed to solve similar issues.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4028">Guillaume Rischard</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/grischard">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-make-albanian-open-imagery-and-maps-available-to-openstreetmap-editors/">Website session link</link>
-        </links>
-      </event>
-      <event id="6762">
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>open data</slug>
-        <title>Representing and processing Open Data</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>open data</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Data, whether open or not, has to be represented in a definite format. We introduce some of the common openly defined formats used in website APIs: CSV, JSON, YAML, and XML. We look briefly at how your programs can handle data presented in them, and how to choose which formats your program or website API can produce.&lt;/p&gt;</description>
-        <persons>
-          <person id="3088">John Sturdy</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/representing-and-processing-open-data/">Website session link</link>
-        </links>
-      </event>
-      <event id="6311">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>community</slug>
-        <title>Openness in a culturally diverse world</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>diversity</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;p&gt;We’ve all heard—and many of us here have preached—that openness is important for innovation and progress; however, do we think about openness in the same way? What are the expectations when one talks about “working in the open?” As we become more globalized, we need to identify and negotiate the differences in the understanding of openness before we can talk about true collaboration and inclusion. Can we find unity in diversity?&lt;/p&gt;
-        &lt;p&gt;In this session, I’ll share my observations and experiences after living and working on 3 continents, with various companies, on open source events, and with open source communities. I’ll also touch on adapting communication styles and tools effectively for different situations.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="3571">Carol Chen</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/cybette">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/openness-in-a-culturally-diverse-world/">Website session Link</link>
-        </links>
-      </event>
-      <event id="6316">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>contributing</slug>
-        <title>Contributing to Open Source, what is it like?</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>community</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;In this presentation Alex tries to retrospectively analyze his 6 years experience of contributions to open source projects. In particular he concentrates on a broad set of not-so-evident benefits it has to offer to an individual developer and how those can be leveraged to boost one’s career.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4847">Oleksander Trotsenko</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/contributing-to-open-source-what-is-it-like/">Website session link</link>
-        </links>
-      </event>
-      <event id="6258">
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>hacking</slug>
-        <title>How I got access to Kosovo Citizens Information, without getting access within the servers!</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>hacking</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;I will show how I got sensitive information of Kosovo Citizens (Polling Station,Addreses,Name,Surname,ID-Number) without getting access within the servers! How this flaw was discovered? How was it done? The way to patch it (protect it)! And the scenario of where they can be used for! And how sensitive are they?!&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4829">Butrint Komoni</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/how-i-got-access-to-kosovo-citizens-information-without-getting-access-within-the-servers/">Website session link</link>
-        </links>
-      </event>
-      <event id="6475">
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>economics</slug>
-        <title>The economics of Open Source</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>economics</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Why is that Open Source software provides so much more value to users, yet represents such a small percentage of all software developed?&lt;/p&gt;</abstract>
-        <description>&lt;p&gt; In this interactive session, Sam will explain how economic principles, such as network effects and Economic Value to the Customer, drive proprietary firms to success while challenging Open Source growth. Various economic benefits of Open Source will be explored from the users’ perspective, to illustrate disadvantages which Open Source companies face. Participants will be challenged to find new ways of thinking about established problems to investment in Open Source development.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4962">Sam Tuke</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/samtuke">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/the-economics-of-open-source/">Website session link</link>
-        </links>
-      </event>
-      <event id="6151">
-        <start>17:30</start>
-        <duration>00:15</duration>
-        <room>Pyramid</room>
-        <slug>education</slug>
-        <title>MOOCs, Open Education and developing countries: something good is in the air?</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>open education</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Massive Open Online Courses, also known as MOOCs are a relatively new phenomenon in the education sphere, but they are getting the attention of many scholars because of their exponential growth rate and because of the popularity they have gained, especially in developing countries. In order to better understand the MOOCs model in education, we should analyze the contest in which MOOCs were born and where they are developing nowadays.&lt;/p&gt;
-        &lt;p&gt;In its core philosophy, education is strictly connected with the concepts of sharing and openness. The internet age in which we are living and the fast adoption of digital technologies by the vast majority of people living throughout our planet has significantly boosted the degree of openness of education, by bringing into the scene new powerful actors, such as MOOCs.&lt;/p&gt;
-        &lt;p&gt;Furthermore, MOOCs diffusion in developing countries leads to new interesting opportunities and challenging threats. Unfortunately, evidence about MOOCs in developing countries is not really easy to find as the outcome of MOOCs seems to be country specific; in addition, MOOCs are a brand-new topic in the universe of OER, for which further investigation is needed.&lt;/p&gt;</description>
-        <persons>
-          <person id="1541">Eltjana Plaku</person>
-          <person id="1921">Grazia Asveva Ascione</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/moocs-open-education-and-developing-countries-something-good-is-in-the-air/">Website session link</link>
-        </links>
-      </event>
-      <event id="5981">
-        <start>17:45</start>
-        <duration>18:00</duration>
-        <room>Pyramid</room>
-        <slug>closing speech</slug>
-        <title> Day 1 - Closing Speech </title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>closing_speech</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Closing speech for the first day of the conference from the OSCAL staff.&lt;/p&gt;</description>
-        <persons>
-          <person id="4612">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-    </room>
-    <room name="Protik">
-      <event id="6032">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>open source</slug>
-        <title>Open Source 101</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>open source</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Welcome to Open Source 101!&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;This session gives the big picture overview of what open source is and how you can get started. Learn what it means when we talk about free and open source software and where this movement began, over 30 years ago. After understanding the philosophy, get practical advice on how to choose a project and community to contribute to. You won’t believe the two things nobody ever told you about choosing a project! At the end, we’ll look at the Fedora Project community as an example and explain how you can begin contributing to an open source community today.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4609">Justin Flory</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/jflory7">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-101/">Website session link</link>
-        </links>
-      </event>
-      <event id="5969">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>inclusive</slug>
-        <title>Building and growing a diverse and inclusive community</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>community</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;After more than seven years of activities, the LibreOffice community is getting bigger. While building and growing a diverse and inclusive community you’re looking for culture to be added, not culture to fit. New people can bring a point of view never seen before and is crucial to be able to include newcomers. The talk will describe the current state of the art of the LibreOffice community, underlining in progress activities and future possible outcomes.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="498">Marina Latini</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/deneb_alpha">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/building-and-growing-a-diverse-and-inclusive-community/">Website session link</link>
-        </links>
-      </event>
-      <event id="6541">
-        <start>11:00</start>
-        <duration>00:35</duration>
-        <room>Protik</room>
-        <slug>design</slug>
-        <title>How to contribute to LibreOffice as a non-developer</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>design</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;LibreOffice is one of the largest and best known Open Source projects and we need you to make it even better. Many non-developers hesitate to contribute but we also need people who file enhancement requests, think about better solutions to the workflow, or make the application visually more attractive. That’s what the design team does and this presentation will illustrate what exactly you can do.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="5004">Heiko Tietze</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/libodesign">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-contribute-to-libreoffice-as-a-non-developer/">Website session link</link>
-        </links>
-      </event>
-      <event id="6181">
-        <start>11:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>community</slug>
-        <title>Join LibreOffice Community and (possibly) become a TDF member</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>project</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;This talk describes quickly LibreOffice project and how to contribute to it and let it grow with personal satisfaction. It shows how much fun gives to be part of its community and most of all, how to give some effort even not being necessarily a developer. So it will try to tell why to commit and when it can bring to a The Document Foundation’s membership.&lt;/p&gt;</description>
-        <persons>
-          <person id="4680">Gabriele Ponzo</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/Ponzogabriele">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/join-libreoffice-community-and-possibly-become-a-tdf-member/">Website session link</link>
-        </links>
-      </event>
-      <event id="6011">
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>project</slug>
-        <title>The Document Foundation - The open, transparent and meritocratic future of free office software</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>project</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;The Document Foundation is the charitable entity behind LibreOffice, the free office suite. It not only provides a legal framework for the project, but also manages assets and donations to support the further development of the software as well as the community. The organizational setup of TDF is rather unique – by having chosen a German “Stiftung”, the community has opted for an entity that is recognized as strong, stable and enduring. Its statutes provide for independence of a single corporate sponsor and at the same time focus on the core values of transparency, openness and meritocracy. In his talk, Florian gives an overview on how the foundation was set up, what goals it has achieved in the last six years of its existence and what plans and visions the community has for their future.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4547">Florian Effenberger</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/floeff">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/the-document-foundation-the-open-transparent-and-meritocratic-future-of-free-office-software/">Website session link</link>
-        </links>
-      </event>
-      <event id="5994">
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>project</slug>
-        <title>LibreOffice 6.0</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>project</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Positioning of LibreOffice 6.0, with a presentation of the development directions and a description of the most significant features.&lt;/p&gt;</description>
-        <persons>
-          <person id="4632">Italo Vignoli</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/libreoffice-6-0/">Website session link</link>
-        </links>
-      </event>
-      <event id="6078">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Talk 2</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="4683">OSCAL Staff</person>
-        </persons>
-        <links></links>
-      </event>
-      <event id="5920">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>wikipedia</slug>
-        <title>My first edit on Albanian Wikipedia</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>wikimedia</type>
-        <language>Albanian</language>
-        <abstract></abstract>
-        <description>&lt;p&gt;My first edit, how I started, what worked . How i started to edit, what i got from it and how i managed to be one of the wikipedians with most edits.&lt;/p&gt;
-        &lt;p&gt;We want to let you know this talk is in Albanian only.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4058">Ismet Azizi</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/my-first-edit-on-albanian-wikipedia/">Website session link</link>
-        </links>
-      </event>
-      <event id="6742">
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>wikimedia</slug>
-        <title>LGBT issues on Wikipedia</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>lgbt</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;I initiated the LGBTI project in Albanian Wikipedia a couple of months ago, when I was scamming through Wikipedia and noticed that there was a strong lack of information regarding topics on LGBT community. I feel close to the same concerns of this marginalized community because I work as a human rights journalist about LGBTI community in Albania. Through this lightining talk I would like to sum up the research I did during this months for the Wiki LGBT project.&lt;/p&gt;</description>
-        <persons>
-          <person id="2377">Kristina Millona</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/KristinaMillona">Speaker Twiteer</link>
-          <link href="https://oscal.openlabs.cc/sessions/lgbt-issues-on-wikipedia/">Website session link</link>
-        </links>
-      </event>
-      <event id="6627">
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>Wikidata</slug>
-        <title>Wikidata for developers</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>dev</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Wikidata is the free structured data project, sister project to Wikipedia. This talk will explain what it is and how it can be integrated into your development projects.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="5066">Arianit Dobroshi</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/wikidata-for-developers/">Website session link</link>
-        </links>
-      </event>
-      <event id="6330">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>debian</slug>
-        <title>Open source programs and Debian</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>debian</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Debian has been actively participating in open source programs such as GSoC and outreachy and encouraging more students to open source.The talk will be about the journey through it.&lt;/p&gt;</description>
-        <persons>
-          <person id="4854">Jaminy Prabaharan</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-programs-and-debian/">Website session link</link>
-        </links>
-      </event>
-      <event id="6709">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>fedora</slug>
-        <title>Fedora Silverblue (ex Atomic Workstation) in practice</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>fedora</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Since a few releases, the Fedora project contributors have been working on a new system to deliver updates to the distribution based on immutable images with ostree and containers technology for the workstation such as flatpak.&lt;/p&gt;
-        &lt;p&gt;This talk will present the work, how it is used to enable distribution rollback, better security with isolation and what changed on the day to day workflow of a user.&lt;/p&gt;</description>
-        <persons>
-          <person id="3771">Michael Scherer</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/fedora-atomic-workstation-in-practice/">Website session link</link>
-        </links>
-      </event>
-      <event id="6692">
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>openSUSE</slug>
-        <title>The precious stones of the openSUSE crown</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>openSUSE</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We will start with gentle introduction of openSUSE ecosystem in order to set the context of the talk. Then we will continue with brief description of few of the precious stones of the openSUSE crown. The talk will end with a short demo of each one of the discussed topics.&lt;/p&gt;</description>
-        <persons>
-          <person id="4601">Dimitar Zahariev</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/shekeriev">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/the-precious-stones-of-the-opensuse-crown/">Website session link</link>
-        </links>
-      </event>
-      <event id="6580">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>github</slug>
-        <title>Using Git and Github to contribute to open source</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>git</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We love open source, but sometimes its daunting to take the first step and contribute to a project we follow. However, open source projects could always need more helping hands.&lt;/p&gt;
-          &lt;p&gt;In this talk, we will go through the steps of how to get started with open source. We will see how to use github and helpful resources to find issues we can solve depending on our skills, fork a project, and make a pull request to a problem we solve.&lt;/p&gt;
-          &lt;p&gt;We will do this step by step, by learning a bit Git as well we will contribute together to a project, make a pull request and see that is not that scary after all. At the end it will feel great to have done something for the community.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="3920">Renato Selenica</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/using-git-and-github-to-contribute-to-open-source/">Website session link</link>
-        </links>
-      </event>
-      <event id="6443">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>tools</slug>
-        <title>Open Source Tools for Delivering Fast and Beautiful Images and Video</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>tools</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Video and images bringing high engagement to your website, but inefficient delivery can add to load time, decreasing customer satisfaction. This talk will walk through Open Source tools and techniques to deliver beautiful images and video content quickly to all screens using the latest tips and techniques.&lt;/p&gt;</description>
-        <persons>
-          <person id="4939">Doug Sillars</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/dougsillars">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-tools-for-delivering-fast-and-beautiful-images-and-video/">Website session link</link>
-        </links>
-      </event>
-      <event id="6697">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Workshop 1</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="5050">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6495">
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>transport</slug>
-        <title>Mapping public transport stops and lines using JOSM</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>transport</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Mapping public transport is not the easiest task to accomplish in OpenStreetMap.org. Therefore I mentored the creation of the PT_Assistant plugin as part of Google Summer of Code. This enables visualising the stops and the routes and gives validator warnings when problems are detected. Last summer the functionality was extended to bicycle and foot routes.&lt;/p&gt;</description>
-        <persons>
-          <person id="4973">Jo Decock</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/mapping-public-transport-stops-and-lines-using-josm/">Website session link</link>
-        </links>
-      </event>
-      <event id="6000">
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>postgresql</slug>
-        <title>Intro to PostgreSQL / PostGIS</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>sql</type>
-        <language/>
-        <abstract>&lt;p&gt;Introduction to RDMS PostgreSQL, with specific topic related to PostGIS topic.&lt;/p&gt;
-        </abstract>
-        <description></description>
-        <persons>
-          <person id="1387">Besfort Guri</person>
-          <person id="1997">Dian Fishkeqi</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BGuri">Besfort's Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/intro-to-postgresql-postgis/">Website session link</link>
-        </links>
-      </event>
-      <event id="6695">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>leafletjs</slug>
-        <title>Web Development using LeafletJS</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>webdev</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="5054">Amanti Lulo</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/AmantiLulo">Speaker Website</link>
-          <link href="https://oscal.openlabs.cc/sessions/web-development-using-leafletjs/">Website session link</link>
-        </links>
-      </event>
-      <event id="6014">
-        <start>10:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>git</slug>
-        <title>Deploy to Linux Server with Git</title>
-        <subtitle></subtitle>
-        <track>Workshop 2</track>
-        <type>server</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Git is one of the most commonly used tools to deploy files from your local machine to your remote machine/server. In this workshop we will introduce the steps needed to take in order to create a repository to our server so we can deploy from our local machine to our remote location by using git.&lt;/p&gt;</description>
-        <persons>
-          <person id="1263">Silvi Kolumçaj</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/deploy-to-linux-server-with-git/">Website session link</link>
-        </links>
-      </event>
-      <event id="6670">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>workflow</slug>
-        <title>Git &amp; GitHub workflow for beginners</title>
-        <subtitle></subtitle>
-        <track>Workshop 2</track>
-        <type>github</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;An Intro to Git and GitHub for beginners, explaining git and some git commands. Also, what are branches, what is a fork, how to sync forks, how to set up Travis CI on your own fork etc?&lt;/p&gt;</description>
-        <persons>
-          <person id="4056">Xheni Myrtaj</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/xh3n1">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/git-github-workflow-for-beginners/">Website session link</link>
-        </links>
-      </event>
-      <event id="6672">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>ipfs</slug>
-        <title>Building web applications using IPFS</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>webdev</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;The current protocol the web uses, HTTP, is facing some limitations. With more of the world online, bandwidth and latency are an increasing issue. The web is getting slower. In terms of data permanence HTTP links get deleted all the time. Imagine if someone could delete the entire Wikipedia database. All the data would be lost. Centralization is also an issue, a few companies owning a huge amount of the data. This can all change through IPFS, which offers a decentralized system of navigating the web. In this workshop we will explain what IPFS is, how is could help us make the web faster and decentralized, and how could we use it by building a small application.&lt;/p&gt;</description>
-        <persons>
-          <person id="2113">Renato Selenica</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/building-web-applications-using-ipfs/">Website session link</link>
-        </links>
-      </event>
-      <event id="6721">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3904">OSCAL Staff</person>
-        </persons>
-        <links></links>
-      </event>
-      <event id="6283">
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Girls in open source</title>
-        <subtitle></subtitle>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      <event id="6393">
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Meet the Fedora community</title>
-        <subtitle/>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      <event id="6083">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title> Community meetup - Albanian Wikipedia Community Discussion</title>
-        <subtitle>Part 1</subtitle>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6468">
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Albanian Wikipedia Community Discussion</title>
-        <subtitle>Part 2</subtitle>
-        <track>Workshop 2</track>
-        <type>meetups</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons></persons>
-        <links></links>
-      </event>
-      </room>
-    </day>
-<day index="2" date="2018-05-20">
-  <room name="Pyramid">
-      <event id="7319">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>coding</slug>
-        <title>Everybody Should Learn How To Code</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>devroom</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We live in the age of digital technology. Gaining an understanding of the work developers do can open up our imagination to the endless possibilities to change ourselves, our neighbors, our communities, our cities, our countries, and indeed, the world itself.&lt;/p&gt;</description>
-        <persons>
-          <person id="5375">Johnny Siman</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/everybody-should-learn-how-to-code/">Website session link</link>
-        </links>
-      </event>
-      <event id="6465">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>vulnerabilities</slug>
-        <title>Website vulnerabilities</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>website</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;In this presentation Alex will give an overview of existing and most common website vulnerabilities. To highlight the importance of security, he will enrich each type of vulnerability with his personal experience on how he faced them in real life.&lt;/p&gt;</description>
-        <persons>
-          <person id="2639">Oleksander Trotsenko</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/website-vulnerabilities/">Website session link</link>
-        </links>
-      </event>
-      <event id="7110">
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>tirana</slug>
-        <title>The open source projects implemented at the Municipality of Tirana</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>tirana_foss</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3914">Julian Killo</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/the-open-source-projects-implemented-at-the-municipality-of-tirana/">Website session link</link>
-        </links>
-      </event>
-      <event id="6637">
-        <start>11:30</start>
-        <duration>00:3  0</duration>
-        <room>Pyramid</room>
-        <slug>osi</slug>
-        <title>Consensus as a Service - OSI 20th Anniversary</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>service</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;The Open Source label was born in February 1998 as a new way to popularise free software for business adoption. OSI will celebrate its 20th Anniversary on February 3, 2018, during the opening day of FOSDEM 2018.&lt;/p&gt;
-        </abstract>
-        <description>&lt;p&gt;The presentation will summarize the evolution of open source licences and the Open Source Definition (OSD) across two decades, explain why the concept of free open source software has grown in both relevance and popularity and explore trends for the third decade of opensource.&lt;/p&gt;</description>
-        <persons>
-          <person id="5016">Italo Vignoli</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/consensus-as-a-service-osi-20th-anniversary/">Website session link</link>
-        </links>
-      </event>
-      <event id="6467">
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>cooking</slug>
-        <title>How to cook your own open source event</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>events</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Eight years ago, the idea of open source cooking in Munich first was on the table and since then took place over a dozen of times already.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;After the first meal it became clear immediately: You indeed can apply the principles of free software communities to other areas of life. Many contributors working jointly on a common goal, each of them bringing in their individual skills and interests, to create something delicious and tasty many benefit from – lots of fun for everyone included!&lt;/p&gt;
-        &lt;p&gt;Created as a rather, well, “spontaneous” idea during our open source meetings, many free software enthusiasts nowadays bring their kids and family along to meet, cook together, have a good time and lots of fun, all of that (mostly 🙂 far away from smartphones, computers or wifi.&lt;/p&gt;
-      &lt;p&gt;In this talk, Florian gives an overview of open source activities in Munich, shares some wild ideas for the future and explains why open source and cooking have more in common than you may actually think. Bon appétit!&lt;/p&gt;</description>
-        <persons>
-          <person id="4933">Florian Effenberger</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/floeff">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-cook-your-own-open-source-event/">Website session link</link>
-        </links>
-      </event>
-      <event id="6438">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>writing</slug>
-        <title>Free software won’t write itself</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>coding</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Lots of people talk about Free software, not as many contribute to it. It’s found on most servers and it’s at the core of a lot of businesses. What if won’t be developed anymore? What can we do to build our projects on solid foundations and be part of an healthy environment?&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4937">Riccardo Magliocchetti</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/rmistaken">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/free-software-wont-write-itself/">Website session link</link>
-        </links>
-      </event>
-      <event id="6104">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Pyramid</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Talk 1</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="4712">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6437">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>contributions</slug>
-        <title>Get paid to contribute to FOSS</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>payment</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Outreachy, Google Summer of Code and Rails Summer of Code are some programs which offer paid internships with open source projects. I have been an past Outreachy intern and also a mentor for GSoC. I will talk about these programs, their timeline and application tips. This talk will mainly have a Q and A session with attendees about their queries and will involve other interns of these programs too.&lt;/p&gt;</description>
-        <persons>
-          <person id="4671">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/get-paid-to-contribute-to-foss/">Website session link</link>
-        </links>
-      </event>
-      <event id="6456">
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>communication</slug>
-        <title>Importance of communication in Open Source communities</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>comms</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Open Source communities are excellent example of most diverse and globally spread work-space. Although, this is a major plus and feels amazing to work in such a diverse culture, but at the same time we need to face the challenge of accurate communication. When we are not at the same place and can’t talk face-to-face, expressing the right thing in correct manner becomes more important and we need to take care of several things. Obviously, we are not always using video chats when we are communicating with our fellow community members and lack of those facial expressions make it more complex to deliver the right message. Communication has many attributes to it – right content, ambiguity, accurate by all means (ethically, culturally) and at the end we are conveying what is intended.&lt;/p&gt;
-        &lt;p&gt;We may think communication to be a very basic technique of delivering message, but it gets complicated specially when it is not verbal and not on video chat. You may want to write a good “WOW” but it can be interpreted as a bad “WOW” depending on the receiver’s culture/mood and intend.&lt;/p&gt;
-        &lt;p&gt;My paper will highlight certain examples of such communication glitches and also some basic magical rules of good communication.</description>
-        <persons>
-          <person id="4951">Amita Sharma</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/AmitaSharma6">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/importance-of-communication-in-open-source-communities/">Website session link</link>
-        </links>
-      </event>
-      <event id="6596">
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>school</slug>
-        <title>Building the School 2.0</title>
-        <subtitle></subtitle>
-        <track>Talk 1</track>
-        <type>education</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;How do we build the next generation education as an open source platform? What does open, free as in beer and free as in freedom have to do with it? How can we use crowdsourcing and AI to power communities and humanity to build their sustainable education? Story of ups and downs in building the school of the future.&lt;/p&gt;</description>
-        <persons>
-          <person id="5028">Marko Kažić</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/marxo">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/building-the-school-2-0/">Website session link</link>
-        </links>
-      </event>
-      <event id="6470">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>Linux</slug>
-        <title>Just under the surface of Linux</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>surface</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We all use files, directories, and processes whenever we use Linux, but not everyone knows what they really are and how they are brought into existence. We won’t go very deeply into it, but will introduce the underlying concepts enough to improve your understanding of what’s going on in your computer.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4698">John Sturdy</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/just-under-the-surface-of-linux/">Website session link</link>
-        </links>
-      </event>
-      <event id="7270">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>projects</slug>
-        <title>Petting your sideprojects</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>sideprojects</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;A creative mind never sleeps, it cannot be stopped and it doesn’t have any boundaries (maybe except of imagining a new color). In the hands of an engineer this can be a powerful double-edged sword. It can both produce the next cool startup that changes the world as well as a bunch of ragequits from your editor. This talk is about how my sideprojects were born, failed, thrived or took control over my work.&lt;/p&gt;</description>
-        <persons>
-          <person id="5339">Dávid Halász</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/halaszdavid">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/petting-your-sideprojects/">Website session link</link>
-        </links>
-      </event>
-      <event id="7271">
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>machine</slug>
-        <title>Machine Learning on Open Source code</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>machine_learning</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Few people look at open source code as a massive dataset for researchers. Yet we’ve accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source.&lt;/ul&gt;
-        &lt;p&gt;GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference’s proceedings and also touches the related research we conduct.&lt;/ul&gt;</description>
-        <persons>
-          <person id="5340">Vadim Markovtsev</person>
-        </persons>
-        <links>
-          <link href="https://github.com/src-d/awesome-machine-learning-on-source-code">Research</link>
-          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/machine-learning-on-open-source-code/">Website session link</link>
-        </links>
-      </event>
-      <event id="7272">
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>Pyramid</room>
-        <slug>IM</slug>
-        <title>Death by a thousand chats</title>
-        <subtitle>Helping developers and users stay sane.</subtitle>
-        <track>Talk 1</track>
-        <type>chats</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Email, Real-time communications services, apps and giant animated billboards are relentlessly seeking to grab our attention, 24 hours per day, 7 days per week. Has it gone too far? A novice motorcyclist needs little training to learn rapid acceleration: to stay alive, however, requires learning how and when to slow down as well. Achieving prosperity and avoiding burn-out in the information age requires a similar level of discipline in our use of technology. &lt;/p&gt;
-        &lt;p&gt;As developers, this is even more critical for us as we implement tools for our own communities and our users. In this session, Pocock, an experienced developer in a range of fields including real-time communications and monitoring systems, shines a light on these issues, looks at how we can improve our experience as developers and shows how free software is the most effective way to solve these challenges for our users, society at large.&lt;/p&gt;</description>
-        <persons>
-          <person id="2154">Daniel Pocock</person>
-          <person id="9881">Enkelena Haxhiu</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/death-by-a-thousand-chats/">Website session link</link>
-        </links>
-      </event>
-      <event id="7273">
-        <start>17:30</start>
-        <duration>00:15</duration>
-        <room>Pyramid</room>
-        <slug>closing</slug>
-        <title>Closing speech – Day 2</title>
-        <subtitle/>
-        <track>Talk 1</track>
-        <type>closing_speech</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="3682">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      </room>
-  <room name="Protik">
-      <event id="7274">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>react</slug>
-        <title>Patterns in React</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>reactjs</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;It’s been five years since React’s first version was released in 2013. Back then there were little to none code practices, project structures and community rules to be followed. And with the release of React 16 we have a more stable environment some patterns start to evolve as the community it’s taking shape. This talk is about some of the most interesting parts of React, Design Patterns, Code structures, Redux best practices and scalability.&lt;/p&gt;</description>
-        <persons>
-          <person id="5341">Kristi Buda</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BudaKristi">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/patterns-in-react/">Website session link</link>
-        </links>
-      </event>
-      <event id="7275">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>security</slug>
-        <title> Open-Source security tools – Should you?</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>tools</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk I will describe the common pitfalls that I had during my job as a Security Engineer from the Defensive point of view and give my opinion on the ethical misconception of publishing Offensive security tools.&lt;/p&gt;</description>
-        <persons>
-          <person id="5343">Rio Sherri</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/0x09AL">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-security-tools-should-you/">Website session link</link>
-        </links>
-      </event>
-      <event id="5991">
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>pwa</slug>
-        <title>PWA power!</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>pwa</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Make your website work completely offine, with look and feel of native App!&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="2072">Gabriele Falasca</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/pwa-power/">Website session link</link>
-        </links>
-      </event>
-      <event id="6528">
-        <start>11:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>radare</slug>
-        <title>Executable reverse engineering 101 with radare 2</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>devroom</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Suffering from a lack of good free software tools, reverse engineering on Linux never been a very popular activity among hobbyists. However, more tools exist now, and we will discover how to use Radare2, a GPL set of tools to examine a wide range of binaries.&lt;/p&gt;
-        &lt;p&gt;This session will present the very basics concepts behind assembly and low level languages, and show simple commands and the philosophy behind radare 2. In order to be concrete, a very simple binary will be looked at to illustrate the concepts, tools and practices, and let people be ready to tackle more complex challenges either for fun (such as a security CTF) or for more serious reasons (such as malware and exploit dissecting).&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;No binaries will be harmed during the presentation.&lt;/strong&gt;&lt;/p&gt;</description>
-        <persons>
-          <person id="4999">Michael Scherer</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/executable-reverse-engineering-101-with-radare-2/">Website session link</link>
-        </links>
-      </event>
-      <event id="6647">
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>pylint</slug>
-        <title>How to write pylint plugins</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>plugins</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Pylint is the most popular Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It is possible to write plugins to add your own checks, for example coding patterns that you have observed inside your software and are generally a bad practice or rules which you would like to enforce inside of a particular project, e.g. class name and inheritance conventions.&lt;/ul&gt;</description>
-        <persons>
-          <person id="3583">Alexander Todorov</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/atodorov_">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/how-to-write-pylint-plugins/">Website session link</link>
-        </links>
-      </event>
-      <event id="7001">
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>encryption</slug>
-        <title>End-to-End Encrypted Messaging: Next Steps for Privacy and Decentralization</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>encryption</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;We rely on end-to-end encrypted messaging apps for protecting our confidential and sensitive information. However, how do you know your messages are really protected? What does the server or a third-party eavesdropper know about your contacts and communication? To be honest, it’s difficult to tell these applications apart.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk, we’ll review the state of the art Signal protocol (also used by WhatsApp), Telegram, and iMessage – and how all of these protocols fail to address privacy, group messaging, and decentralization. For example, Telegram group chats are unencrypted, and even Signal group messaging is not as secure as one-to-one messaging. &lt;/p&gt;
-        &lt;p&gt;We’ll show how privacy-preserving blockchains can help decentralize secure messaging, how Tor and mix networking can address the open privacy problems (at the cost of spped!), how the new Message Layer Security (MLS) open standard from the IETF may be able to fix group messaging – and how you can to get involved in the open source projects to fix secure messaging! &lt;/p&gt;
-        </description>
-        <persons>
-          <person id="5018">Harry Halpin</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/harryhalpin">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/end-to-end-encrypted-messaging-next-steps-for-privacy-and-decentralization/">Website session link</link>
-        </links>
-      </event>
-      <event id="6740">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Talk 2</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="5114">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6852">
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>cityzen</slug>
-        <title>Privacy aware city navigation with CityZen</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>navigation</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Navigating our cities using free software community based mobile apps in ‘private mode’ might sound like an easy task in 2017, but with a little research you will be quickly disappointed. There are related platforms out there, but some of them are lacking good User Experience, others are not community lead or are getting away from the free software freedoms due to their partnerships with companies that do not respect our privacy online.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;These are only some of the reasons the CityZen app was born in Tirana, as an OSM based Android app that helps us navigate our cities without tracking our location and activities. At the same time the app offers easy mobile optimized OpenStreetMap editing for easy contributions on the go. CityZen aims to be empowered by the community in terms of development and promotion and as a digital wallet for cryptocurrency used to make payments for goods and services from POIs easily through the app.&lt;/p&gt;
-        &lt;p&gt;Soon CityZen will apply blockchain as a decentralized process for the management of the cryptocoin based revenue that will be gathered through the app making it one of the few platforms out there used to help you find physical POIs and buy goods without giving away your real identity.&lt;/p&gt;</description>
-        <persons>
-          <person id="4675">Mariana Balla</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/marianaballa1">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/privacy-aware-city-navigation-with-cityzen/">Website session link</link>
-        </links>
-      </event>
-      <event id="6930">
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>community</slug>
-        <title>The driving force behind open source communities</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>opensource</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;What motivates people to contribute? What makes contributors stay? How to retain new contributors? Contribution to open source survey.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="3407">Marinela Gogo</person>
-          <person id="3237">Xheni Myrtaj</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/MarinelaGogo">Marinela's Twitter</link>
-          <link href="https://twitter.com/xh3n1">Xheni's Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/the-driving-force-behind-open-source-communities/">Website session link</link>
-        </links>
-      </event>
-      <event id="6095">
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>machines</slug>
-        <title>State of open source machine learning</title>
-        <subtitle></subtitle>
-        <track>Talk 2</track>
-        <type>google</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4629">Vadim Markovtsev</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/state-of-open-source-machine-learning/">Website session link</link>
-          <link href="https://submission.fosdem.org/feedback/6095.php">Submit feedback</link>
-        </links>
-      </event>
-      <event id="6356">
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>architecture</slug>
-        <title>*x architectural patterns for frontend development</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>devs</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;How to survive in a world of complex async and scalable webapps.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4881">Gabriele Falasca</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/x-architectural-patterns-for-frontend-development/">Website session link</link>
-        </links>
-      </event>
-      <event id="6067">
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>Protik</room>
-        <slug>angularjs</slug>
-        <title>The main features of the latest AngularJS release</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>devroom</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Yes! We are very excited. In this talk we are going to review the main features of the latest Angular release. We will also go over some cool demos and provide top tips for a shiny upgrade.&lt;/p&gt;</description>
-        <persons>
-          <person id="4676">Gerard Sans</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/the-main-features-of-the-latest-angularjs-release/">Website session link</link>
-        </links>
-      </event>
-      <event id="6973">
-        <start>16:30</start>
-        <duration>00:15</duration>
-        <room>Protik</room>
-        <slug>fedora</slug>
-        <title>Fedora Labs – curated bundles for gamers, security researchers, designers and more</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>labs</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Fedora labs offer customized bundles of tools and applications for your Fedora. There are Fedora Labs for security related work(penetration testing), gamers, designers etc. These may be installed as standalone full versions of Fedora or as add-ons to existing Fedora installations. I will talk about what are Fedora labs, who can use them and how to install and use them on your desktop&lt;/ul&gt;</description>
-        <persons>
-          <person id="4638">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/fedora-labs-curated-bundles-for-gamers-security-researchers-designers-and-more/">Website session link</link>
-        </links>
-      </event>
-      <event id="6816">
-        <start>16:45</start>
-        <duration>00:15</duration>
-        <room>Protik</room>
-        <slug>travel</slug>
-        <title>Free travel information for Albania</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>information</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;This short talk targeting policy makers makes the case for Albania to develop travel information as free and open and suggests some tools to do this, including Wikivoyage &amp; OSM.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4480">Arianit Dobroshi</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/free-travel-information-for-albania/">Website session link</link>
-        </links>
-      </event>
-      <event id="6998">
-        <start>10:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>community</slug>
-        <title>Community Meetup</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>meetup</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="7032">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>erp</slug>
-        <title>Open Source ERP systems</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>systems</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source ERP systems.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5164">Anisa Selimi</person>
-          <person id="5197">Çeljeta Shehu</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-erp-systems/">Website session link</link>
-        </links>
-      </event>
-      <event id="6378">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>migration</slug>
-        <title>Migrating to LibreOffice</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>libreoffice</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4901">Italo Vignoli</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/migrating-to-libreoffice/">Website session link</link>
-        </links>
-      </event>
-      <event id="7316">
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>lunch</slug>
-        <title>Lunch Break</title>
-        <subtitle>One hour break</subtitle>
-        <track>Workshop 1</track>
-        <type>break</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="2072">OSCAL Staff</person>
-        </persons>
-        <links>
-        </links>
-      </event>
-      <event id="6514">
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>wikipedia</slug>
-        <title>Wikipedia: WikiPride and Diversity</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>pride</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;During the workshop we will teach the new ones to edit on Wikipedia and the existing users how to write good articles about LGBT subjects and women. Our main focus will be Wikipedia shqip and Wikidata. We are expecting to have participants of LGBT parade which will be hosted close to OSCAL(17 May), so we’re thinking to have a 15 min talk about challenges in Wikipedia about these subject and the rest of the time to edit about these subjects.&lt;/p&gt;</description>
-        <persons>
-          <person id="9865">Jona Rizvanolli</person>
-          <person id="2735">Kristina Millona</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/JRizvanolli">Jona's Twitter</link>
-          <link href="https://twitter.com/KristinaMillona/">Kristina's Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/wikipedia-wikipride-and-diversity/">Website session link</link>
-        </links>
-      </event>
-      <event id="7211">
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>machines</slug>
-        <title>Introduction to Machine Learning</title>
-        <subtitle/>
-        <track>Workshop 1</track>
-        <type>machine_learning</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;We will begin with a small introductory talk about Machine Learning and its present day applications. I will also talk about some common machine learning models, how they work and their pros and cons. During the last 30 minutes of the workshop, attendees will use learnings from the talk to build a machine learning model and derive some interesting predictions.&lt;/p&gt;
-        &lt;p&gt;The workshop will need knowledge of Python programming basics however, you are welcome to attend initial introductory talk to Machine Learning even if you don’t know programming or Python yet. Please have python3 installed before if you plan to attend the workshop.&lt;/p&gt;</description>
-        <persons>
-          <person id="9965">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/introduction-to-machine-learning/">Website session link</link>
-        </links>
-      </event>
-      <event id="7280">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Protik</room>
-        <slug>server</slug>
-        <title>First Linux Setup for Web Server</title>
-        <subtitle></subtitle>
-        <track>Workshop 1</track>
-        <type>start</type>
-        <language/>
-        <abstract></abstract>
         <description>&lt;br /&gt;&lt;p&gt;In this workshop we will see how to make the first setup for Linux Web Server by configuring ssh, firewall, failtoban and also LAMPP Stack (Apache, MySQL, PHP (with the specified PHP version) PhpMyAdmin, setting up the right user permissions and configuring and scheduling backups according to the requirements (Debian and Ubuntu and CentOS).
 &lt;/p&gt;</description>
         <persons>
@@ -3346,6 +759,852 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </persons>
         <links>
           <link href="https://oscal.openlabs.cc/sessions/first-linux-setup-for-web-server/">Website session link</link>
+        </links>
+      </event>
+      <event id="6670">
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>workflow</slug>
+        <title>Git &amp; GitHub workflow for beginners</title>
+        <subtitle></subtitle>
+        <track>Workshop 2</track>
+        <type>github</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;An Intro to Git and GitHub for beginners, explaining git and some git commands. Also, what are branches, what is a fork, how to sync forks, how to set up Travis CI on your own fork etc?&lt;/p&gt;</description>
+        <persons>
+          <person id="4056">Xheni Myrtaj</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/xh3n1">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/git-github-workflow-for-beginners/">Website session link</link>
+        </links>
+      </event>
+      <event id="6672">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>ipfs</slug>
+        <title>Building web applications using IPFS</title>
+        <subtitle/>
+        <track>Workshop 2</track>
+        <type>webdev</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;The current protocol the web uses, HTTP, is facing some limitations. With more of the world online, bandwidth and latency are an increasing issue. The web is getting slower. In terms of data permanence HTTP links get deleted all the time. Imagine if someone could delete the entire Wikipedia database. All the data would be lost. Centralization is also an issue, a few companies owning a huge amount of the data. This can all change through IPFS, which offers a decentralized system of navigating the web. In this workshop we will explain what IPFS is, how is could help us make the web faster and decentralized, and how could we use it by building a small application.&lt;/p&gt;</description>
+        <persons>
+          <person id="2113">Renato Selenica</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/building-web-applications-using-ipfs/">Website session link</link>
+        </links>
+      </event>
+      <event id="6721">
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle/>
+        <track>Workshop 2</track>
+        <type>break</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="3904">OSCAL Staff</person>
+        </persons>
+        <links></links>
+      </event>
+      <event id="6283">
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title>Community meetup - Girls in open source</title>
+        <subtitle></subtitle>
+        <track>Workshop 2</track>
+        <type>meetups</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons></persons>
+        <links></links>
+      </event>
+      <event id="6393">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title>Community meetup - Meet the Fedora community</title>
+        <subtitle/>
+        <track>Workshop 2</track>
+        <type>meetups</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons></persons>
+        <links></links>
+      </event>
+      <event id="6083">
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title> Community meetup - Albanian Wikipedia Community Discussion</title>
+        <subtitle>Part 1</subtitle>
+        <track>Workshop 2</track>
+        <type>meetups</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="6468">
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>meetup</slug>
+        <title>Community meetup - Albanian Wikipedia Community Discussion</title>
+        <subtitle>Part 2</subtitle>
+        <track>Workshop 2</track>
+        <type>meetups</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons></persons>
+        <links></links>
+      </event>
+      </room>
+    </day>
+<day index="2" date="2018-05-20">
+  <room name="Pyramid">
+      <event id="7319">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>coding</slug>
+        <title>Everybody Should Learn How To Code</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>devroom</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We live in the age of digital technology. Gaining an understanding of the work developers do can open up our imagination to the endless possibilities to change ourselves, our neighbors, our communities, our cities, our countries, and indeed, the world itself.&lt;/p&gt;</description>
+        <persons>
+          <person id="5375">Johnny Siman</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/everybody-should-learn-how-to-code/">Website session link</link>
+        </links>
+      </event>
+      <event id="6465">
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>vulnerabilities</slug>
+        <title>Website vulnerabilities</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>website</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;In this presentation Alex will give an overview of existing and most common website vulnerabilities. To highlight the importance of security, he will enrich each type of vulnerability with his personal experience on how he faced them in real life.&lt;/p&gt;</description>
+        <persons>
+          <person id="2639">Oleksander Trotsenko</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/website-vulnerabilities/">Website session link</link>
+        </links>
+      </event>
+      <event id="7110">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>tirana</slug>
+        <title>The open source projects implemented at the Municipality of Tirana</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>tirana_foss</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="3914">Julian Killo</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/the-open-source-projects-implemented-at-the-municipality-of-tirana/">Website session link</link>
+        </links>
+      </event>
+      <event id="6637">
+        <start>11:30</start>
+        <duration>00:3  0</duration>
+        <room>Pyramid</room>
+        <slug>osi</slug>
+        <title>Consensus as a Service - OSI 20th Anniversary</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>service</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;The Open Source label was born in February 1998 as a new way to popularise free software for business adoption. OSI will celebrate its 20th Anniversary on February 3, 2018, during the opening day of FOSDEM 2018.&lt;/p&gt;
+        </abstract>
+        <description>&lt;p&gt;The presentation will summarize the evolution of open source licences and the Open Source Definition (OSD) across two decades, explain why the concept of free open source software has grown in both relevance and popularity and explore trends for the third decade of opensource.&lt;/p&gt;</description>
+        <persons>
+          <person id="5016">Italo Vignoli</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/consensus-as-a-service-osi-20th-anniversary/">Website session link</link>
+        </links>
+      </event>
+      <event id="6467">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>cooking</slug>
+        <title>How to cook your own open source event</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>events</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;Eight years ago, the idea of open source cooking in Munich first was on the table and since then took place over a dozen of times already.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;After the first meal it became clear immediately: You indeed can apply the principles of free software communities to other areas of life. Many contributors working jointly on a common goal, each of them bringing in their individual skills and interests, to create something delicious and tasty many benefit from – lots of fun for everyone included!&lt;/p&gt;
+        &lt;p&gt;Created as a rather, well, “spontaneous” idea during our open source meetings, many free software enthusiasts nowadays bring their kids and family along to meet, cook together, have a good time and lots of fun, all of that (mostly 🙂 far away from smartphones, computers or wifi.&lt;/p&gt;
+      &lt;p&gt;In this talk, Florian gives an overview of open source activities in Munich, shares some wild ideas for the future and explains why open source and cooking have more in common than you may actually think. Bon appétit!&lt;/p&gt;</description>
+        <persons>
+          <person id="4933">Florian Effenberger</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/floeff">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-cook-your-own-open-source-event/">Website session link</link>
+        </links>
+      </event>
+      <event id="6438">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>writing</slug>
+        <title>Free software won’t write itself</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>coding</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Lots of people talk about Free software, not as many contribute to it. It’s found on most servers and it’s at the core of a lot of businesses. What if won’t be developed anymore? What can we do to build our projects on solid foundations and be part of an healthy environment?&lt;/p&gt;
+        </description>
+        <persons>
+          <person id="4937">Riccardo Magliocchetti</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/rmistaken">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/free-software-wont-write-itself/">Website session link</link>
+        </links>
+      </event>
+      <event id="6104">
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Pyramid</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Talk 1</track>
+        <type>break</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="4712">OSCAL Staff</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="6437">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>contributions</slug>
+        <title>Get paid to contribute to FOSS</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>payment</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Outreachy, Google Summer of Code and Rails Summer of Code are some programs which offer paid internships with open source projects. I have been an past Outreachy intern and also a mentor for GSoC. I will talk about these programs, their timeline and application tips. This talk will mainly have a Q and A session with attendees about their queries and will involve other interns of these programs too.&lt;/p&gt;</description>
+        <persons>
+          <person id="4671">Bee Padalkar</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/get-paid-to-contribute-to-foss/">Website session link</link>
+        </links>
+      </event>
+      <event id="6456">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>communication</slug>
+        <title>Importance of communication in Open Source communities</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>comms</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Open Source communities are excellent example of most diverse and globally spread work-space. Although, this is a major plus and feels amazing to work in such a diverse culture, but at the same time we need to face the challenge of accurate communication. When we are not at the same place and can’t talk face-to-face, expressing the right thing in correct manner becomes more important and we need to take care of several things. Obviously, we are not always using video chats when we are communicating with our fellow community members and lack of those facial expressions make it more complex to deliver the right message. Communication has many attributes to it – right content, ambiguity, accurate by all means (ethically, culturally) and at the end we are conveying what is intended.&lt;/p&gt;
+        &lt;p&gt;We may think communication to be a very basic technique of delivering message, but it gets complicated specially when it is not verbal and not on video chat. You may want to write a good “WOW” but it can be interpreted as a bad “WOW” depending on the receiver’s culture/mood and intend.&lt;/p&gt;
+        &lt;p&gt;My paper will highlight certain examples of such communication glitches and also some basic magical rules of good communication.</description>
+        <persons>
+          <person id="4951">Amita Sharma</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/AmitaSharma6">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/importance-of-communication-in-open-source-communities/">Website session link</link>
+        </links>
+      </event>
+      <event id="6596">
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>school</slug>
+        <title>Building the School 2.0</title>
+        <subtitle></subtitle>
+        <track>Talk 1</track>
+        <type>education</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;How do we build the next generation education as an open source platform? What does open, free as in beer and free as in freedom have to do with it? How can we use crowdsourcing and AI to power communities and humanity to build their sustainable education? Story of ups and downs in building the school of the future.&lt;/p&gt;</description>
+        <persons>
+          <person id="5028">Marko Kažić</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/marxo">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/building-the-school-2-0/">Website session link</link>
+        </links>
+      </event>
+      <event id="6470">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>Linux</slug>
+        <title>Just under the surface of Linux</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>surface</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We all use files, directories, and processes whenever we use Linux, but not everyone knows what they really are and how they are brought into existence. We won’t go very deeply into it, but will introduce the underlying concepts enough to improve your understanding of what’s going on in your computer.&lt;/p&gt;
+        </description>
+        <persons>
+          <person id="4698">John Sturdy</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/just-under-the-surface-of-linux/">Website session link</link>
+        </links>
+      </event>
+      <event id="7270">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>projects</slug>
+        <title>Petting your sideprojects</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>sideprojects</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;A creative mind never sleeps, it cannot be stopped and it doesn’t have any boundaries (maybe except of imagining a new color). In the hands of an engineer this can be a powerful double-edged sword. It can both produce the next cool startup that changes the world as well as a bunch of ragequits from your editor. This talk is about how my sideprojects were born, failed, thrived or took control over my work.&lt;/p&gt;</description>
+        <persons>
+          <person id="5339">Dávid Halász</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/halaszdavid">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/petting-your-sideprojects/">Website session link</link>
+        </links>
+      </event>
+      <event id="7271">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>machine</slug>
+        <title>Machine Learning on Open Source code</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>machine_learning</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Few people look at open source code as a massive dataset for researchers. Yet we’ve accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source.&lt;/ul&gt;
+        &lt;p&gt;GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference’s proceedings and also touches the related research we conduct.&lt;/ul&gt;</description>
+        <persons>
+          <person id="5340">Vadim Markovtsev</person>
+        </persons>
+        <links>
+          <link href="https://github.com/src-d/awesome-machine-learning-on-source-code">Research</link>
+          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/machine-learning-on-open-source-code/">Website session link</link>
+        </links>
+      </event>
+      <event id="7272">
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Pyramid</room>
+        <slug>IM</slug>
+        <title>Death by a thousand chats</title>
+        <subtitle>Helping developers and users stay sane.</subtitle>
+        <track>Talk 1</track>
+        <type>chats</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Email, Real-time communications services, apps and giant animated billboards are relentlessly seeking to grab our attention, 24 hours per day, 7 days per week. Has it gone too far? A novice motorcyclist needs little training to learn rapid acceleration: to stay alive, however, requires learning how and when to slow down as well. Achieving prosperity and avoiding burn-out in the information age requires a similar level of discipline in our use of technology. &lt;/p&gt;
+        &lt;p&gt;As developers, this is even more critical for us as we implement tools for our own communities and our users. In this session, Pocock, an experienced developer in a range of fields including real-time communications and monitoring systems, shines a light on these issues, looks at how we can improve our experience as developers and shows how free software is the most effective way to solve these challenges for our users, society at large.&lt;/p&gt;</description>
+        <persons>
+          <person id="2154">Daniel Pocock</person>
+          <person id="9881">Enkelena Haxhiu</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/death-by-a-thousand-chats/">Website session link</link>
+        </links>
+      </event>
+      <event id="7273">
+        <start>17:30</start>
+        <duration>00:15</duration>
+        <room>Pyramid</room>
+        <slug>closing</slug>
+        <title>Closing speech – Day 2</title>
+        <subtitle/>
+        <track>Talk 1</track>
+        <type>closing_speech</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="3682">OSCAL Staff</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      </room>
+  <room name="Protik">
+      <event id="7274">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>react</slug>
+        <title>Patterns in React</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>reactjs</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;It’s been five years since React’s first version was released in 2013. Back then there were little to none code practices, project structures and community rules to be followed. And with the release of React 16 we have a more stable environment some patterns start to evolve as the community it’s taking shape. This talk is about some of the most interesting parts of React, Design Patterns, Code structures, Redux best practices and scalability.&lt;/p&gt;</description>
+        <persons>
+          <person id="5341">Kristi Buda</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/BudaKristi">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/patterns-in-react/">Website session link</link>
+        </links>
+      </event>
+      <event id="7275">
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>security</slug>
+        <title> Open-Source security tools – Should you?</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>tools</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk I will describe the common pitfalls that I had during my job as a Security Engineer from the Defensive point of view and give my opinion on the ethical misconception of publishing Offensive security tools.&lt;/p&gt;</description>
+        <persons>
+          <person id="5343">Rio Sherri</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/0x09AL">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-security-tools-should-you/">Website session link</link>
+        </links>
+      </event>
+      <event id="5991">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>pwa</slug>
+        <title>PWA power!</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>pwa</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;Make your website work completely offine, with look and feel of native App!&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="2072">Gabriele Falasca</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/pwa-power/">Website session link</link>
+        </links>
+      </event>
+      <event id="6528">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>radare</slug>
+        <title>Executable reverse engineering 101 with radare 2</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>devroom</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Suffering from a lack of good free software tools, reverse engineering on Linux never been a very popular activity among hobbyists. However, more tools exist now, and we will discover how to use Radare2, a GPL set of tools to examine a wide range of binaries.&lt;/p&gt;
+        &lt;p&gt;This session will present the very basics concepts behind assembly and low level languages, and show simple commands and the philosophy behind radare 2. In order to be concrete, a very simple binary will be looked at to illustrate the concepts, tools and practices, and let people be ready to tackle more complex challenges either for fun (such as a security CTF) or for more serious reasons (such as malware and exploit dissecting).&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;No binaries will be harmed during the presentation.&lt;/strong&gt;&lt;/p&gt;</description>
+        <persons>
+          <person id="4999">Michael Scherer</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/executable-reverse-engineering-101-with-radare-2/">Website session link</link>
+        </links>
+      </event>
+      <event id="6647">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>pylint</slug>
+        <title>How to write pylint plugins</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>plugins</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Pylint is the most popular Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It is possible to write plugins to add your own checks, for example coding patterns that you have observed inside your software and are generally a bad practice or rules which you would like to enforce inside of a particular project, e.g. class name and inheritance conventions.&lt;/ul&gt;</description>
+        <persons>
+          <person id="3583">Alexander Todorov</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/atodorov_">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/how-to-write-pylint-plugins/">Website session link</link>
+        </links>
+      </event>
+      <event id="7001">
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>encryption</slug>
+        <title>End-to-End Encrypted Messaging: Next Steps for Privacy and Decentralization</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>encryption</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;We rely on end-to-end encrypted messaging apps for protecting our confidential and sensitive information. However, how do you know your messages are really protected? What does the server or a third-party eavesdropper know about your contacts and communication? To be honest, it’s difficult to tell these applications apart.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk, we’ll review the state of the art Signal protocol (also used by WhatsApp), Telegram, and iMessage – and how all of these protocols fail to address privacy, group messaging, and decentralization. For example, Telegram group chats are unencrypted, and even Signal group messaging is not as secure as one-to-one messaging. &lt;/p&gt;
+        &lt;p&gt;We’ll show how privacy-preserving blockchains can help decentralize secure messaging, how Tor and mix networking can address the open privacy problems (at the cost of spped!), how the new Message Layer Security (MLS) open standard from the IETF may be able to fix group messaging – and how you can to get involved in the open source projects to fix secure messaging! &lt;/p&gt;
+        </description>
+        <persons>
+          <person id="5018">Harry Halpin</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/harryhalpin">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/end-to-end-encrypted-messaging-next-steps-for-privacy-and-decentralization/">Website session link</link>
+        </links>
+      </event>
+      <event id="6740">
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Talk 2</track>
+        <type>break</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="5114">OSCAL Staff</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="6852">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>cityzen</slug>
+        <title>Privacy aware city navigation with CityZen</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>navigation</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;Navigating our cities using free software community based mobile apps in ‘private mode’ might sound like an easy task in 2017, but with a little research you will be quickly disappointed. There are related platforms out there, but some of them are lacking good User Experience, others are not community lead or are getting away from the free software freedoms due to their partnerships with companies that do not respect our privacy online.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;These are only some of the reasons the CityZen app was born in Tirana, as an OSM based Android app that helps us navigate our cities without tracking our location and activities. At the same time the app offers easy mobile optimized OpenStreetMap editing for easy contributions on the go. CityZen aims to be empowered by the community in terms of development and promotion and as a digital wallet for cryptocurrency used to make payments for goods and services from POIs easily through the app.&lt;/p&gt;
+        &lt;p&gt;Soon CityZen will apply blockchain as a decentralized process for the management of the cryptocoin based revenue that will be gathered through the app making it one of the few platforms out there used to help you find physical POIs and buy goods without giving away your real identity.&lt;/p&gt;</description>
+        <persons>
+          <person id="4675">Mariana Balla</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/marianaballa1">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/privacy-aware-city-navigation-with-cityzen/">Website session link</link>
+        </links>
+      </event>
+      <event id="6930">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>community</slug>
+        <title>The driving force behind open source communities</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>opensource</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;What motivates people to contribute? What makes contributors stay? How to retain new contributors? Contribution to open source survey.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="3407">Marinela Gogo</person>
+          <person id="3237">Xheni Myrtaj</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/MarinelaGogo">Marinela's Twitter</link>
+          <link href="https://twitter.com/xh3n1">Xheni's Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/the-driving-force-behind-open-source-communities/">Website session link</link>
+        </links>
+      </event>
+      <event id="6095">
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>machines</slug>
+        <title>State of open source machine learning</title>
+        <subtitle></subtitle>
+        <track>Talk 2</track>
+        <type>google</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="4629">Vadim Markovtsev</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/state-of-open-source-machine-learning/">Website session link</link>
+          <link href="https://submission.fosdem.org/feedback/6095.php">Submit feedback</link>
+        </links>
+      </event>
+      <event id="6356">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>architecture</slug>
+        <title>*x architectural patterns for frontend development</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>devs</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;How to survive in a world of complex async and scalable webapps.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="4881">Gabriele Falasca</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/gabrycaos">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/x-architectural-patterns-for-frontend-development/">Website session link</link>
+        </links>
+      </event>
+      <event id="6067">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Protik</room>
+        <slug>angularjs</slug>
+        <title>The main features of the latest AngularJS release</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>devroom</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Yes! We are very excited. In this talk we are going to review the main features of the latest Angular release. We will also go over some cool demos and provide top tips for a shiny upgrade.&lt;/p&gt;</description>
+        <persons>
+          <person id="4676">Gerard Sans</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/the-main-features-of-the-latest-angularjs-release/">Website session link</link>
+        </links>
+      </event>
+      <event id="6973">
+        <start>16:30</start>
+        <duration>00:15</duration>
+        <room>Protik</room>
+        <slug>fedora</slug>
+        <title>Fedora Labs – curated bundles for gamers, security researchers, designers and more</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>labs</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Fedora labs offer customized bundles of tools and applications for your Fedora. There are Fedora Labs for security related work(penetration testing), gamers, designers etc. These may be installed as standalone full versions of Fedora or as add-ons to existing Fedora installations. I will talk about what are Fedora labs, who can use them and how to install and use them on your desktop&lt;/ul&gt;</description>
+        <persons>
+          <person id="4638">Bee Padalkar</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/fedora-labs-curated-bundles-for-gamers-security-researchers-designers-and-more/">Website session link</link>
+        </links>
+      </event>
+      <event id="6816">
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>Protik</room>
+        <slug>travel</slug>
+        <title>Free travel information for Albania</title>
+        <subtitle/>
+        <track>Talk 2</track>
+        <type>information</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;This short talk targeting policy makers makes the case for Albania to develop travel information as free and open and suggests some tools to do this, including Wikivoyage &amp; OSM.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="4480">Arianit Dobroshi</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/free-travel-information-for-albania/">Website session link</link>
+        </links>
+      </event>
+      <event id="6998">
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>community</slug>
+        <title>Community Meetup</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>meetup</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="7032">
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>erp</slug>
+        <title>Open Source ERP systems</title>
+        <subtitle/>
+        <track>Workshop 1</track>
+        <type>systems</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source ERP systems.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="5164">Anisa Selimi</person>
+          <person id="5197">Çeljeta Shehu</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-erp-systems/">Website session link</link>
+        </links>
+      </event>
+      <event id="6378">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>migration</slug>
+        <title>Migrating to LibreOffice</title>
+        <subtitle/>
+        <track>Workshop 1</track>
+        <type>libreoffice</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="4901">Italo Vignoli</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/migrating-to-libreoffice/">Website session link</link>
+        </links>
+      </event>
+      <event id="7316">
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>lunch</slug>
+        <title>Lunch Break</title>
+        <subtitle>One hour break</subtitle>
+        <track>Workshop 1</track>
+        <type>break</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="2072">OSCAL Staff</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="6514">
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>wikipedia</slug>
+        <title>Wikipedia: WikiPride and Diversity</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>pride</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;During the workshop we will teach the new ones to edit on Wikipedia and the existing users how to write good articles about LGBT subjects and women. Our main focus will be Wikipedia shqip and Wikidata. We are expecting to have participants of LGBT parade which will be hosted close to OSCAL(17 May), so we’re thinking to have a 15 min talk about challenges in Wikipedia about these subject and the rest of the time to edit about these subjects.&lt;/p&gt;</description>
+        <persons>
+          <person id="9865">Jona Rizvanolli</person>
+          <person id="2735">Kristina Millona</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/JRizvanolli">Jona's Twitter</link>
+          <link href="https://twitter.com/KristinaMillona/">Kristina's Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/wikipedia-wikipride-and-diversity/">Website session link</link>
+        </links>
+      </event>
+      <event id="7211">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>machines</slug>
+        <title>Introduction to Machine Learning</title>
+        <subtitle/>
+        <track>Workshop 1</track>
+        <type>machine_learning</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;We will begin with a small introductory talk about Machine Learning and its present day applications. I will also talk about some common machine learning models, how they work and their pros and cons. During the last 30 minutes of the workshop, attendees will use learnings from the talk to build a machine learning model and derive some interesting predictions.&lt;/p&gt;
+        &lt;p&gt;The workshop will need knowledge of Python programming basics however, you are welcome to attend initial introductory talk to Machine Learning even if you don’t know programming or Python yet. Please have python3 installed before if you plan to attend the workshop.&lt;/p&gt;</description>
+        <persons>
+          <person id="9965">Bee Padalkar</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/introduction-to-machine-learning/">Website session link</link>
+        </links>
+      </event>
+      <event id="6014">
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Protik</room>
+        <slug>git</slug>
+        <title>Deploy to Linux Server with Git</title>
+        <subtitle></subtitle>
+        <track>Workshop 1</track>
+        <type>server</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Git is one of the most commonly used tools to deploy files from your local machine to your remote machine/server. In this workshop we will introduce the steps needed to take in order to create a repository to our server so we can deploy from our local machine to our remote location by using git.&lt;/p&gt;</description>
+        <persons>
+          <person id="1263">Silvi Kolumçaj</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/deploy-to-linux-server-with-git/">Website session link</link>
         </links>
       </event>
       <event id="6200">
