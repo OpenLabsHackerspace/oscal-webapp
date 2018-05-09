@@ -48,10 +48,10 @@ export default {
 
 <style>
 .application .theme--light.toolbar, .theme--light .toolbar {
-background-color: #ea272b;
+background-color: #ea272b !important;
 color: white;
 }
 .application .theme--light.btn, .theme--light .btn {
-color: white;
+color: white !important;
 }
 </style>
