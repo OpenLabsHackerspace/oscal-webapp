@@ -71,9 +71,11 @@
            &lt;p&gt;At present LibreOffice, Mozilla, Thunderbird, Zimbra have been installed and customized on more than 10000 client workstations and cohabit with proprietary software. A gradual switch off started first by employees that hardly ever use the traditional tools and a community of 100 FLOSS passionate people was constituted.&lt;/p&gt;</description>
         <persons>
           <person id="4913">Cecilia Colasanti</person>
+          <person id="7613">Flavia Marzano</person>
         </persons>
         <links>
-            <link href="https://twitter.com/cecwitter">Speaker Twitter</link>
+            <link href="https://twitter.com/cecwitter">Cecilia's Twitter</link>
+            <link href="https://twitter.com/flavia_marzano">Flavia's Twitter</link>
             <link href="https://oscal.openlabs.cc/sessions/the-approach-to-free-software-and-culture-at-roma-capitale/">Website Session Link</link>
         </links>
       </event>
@@ -1428,31 +1430,12 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <person id="4676">Gerard Sans</person>
         </persons>
         <links>
+          <link href="https://twitter.com/gerardsans">Speaker Twitter</link>
           <link href="https://oscal.openlabs.cc/sessions/the-main-features-of-the-latest-angularjs-release/">Website session link</link>
         </links>
       </event>
-      <event id="6973">
-        <start>16:30</start>
-        <duration>00:15</duration>
-        <room>Protik</room>
-        <slug>fedora</slug>
-        <title>Fedora Labs – curated bundles for gamers, security researchers, designers and more</title>
-        <subtitle/>
-        <track>Talk 2</track>
-        <type>labs</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Fedora labs offer customized bundles of tools and applications for your Fedora. There are Fedora Labs for security related work(penetration testing), gamers, designers etc. These may be installed as standalone full versions of Fedora or as add-ons to existing Fedora installations. I will talk about what are Fedora labs, who can use them and how to install and use them on your desktop&lt;/ul&gt;</description>
-        <persons>
-          <person id="4638">Bee Padalkar</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/fedora-labs-curated-bundles-for-gamers-security-researchers-designers-and-more/">Website session link</link>
-        </links>
-      </event>
       <event id="6816">
-        <start>16:45</start>
+        <start>16:30</start>
         <duration>00:15</duration>
         <room>Protik</room>
         <slug>travel</slug>
