@@ -47,4 +47,11 @@ export default {
 </script>
 
 <style>
+.application .theme--light.toolbar, .theme--light .toolbar {
+background-color: #ea272b;
+color: white;
+}
+.application .theme--light.btn, .theme--light .btn {
+color: white;
+}
 </style>
