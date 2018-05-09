@@ -34,7 +34,7 @@ export default {
       dispatch('showNotification', {
         message: 'Click on a building to zoom in',
         color: 'info',
-        timeout: 10000
+        timeout: 5000
       })
       commit('setZoomTipShown', true)
     }
