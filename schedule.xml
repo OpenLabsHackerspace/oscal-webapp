@@ -831,8 +831,14 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <language/>
         <abstract></abstract>
         <description></description>
-        <persons></persons>
-        <links></links>
+        <persons>
+          <person id="4671">Bee Padalkar</person>
+          <person id="2571">Renata Gegaj</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/BeePadalkar">Bee's Twitter</link>
+          <link href="https://twitter.com/BeePadalkar">Renata's Twitter</link>
+        </links>
       </event>
       <event id="6393">
         <start>15:00</start>
@@ -1038,9 +1044,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <description>&lt;br /&gt;&lt;p&gt;Outreachy, Google Summer of Code and Rails Summer of Code are some programs which offer paid internships with open source projects. I have been an past Outreachy intern and also a mentor for GSoC. I will talk about these programs, their timeline and application tips. This talk will mainly have a Q and A session with attendees about their queries and will involve other interns of these programs too.&lt;/p&gt;</description>
         <persons>
           <person id="4671">Bee Padalkar</person>
+          <person id="2571">Renata Gegaj</person>
         </persons>
         <links>
-          <link href="https://twitter.com/BeePadalkar">Speaker Twitter</link>
+          <link href="https://twitter.com/BeePadalkar">Bee's Twitter</link>
+          <link href="https://twitter.com/BeePadalkar">Renata's Twitter</link>
           <link href="https://oscal.openlabs.cc/sessions/get-paid-to-contribute-to-foss/">Website session link</link>
         </links>
       </event>
