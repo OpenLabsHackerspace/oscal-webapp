@@ -14,7 +14,7 @@
               <p><v-icon>alarm</v-icon> Timestamp: {{ timestamp }}</p>
               <p><v-icon>fingerprint</v-icon> Author: <a href="http://lushka.al">Anxhelo Lushka</a></p>
               <p><v-icon>code</v-icon> Code / Feedback: <a href="https://github.com/OpenLabsHackerspace/oscal-webapp">Github</a></p>
-              <p>This is the official OSCAL 2018 schedule progressive webapp.</p>
+              <p>This is the official OSCAL 2018 schedule progressive webapp derived from work of <a href="https://github.com/loomchild/sojourner-web">Loomchild</a>.</p>
             </div>
           </v-flex>
         </v-layout>
@@ -53,5 +53,3 @@ export default {
     margin-bottom: 7px;
   }
 </style>
-
-

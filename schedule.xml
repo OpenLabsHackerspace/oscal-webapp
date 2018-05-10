@@ -3,7 +3,7 @@
   <conference>
     <title>OSCAL 2018</title>
     <subtitle/>
-    <venue>The Pyramid of Tirana and Protik Center</venue>
+    <venue>The Talk 1 of Tirana and Talk 2 Center</venue>
     <city>Tirana</city>
     <start>2018-05-19</start>
     <end>2018-05-20</end>
@@ -12,16 +12,16 @@
     <timeslot_duration>00:05:00</timeslot_duration>
   </conference>
   <day index="1" date="2018-05-19">
-    <room name="Pyramid">
+    <room name="Talk 1">
       <event id="7294">
         <start>09:30</start>
         <duration>00:15</duration>
-        <room>Main Track</room>
+        <room>Talk 1</room>
         <slug>opening_speech</slug>
         <title>Opening Speech</title>
         <subtitle/>
-        <track>Talk 1</track>
-        <type>opening speech</type>
+        <track>Opening Speech</track>
+        <type>Opening Speech</type>
         <language/>
         <abstract>Opening speech of OSCAL 2018</abstract>
         <description>The OSCAL 2018 opening speech from the organizers.</description>
@@ -32,11 +32,11 @@
       <event id="6245">
         <start>09:45</start>
         <duration>00:15</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>mayor</slug>
         <title>A word from the mayor of Tirana, Erion Veliaj</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Opening Speech</track>
         <type>opening_speech</type>
         <language/>
         <abstract>A word from the mayor of Tirana, Erion Veliaj</abstract>
@@ -52,11 +52,11 @@
       <event id="6458">
         <start>10:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>policy_making</slug>
         <title>The approach to free software and culture at Roma Capitale</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Policymaking</track>
         <type></type>
         <language/>
         <abstract>This article is focused on the actions of Roma Capitale to increase its use of Free and Libre Open Source Software (FLOSS), within the framework of Roma Capitale's Digital Agenda 2017-2021.</abstract>
@@ -82,11 +82,11 @@
       <event id="6230">
         <start>10:30</start>
         <duration>01:00</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>key</slug>
         <title>Key Impressioning</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Privacy &amp; Security</track>
         <type>security</type>
         <language/>
         <abstract></abstract>
@@ -105,11 +105,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6308">
         <start>11:30</start>
         <duration>01:00</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>privacy</slug>
         <title>Fighting Mass Surveillance with FOSS,  Free Software for Freedom</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Privacy &amp; Security</track>
         <type>privacy</type>
         <language/>
         <abstract></abstract>
@@ -125,11 +125,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6403">
         <start>12:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>copyright</slug>
         <title>EU Copyright Reform: Challenges and Risks in the FLOSS Ecosystem</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Policymaking</track>
         <type>copyright</type>
         <language/>
         <abstract></abstract>
@@ -155,11 +155,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6005">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Talk 1</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -173,11 +173,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6289">
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>geodata</slug>
         <title>How to improve OSM with official open-data (Tirana use-case)</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>geodata</type>
         <language/>
         <abstract></abstract>
@@ -199,11 +199,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="5927">
         <start>14:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>geodata</slug>
         <title>How to make Albanian open imagery and maps available to OpenStreetMap editors</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Copyright &amp; Licenses</track>
         <type>geodata</type>
         <language/>
         <abstract></abstract>
@@ -220,11 +220,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6762">
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>open data</slug>
         <title>Representing and processing Open Data</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Open Data</track>
         <type>open data</type>
         <language/>
         <abstract></abstract>
@@ -239,11 +239,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6311">
         <start>15:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>community</slug>
         <title>Openness in a culturally diverse world</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>diversity</type>
         <language/>
         <abstract></abstract>
@@ -261,11 +261,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6316">
         <start>16:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>contributing</slug>
         <title>Contributing to Open Source, what is it like?</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Open Source</track>
         <type>community</type>
         <language/>
         <abstract></abstract>
@@ -281,11 +281,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6258">
         <start>16:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>hacking</slug>
         <title>How I got access to Kosovo Citizens Information, without getting access within the servers!</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Privacy &amp; Security</track>
         <type>hacking</type>
         <language/>
         <abstract></abstract>
@@ -301,11 +301,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6475">
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>economics</slug>
         <title>The economics of Open Source</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Economic development, business, growth, investment</track>
         <type>economics</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;Why is that Open Source software provides so much more value to users, yet represents such a small percentage of all software developed?&lt;/p&gt;</abstract>
@@ -322,11 +322,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6151">
         <start>17:30</start>
         <duration>00:15</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>education</slug>
         <title>MOOCs, Open Education and developing countries: something good is in the air?</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Policymaking</track>
         <type>open education</type>
         <language/>
         <abstract></abstract>
@@ -343,12 +343,12 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </event>
       <event id="5981">
         <start>17:45</start>
-        <duration>18:00</duration>
-        <room>Pyramid</room>
+        <duration>00:15</duration>
+        <room>Talk 1</room>
         <slug>closing speech</slug>
         <title> Day 1 - Closing Speech </title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Closing Speech</track>
         <type>closing_speech</type>
         <language/>
         <abstract></abstract>
@@ -360,15 +360,15 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </links>
       </event>
     </room>
-    <room name="Protik">
+    <room name="Talk 2">
       <event id="6032">
         <start>10:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>open source</slug>
         <title>Open Source 101</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>open source</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;Welcome to Open Source 101!&lt;/p&gt;</abstract>
@@ -385,11 +385,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="5969">
         <start>10:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>inclusive</slug>
         <title>Building and growing a diverse and inclusive community</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>community</type>
         <language/>
         <abstract></abstract>
@@ -406,11 +406,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6541">
         <start>11:00</start>
         <duration>00:35</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>design</slug>
         <title>How to contribute to LibreOffice as a non-developer</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Design &amp; Art</track>
         <type>design</type>
         <language/>
         <abstract></abstract>
@@ -427,11 +427,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6181">
         <start>11:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>community</slug>
         <title>Join LibreOffice Community and (possibly) become a TDF member</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>project</type>
         <language/>
         <abstract></abstract>
@@ -447,11 +447,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6011">
         <start>12:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>project</slug>
         <title>The Document Foundation - The open, transparent and meritocratic future of free office software</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>project</type>
         <language/>
         <abstract></abstract>
@@ -468,11 +468,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="5994">
         <start>12:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>project</slug>
         <title>LibreOffice 6.0</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>project</type>
         <language/>
         <abstract></abstract>
@@ -488,11 +488,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6078">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Talk 2</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -505,11 +505,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="5920">
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>wikipedia</slug>
         <title>My first edit on Albanian Wikipedia</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>wikimedia</type>
         <language>Albanian</language>
         <abstract></abstract>
@@ -526,11 +526,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6742">
         <start>14:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>wikimedia</slug>
         <title>LGBT issues on Wikipedia</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>lgbt</type>
         <language/>
         <abstract></abstract>
@@ -546,11 +546,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6627">
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>Wikidata</slug>
         <title>Wikidata for developers</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>dev</type>
         <language/>
         <abstract></abstract>
@@ -566,11 +566,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6330">
         <start>15:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>debian</slug>
         <title>Open source programs and Debian</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>debian</type>
         <language/>
         <abstract></abstract>
@@ -585,11 +585,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6709">
         <start>16:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>fedora</slug>
         <title>Fedora Silverblue (ex Atomic Workstation) in practice</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Privacy &amp; Security</track>
         <type>fedora</type>
         <language/>
         <abstract></abstract>
@@ -605,11 +605,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6692">
         <start>16:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>openSUSE</slug>
         <title>The precious stones of the openSUSE crown</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Open Source</track>
         <type>openSUSE</type>
         <language/>
         <abstract></abstract>
@@ -622,14 +622,16 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/the-precious-stones-of-the-opensuse-crown/">Website session link</link>
         </links>
       </event>
+    </room>
+    <room name="Workshop 1">
       <event id="6580">
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>github</slug>
         <title>Using Git and Github to contribute to open source</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Free Knowledge</track>
         <type>git</type>
         <language/>
         <abstract></abstract>
@@ -647,11 +649,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6443">
         <start>12:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>tools</slug>
         <title>Open Source Tools for Delivering Fast and Beautiful Images and Video</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Web Development</track>
         <type>tools</type>
         <language/>
         <abstract></abstract>
@@ -667,11 +669,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6697">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Workshop 1</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -685,11 +687,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6495">
         <start>14:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>transport</slug>
         <title>Mapping public transport stops and lines using JOSM</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Open Geo Data</track>
         <type>transport</type>
         <language/>
         <abstract></abstract>
@@ -704,11 +706,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6000">
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>postgresql</slug>
         <title>Intro to PostgreSQL / PostGIS</title>
         <subtitle/>
-        <track>Workshop 1</track>
+        <track>Database</track>
         <type>sql</type>
         <language/>
         <abstract>&lt;p&gt;Introduction to RDMS PostgreSQL, with specific topic related to PostGIS topic.&lt;/p&gt;
@@ -726,11 +728,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6695">
         <start>16:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>leafletjs</slug>
         <title>Web Development using LeafletJS</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Web Development</track>
         <type>webdev</type>
         <language/>
         <abstract></abstract>
@@ -743,19 +745,20 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/web-development-using-leafletjs/">Website session link</link>
         </links>
       </event>
+    </room>
+    <room name="Workshop 2">
       <event id="7280">
         <start>10:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>server</slug>
         <title>First Linux Setup for Web Server</title>
         <subtitle></subtitle>
-        <track>Workshop 2</track>
+        <track>Web Development</track>
         <type>start</type>
         <language/>
         <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;In this workshop we will see how to make the first setup for Linux Web Server by configuring ssh, firewall, failtoban and also LAMPP Stack (Apache, MySQL, PHP (with the specified PHP version) PhpMyAdmin, setting up the right user permissions and configuring and scheduling backups according to the requirements (Debian and Ubuntu and CentOS).
-&lt;/p&gt;</description>
+        <description>&lt;br /&gt;&lt;p&gt;In this workshop we will see how to make the first setup for Linux Web Server by configuring ssh, firewall, failtoban and also LAMPP Stack (Apache, MySQL, PHP (with the specified PHP version) PhpMyAdmin, setting up the right user permissions and configuring and scheduling backups according to the requirements (Debian and Ubuntu and CentOS).&lt;/p&gt;</description>
         <persons>
           <person id="2447">Silvi Kolumçaj</person>
         </persons>
@@ -766,11 +769,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6670">
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>workflow</slug>
         <title>Git &amp; GitHub workflow for beginners</title>
         <subtitle></subtitle>
-        <track>Workshop 2</track>
+        <track>Web Development</track>
         <type>github</type>
         <language/>
         <abstract></abstract>
@@ -786,11 +789,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6672">
         <start>12:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>ipfs</slug>
         <title>Building web applications using IPFS</title>
         <subtitle/>
-        <track>Workshop 2</track>
+        <track>Web Development</track>
         <type>webdev</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;IPFS, the Interplanetary File System, is a new protocol with the objective to make the web safer, faster and open.&lt;/p&gt;</abstract>
@@ -805,11 +808,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6721">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
-        <subtitle/>
-        <track>Workshop 2</track>
+        <subtitle>One hour break</subtitle>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -822,11 +825,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6283">
         <start>14:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>meetup</slug>
         <title>Community meetup - Girls in open source</title>
         <subtitle></subtitle>
-        <track>Workshop 2</track>
+        <track>Community Culture</track>
         <type>meetups</type>
         <language/>
         <abstract></abstract>
@@ -843,11 +846,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6393">
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>meetup</slug>
         <title>Community meetup - Meet the Fedora community</title>
         <subtitle/>
-        <track>Workshop 2</track>
+        <track>Community Culture</track>
         <type>meetups</type>
         <language/>
         <abstract></abstract>
@@ -858,11 +861,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6083">
         <start>16:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>meetup</slug>
         <title> Community meetup - Albanian Wikipedia Community Discussion</title>
         <subtitle>Part 1</subtitle>
-        <track>Workshop 2</track>
+        <track>Community Culture</track>
         <type>meetups</type>
         <language/>
         <abstract></abstract>
@@ -875,11 +878,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6468">
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>meetup</slug>
         <title>Community meetup - Albanian Wikipedia Community Discussion</title>
         <subtitle>Part 2</subtitle>
-        <track>Workshop 2</track>
+        <track>Community Culture</track>
         <type>meetups</type>
         <language/>
         <abstract></abstract>
@@ -890,15 +893,15 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </room>
     </day>
 <day index="2" date="2018-05-20">
-  <room name="Pyramid">
+  <room name="Talk 1">
       <event id="7319">
         <start>10:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>coding</slug>
         <title>Everybody Should Learn How To Code</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Programming 101</track>
         <type>devroom</type>
         <language/>
         <abstract></abstract>
@@ -913,11 +916,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6465">
         <start>10:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>vulnerabilities</slug>
         <title>Website vulnerabilities</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Privacy &amp; Security</track>
         <type>website</type>
         <language/>
         <abstract></abstract>
@@ -932,11 +935,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7110">
         <start>11:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>tirana</slug>
         <title>The open source projects implemented at the Municipality of Tirana</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Open Data</track>
         <type>tirana_foss</type>
         <language/>
         <abstract></abstract>
@@ -951,11 +954,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6637">
         <start>11:30</start>
         <duration>00:3  0</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>osi</slug>
         <title>Consensus as a Service - OSI 20th Anniversary</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>service</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;The Open Source label was born in February 1998 as a new way to popularise free software for business adoption. OSI will celebrate its 20th Anniversary on February 3, 2018, during the opening day of FOSDEM 2018.&lt;/p&gt;
@@ -972,11 +975,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6467">
         <start>12:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>cooking</slug>
         <title>How to cook your own open source event</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>events</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;Eight years ago, the idea of open source cooking in Munich first was on the table and since then took place over a dozen of times already.&lt;/p&gt;</abstract>
@@ -994,11 +997,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6438">
         <start>12:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>writing</slug>
         <title>Free software won’t write itself</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>coding</type>
         <language/>
         <abstract></abstract>
@@ -1015,11 +1018,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6104">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Talk 1</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -1033,11 +1036,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6437">
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>contributions</slug>
         <title>Get paid to contribute to FOSS</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Decentralization &amp; Blockchain</track>
         <type>payment</type>
         <language/>
         <abstract></abstract>
@@ -1055,11 +1058,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6456">
         <start>14:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>communication</slug>
         <title>Importance of communication in Open Source communities</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>comms</type>
         <language/>
         <abstract></abstract>
@@ -1077,11 +1080,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6596">
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>school</slug>
         <title>Building the School 2.0</title>
         <subtitle></subtitle>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>education</type>
         <language/>
         <abstract></abstract>
@@ -1097,11 +1100,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6470">
         <start>15:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>Linux</slug>
         <title>Just under the surface of Linux</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Understanding Technology</track>
         <type>surface</type>
         <language/>
         <abstract></abstract>
@@ -1117,11 +1120,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7270">
         <start>16:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>projects</slug>
         <title>Petting your sideprojects</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>sideprojects</type>
         <language/>
         <abstract></abstract>
@@ -1137,11 +1140,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7271">
         <start>16:30</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>machine</slug>
         <title>Machine Learning on Open Source code</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Open Data</track>
         <type>machine_learning</type>
         <language/>
         <abstract></abstract>
@@ -1159,11 +1162,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7272">
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>IM</slug>
         <title>Death by a thousand chats</title>
         <subtitle>Helping developers and users stay sane.</subtitle>
-        <track>Talk 1</track>
+        <track>Community Culture</track>
         <type>chats</type>
         <language/>
         <abstract></abstract>
@@ -1180,11 +1183,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7273">
         <start>17:30</start>
         <duration>00:15</duration>
-        <room>Pyramid</room>
+        <room>Talk 1</room>
         <slug>closing</slug>
-        <title>Closing speech – Day 2</title>
+        <title>Day 2 - Closing Speech</title>
         <subtitle/>
-        <track>Talk 1</track>
+        <track>Closing Speech</track>
         <type>closing_speech</type>
         <language/>
         <abstract></abstract>
@@ -1195,16 +1198,16 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <links>
         </links>
       </event>
-      </room>
-  <room name="Protik">
+    </room>
+  <room name="Talk 2">
       <event id="7274">
         <start>10:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>react</slug>
         <title>Patterns in React</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Web Development</track>
         <type>reactjs</type>
         <language/>
         <abstract></abstract>
@@ -1220,11 +1223,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7275">
         <start>10:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>security</slug>
         <title> Open-Source security tools – Should you?</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Privacy &amp; Security</track>
         <type>tools</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
@@ -1240,11 +1243,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="5991">
         <start>11:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>pwa</slug>
         <title>PWA power!</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Web Development</track>
         <type>pwa</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;Make your website work completely offine, with look and feel of native App!&lt;/p&gt;</abstract>
@@ -1260,11 +1263,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6528">
         <start>11:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>radare</slug>
         <title>Executable reverse engineering 101 with radare 2</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Privacy &amp; Security</track>
         <type>devroom</type>
         <language/>
         <abstract></abstract>
@@ -1281,11 +1284,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6647">
         <start>12:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>pylint</slug>
         <title>How to write pylint plugins</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Web Development</track>
         <type>plugins</type>
         <language/>
         <abstract></abstract>
@@ -1301,11 +1304,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7001">
         <start>13:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>encryption</slug>
         <title>End-to-End Encrypted Messaging: Next Steps for Privacy and Decentralization</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Privacy &amp; Security</track>
         <type>encryption</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;We rely on end-to-end encrypted messaging apps for protecting our confidential and sensitive information. However, how do you know your messages are really protected? What does the server or a third-party eavesdropper know about your contacts and communication? To be honest, it’s difficult to tell these applications apart.&lt;/p&gt;</abstract>
@@ -1323,11 +1326,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6740">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Talk 2</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -1341,11 +1344,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6852">
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>cityzen</slug>
         <title>Privacy aware city navigation with CityZen</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Privacy &amp; Security</track>
         <type>navigation</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;Navigating our cities using free software community based mobile apps in ‘private mode’ might sound like an easy task in 2017, but with a little research you will be quickly disappointed. There are related platforms out there, but some of them are lacking good User Experience, others are not community lead or are getting away from the free software freedoms due to their partnerships with companies that do not respect our privacy online.&lt;/p&gt;</abstract>
@@ -1362,11 +1365,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6930">
         <start>14:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>community</slug>
         <title>The driving force behind open source communities</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Community Culture</track>
         <type>opensource</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;What motivates people to contribute? What makes contributors stay? How to retain new contributors? Contribution to open source survey.&lt;/p&gt;</abstract>
@@ -1384,11 +1387,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6095">
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>machines</slug>
         <title>State of open source machine learning</title>
         <subtitle></subtitle>
-        <track>Talk 2</track>
+        <track>Machine Learning</track>
         <type>google</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
@@ -1405,11 +1408,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6356">
         <start>15:30</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>architecture</slug>
         <title>*x architectural patterns for frontend development</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Web Development</track>
         <type>devs</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;How to survive in a world of complex async and scalable webapps.&lt;/p&gt;</abstract>
@@ -1425,11 +1428,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6067">
         <start>16:00</start>
         <duration>00:30</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>angularjs</slug>
         <title>The main features of the latest AngularJS release</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Web Development</track>
         <type>devroom</type>
         <language/>
         <abstract></abstract>
@@ -1445,11 +1448,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6816">
         <start>16:30</start>
         <duration>00:15</duration>
-        <room>Protik</room>
+        <room>Talk 2</room>
         <slug>travel</slug>
         <title>Free travel information for Albania</title>
         <subtitle/>
-        <track>Talk 2</track>
+        <track>Free Knowledge</track>
         <type>information</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;This short talk targeting policy makers makes the case for Albania to develop travel information as free and open and suggests some tools to do this, including Wikivoyage &amp; OSM.&lt;/p&gt;</abstract>
@@ -1461,14 +1464,16 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/free-travel-information-for-albania/">Website session link</link>
         </links>
       </event>
+    </room>
+  <room name="Workshop 1">
       <event id="6998">
         <start>10:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>community</slug>
         <title>Community Meetup</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Community Culture</track>
         <type>meetup</type>
         <language/>
         <abstract></abstract>
@@ -1481,11 +1486,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7032">
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>crm</slug>
         <title>Introduction to opensource CRM</title>
         <subtitle/>
-        <track>Workshop 1</track>
+        <track>CRM</track>
         <type>systems</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;We will talk about open source CRM systems.&lt;/p&gt;</abstract>
@@ -1501,11 +1506,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6378">
         <start>12:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>migration</slug>
         <title>Migrating to LibreOffice</title>
         <subtitle/>
-        <track>Workshop 1</track>
+        <track>Community Culture</track>
         <type>libreoffice</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
@@ -1521,11 +1526,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7316">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Workshop 1</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -1539,11 +1544,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6514">
         <start>14:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>wikipedia</slug>
         <title>Wikipedia: WikiPride and Diversity</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Free Knowledge</track>
         <type>pride</type>
         <language/>
         <abstract></abstract>
@@ -1561,11 +1566,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7211">
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>machines</slug>
         <title>Introduction to Machine Learning</title>
         <subtitle/>
-        <track>Workshop 1</track>
+        <track>Machine Learning</track>
         <type>machine_learning</type>
         <language/>
         <abstract></abstract>
@@ -1582,11 +1587,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6014">
         <start>16:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 1</room>
         <slug>git</slug>
         <title>Deploy to Linux Server with Git</title>
         <subtitle></subtitle>
-        <track>Workshop 1</track>
+        <track>Web Development</track>
         <type>server</type>
         <language/>
         <abstract></abstract>
@@ -1598,14 +1603,16 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/deploy-to-linux-server-with-git/">Website session link</link>
         </links>
       </event>
+    </room>
+  <room name="Workshop 2">
       <event id="6200">
         <start>10:30</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>debian</slug>
         <title>Community meetup: Introduction to Debian tools</title>
         <subtitle/>
-        <track>Workshop 2</track>
+        <track>Web Development</track>
         <type>tools</type>
         <language/>
         <abstract></abstract>
@@ -1616,11 +1623,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6482">
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>magento</slug>
         <title>Speaking about Magento</title>
         <subtitle/>
-        <track>Workshop 2</track>
+        <track>Web Development</track>
         <type>dev</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;I am going to talk about Magento Community Edition.Speaking about Magento performance, security , development basics, Magento 2 and ways how to run Magento locally using docker.&lt;/p&gt;</abstract>
@@ -1637,11 +1644,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7176">
         <start>12:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>pandoc</slug>
         <title>Pandoc — removing the fuss out of handing out documents</title>
         <subtitle/>
-        <track>Workshop 2</track>
+        <track>Web Development</track>
         <type>documents</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;An introduction on how to use pandoc in document editing, publishing, storage and conversion.&lt;/p&gt;</abstract>
@@ -1656,11 +1663,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7031">
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>lunch</slug>
         <title>Lunch Break</title>
         <subtitle>One hour break</subtitle>
-        <track>Workshop 2</track>
+        <track>Break</track>
         <type>break</type>
         <language/>
         <abstract></abstract>
@@ -1673,11 +1680,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7170">
         <start>14:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>business</slug>
         <title>Free software for business and freelancer financial accounting</title>
         <subtitle>Part 1</subtitle>
-        <track>Workshop 2</track>
+        <track>Bussiness &amp; financial</track>
         <type>financal</type>
         <language/>
         <abstract></abstract>
@@ -1692,11 +1699,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="6922">
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>business</slug>
         <title>Free software for business and freelancer financial accounting</title>
         <subtitle>Part 2</subtitle>
-        <track>Workshop 2</track>
+        <track>Bussiness &amp; financial</track>
         <type>financial</type>
         <language/>
         <abstract></abstract>
@@ -1711,11 +1718,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       <event id="7068">
         <start>16:00</start>
         <duration>01:00</duration>
-        <room>Protik</room>
+        <room>Workshop 2</room>
         <slug>django</slug>
         <title>Introduction to Web Development with Django</title>
         <subtitle></subtitle>
-        <track>Workshop 2</track>
+        <track>Documentation</track>
         <type>webdev</type>
         <language/>
         <abstract>&lt;br /&gt;&lt;p&gt;A brief introduction to Django as an Open Source Web Framework and online resources to learn Web Development. After that a hands-on workshop on how to set up the Django Web Development Environment on your machine. If time permits we will also build a first simple app in Django.&lt;/p&gt;</abstract>

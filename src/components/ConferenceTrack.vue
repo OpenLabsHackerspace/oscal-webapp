@@ -7,9 +7,6 @@
         {{ track.rooms.map(room => `${room.room.name} (${room.days.join(' and ')})`).join(', ') }}
       </v-list-tile-sub-title>
     </v-list-tile-content>
-    <v-list-tile-action>
-      <v-icon :color="state.color" :title="state.name">{{ state.icon }}</v-icon>
-    </v-list-tile-action>
   </v-list-tile>
 </template>
 
@@ -56,5 +53,3 @@ export default {
     font-weight: bold;
   }
 </style>
-
-
