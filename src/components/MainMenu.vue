@@ -40,13 +40,13 @@ export default {
 
 <style>
 .application.theme--light a {
-color: #EA272B;
+color: #f03e3e;
 }
 
 .list__tile--active .list__tile__action:first-of-type .icon {
-color: #EA272B;
+color: #f03e3e;
 }
 .navigation-drawer > .list .list__tile--active .list__tile__title {
-color: #EA272B;
+color: #f03e3e;
 }
 </style>

@@ -18,7 +18,7 @@ export default {
 
 <style>
 .application .theme--light.toolbar, .theme--light .toolbar {
-background-color: #ea272b !important;
+background-color: #f03e3e !important;
 color: white;
 }
 .application .theme--light.btn, .theme--light .btn {
