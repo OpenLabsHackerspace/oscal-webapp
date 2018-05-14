@@ -298,8 +298,26 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/how-i-got-access-to-kosovo-citizens-information-without-getting-access-within-the-servers/">Website session link</link>
         </links>
       </event>
-      <event id="6475">
+      <event id="9999">
         <start>17:00</start>
+        <duration>00:15</duration>
+        <room>Talk 1</room>
+        <slug>education</slug>
+        <title>A short introduction of DOKU TECH</title>
+        <subtitle></subtitle>
+        <track>Community Culture</track>
+        <type>DOKU TECH</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/a-short-introduction-of-doku-tech/">Website session link</link>
+        </links>
+      </event>
+      <event id="6475">
+        <start>17:15</start>
         <duration>00:30</duration>
         <room>Talk 1</room>
         <slug>economics</slug>
@@ -317,28 +335,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <links>
           <link href="https://twitter.com/samtuke">Speaker Twitter</link>
           <link href="https://oscal.openlabs.cc/sessions/the-economics-of-open-source/">Website session link</link>
-        </links>
-      </event>
-      <event id="6151">
-        <start>17:30</start>
-        <duration>00:15</duration>
-        <room>Talk 1</room>
-        <slug>education</slug>
-        <title>MOOCs, Open Education and developing countries: something good is in the air?</title>
-        <subtitle></subtitle>
-        <track>Policymaking</track>
-        <type>open education</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Massive Open Online Courses, also known as MOOCs are a relatively new phenomenon in the education sphere, but they are getting the attention of many scholars because of their exponential growth rate and because of the popularity they have gained, especially in developing countries. In order to better understand the MOOCs model in education, we should analyze the contest in which MOOCs were born and where they are developing nowadays.&lt;/p&gt;
-        &lt;p&gt;In its core philosophy, education is strictly connected with the concepts of sharing and openness. The internet age in which we are living and the fast adoption of digital technologies by the vast majority of people living throughout our planet has significantly boosted the degree of openness of education, by bringing into the scene new powerful actors, such as MOOCs.&lt;/p&gt;
-        &lt;p&gt;Furthermore, MOOCs diffusion in developing countries leads to new interesting opportunities and challenging threats. Unfortunately, evidence about MOOCs in developing countries is not really easy to find as the outcome of MOOCs seems to be country specific; in addition, MOOCs are a brand-new topic in the universe of OER, for which further investigation is needed.&lt;/p&gt;</description>
-        <persons>
-          <person id="1541">Eltjana Plaku</person>
-          <person id="1921">Grazia Asveva Ascione</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/moocs-open-education-and-developing-countries-something-good-is-in-the-air/">Website session link</link>
         </links>
       </event>
       <event id="5981">
@@ -563,23 +559,26 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/wikidata-for-developers/">Website session link</link>
         </links>
       </event>
-      <event id="6330">
+      <event id="7271">
         <start>15:30</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
-        <slug>debian</slug>
-        <title>Open source programs and Debian</title>
-        <subtitle></subtitle>
-        <track>Community Culture</track>
-        <type>debian</type>
+        <slug>machine</slug>
+        <title>Machine Learning on Open Source code</title>
+        <subtitle/>
+        <track>Open Data</track>
+        <type>machine_learning</type>
         <language/>
         <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Debian has been actively participating in open source programs such as GSoC and outreachy and encouraging more students to open source.The talk will be about the journey through it.&lt;/p&gt;</description>
+        <description>&lt;br /&gt;&lt;p&gt;Few people look at open source code as a massive dataset for researchers. Yet we’ve accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source.&lt;/ul&gt;
+        &lt;p&gt;GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference’s proceedings and also touches the related research we conduct.&lt;/ul&gt;</description>
         <persons>
-          <person id="4854">Jaminy Prabaharan</person>
+          <person id="5340">Vadim Markovtsev</person>
         </persons>
         <links>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-programs-and-debian/">Website session link</link>
+          <link href="https://github.com/src-d/awesome-machine-learning-on-source-code">Research</link>
+          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/machine-learning-on-open-source-code/">Website session link</link>
         </links>
       </event>
       <event id="6709">
@@ -620,6 +619,28 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <links>
           <link href="https://twitter.com/shekeriev">Speaker Twitter</link>
           <link href="https://oscal.openlabs.cc/sessions/the-precious-stones-of-the-opensuse-crown/">Website session link</link>
+        </links>
+      </event>
+      <event id="6151">
+        <start>17:00</start>
+        <duration>00:15</duration>
+        <room>Talk 2</room>
+        <slug>education</slug>
+        <title>MOOCs, Open Education and developing countries: something good is in the air?</title>
+        <subtitle></subtitle>
+        <track>Policymaking</track>
+        <type>open education</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;Massive Open Online Courses, also known as MOOCs are a relatively new phenomenon in the education sphere, but they are getting the attention of many scholars because of their exponential growth rate and because of the popularity they have gained, especially in developing countries. In order to better understand the MOOCs model in education, we should analyze the contest in which MOOCs were born and where they are developing nowadays.&lt;/p&gt;
+        &lt;p&gt;In its core philosophy, education is strictly connected with the concepts of sharing and openness. The internet age in which we are living and the fast adoption of digital technologies by the vast majority of people living throughout our planet has significantly boosted the degree of openness of education, by bringing into the scene new powerful actors, such as MOOCs.&lt;/p&gt;
+        &lt;p&gt;Furthermore, MOOCs diffusion in developing countries leads to new interesting opportunities and challenging threats. Unfortunately, evidence about MOOCs in developing countries is not really easy to find as the outcome of MOOCs seems to be country specific; in addition, MOOCs are a brand-new topic in the universe of OER, for which further investigation is needed.&lt;/p&gt;</description>
+        <persons>
+          <person id="1541">Eltjana Plaku</person>
+          <person id="1921">Grazia Asveva Ascione</person>
+        </persons>
+        <links>
+          <link href="https://oscal.openlabs.cc/sessions/moocs-open-education-and-developing-countries-something-good-is-in-the-air/">Website session link</link>
         </links>
       </event>
     </room>
@@ -684,27 +705,48 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <links>
         </links>
       </event>
-      <event id="6495">
+      <event id="6378">
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Workshop 1</room>
-        <slug>transport</slug>
-        <title>Mapping public transport stops and lines using JOSM</title>
-        <subtitle></subtitle>
-        <track>Open Geo Data</track>
-        <type>transport</type>
+        <slug>migration</slug>
+        <title>Migrating to LibreOffice</title>
+        <subtitle/>
+        <track>Community Culture</track>
+        <type>libreoffice</type>
         <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Mapping public transport is not the easiest task to accomplish in OpenStreetMap.org. Therefore I mentored the creation of the PT_Assistant plugin as part of Google Summer of Code. This enables visualising the stops and the routes and gives validator warnings when problems are detected. Last summer the functionality was extended to bicycle and foot routes.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
+        <description></description>
         <persons>
-          <person id="4973">Jo Decock</person>
+          <person id="4901">Italo Vignoli</person>
         </persons>
         <links>
-          <link href="https://oscal.openlabs.cc/sessions/mapping-public-transport-stops-and-lines-using-josm/">Website session link</link>
+          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/migrating-to-libreoffice/">Website session link</link>
+        </links>
+      </event>
+      <event id="6695">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Workshop 1</room>
+        <slug>leafletjs</slug>
+        <title>Web Development using LeafletJS</title>
+        <subtitle></subtitle>
+        <track>Web Development</track>
+        <type>webdev</type>
+        <language/>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="5054">Amanti Lulo</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/AmantiLulo">Speaker Website</link>
+          <link href="https://oscal.openlabs.cc/sessions/web-development-using-leafletjs/">Website session link</link>
         </links>
       </event>
       <event id="6000">
-        <start>15:00</start>
+        <start>16:00</start>
         <duration>01:00</duration>
         <room>Workshop 1</room>
         <slug>postgresql</slug>
@@ -723,26 +765,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <links>
           <link href="https://twitter.com/BGuri">Besfort's Twitter</link>
           <link href="https://oscal.openlabs.cc/sessions/intro-to-postgresql-postgis/">Website session link</link>
-        </links>
-      </event>
-      <event id="6695">
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Workshop 1</room>
-        <slug>leafletjs</slug>
-        <title>Web Development using LeafletJS</title>
-        <subtitle></subtitle>
-        <track>Web Development</track>
-        <type>webdev</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-          <person id="5054">Amanti Lulo</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/AmantiLulo">Speaker Website</link>
-          <link href="https://oscal.openlabs.cc/sessions/web-development-using-leafletjs/">Website session link</link>
         </links>
       </event>
     </room>
@@ -822,25 +844,23 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </persons>
         <links></links>
       </event>
-      <event id="6283">
+      <event id="7176">
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Workshop 2</room>
-        <slug>meetup</slug>
-        <title>Community meetup - Girls in open source</title>
-        <subtitle></subtitle>
-        <track>Community Culture</track>
-        <type>meetups</type>
+        <slug>pandoc</slug>
+        <title>Pandoc — removing the fuss out of handing out documents</title>
+        <subtitle/>
+        <track>Web Development</track>
+        <type>documents</type>
         <language/>
-        <abstract></abstract>
+        <abstract>&lt;br /&gt;&lt;p&gt;An introduction on how to use pandoc in document editing, publishing, storage and conversion.&lt;/p&gt;</abstract>
         <description></description>
         <persons>
-          <person id="4671">Bee Padalkar</person>
-          <person id="2571">Renata Gegaj</person>
+          <person id="5290">Jor Bashllari</person>
         </persons>
         <links>
-          <link href="https://twitter.com/BeePadalkar">Bee's Twitter</link>
-          <link href="https://twitter.com/BeePadalkar">Renata's Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/pandoc-removing-the-fuss-out-of-handing-out-documents/">Website session link</link>
         </links>
       </event>
       <event id="6393">
@@ -877,7 +897,27 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </event>
       <event id="6468">
         <start>17:00</start>
-        <duration>00:30</duration>
+        <duration>00:45<event id="6283">
+          <start>14:00</start>
+          <duration>01:00</duration>
+          <room>Workshop 2</room>
+          <slug>meetup</slug>
+          <title>Community meetup - Girls in open source</title>
+          <subtitle></subtitle>
+          <track>Community Culture</track>
+          <type>meetups</type>
+          <language/>
+          <abstract></abstract>
+          <description></description>
+          <persons>
+            <person id="4671">Bee Padalkar</person>
+            <person id="2571">Renata Gegaj</person>
+          </persons>
+          <links>
+            <link href="https://twitter.com/BeePadalkar">Bee's Twitter</link>
+            <link href="https://twitter.com/BeePadalkar">Renata's Twitter</link>
+          </links>
+        </event></duration>
         <room>Workshop 2</room>
         <slug>meetup</slug>
         <title>Community meetup - Albanian Wikipedia Community Discussion</title>
@@ -1137,28 +1177,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/petting-your-sideprojects/">Website session link</link>
         </links>
       </event>
-      <event id="7271">
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>Talk 1</room>
-        <slug>machine</slug>
-        <title>Machine Learning on Open Source code</title>
-        <subtitle/>
-        <track>Open Data</track>
-        <type>machine_learning</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;Few people look at open source code as a massive dataset for researchers. Yet we’ve accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source.&lt;/ul&gt;
-        &lt;p&gt;GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference’s proceedings and also touches the related research we conduct.&lt;/ul&gt;</description>
-        <persons>
-          <person id="5340">Vadim Markovtsev</person>
-        </persons>
-        <links>
-          <link href="https://github.com/src-d/awesome-machine-learning-on-source-code">Research</link>
-          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/machine-learning-on-open-source-code/">Website session link</link>
-        </links>
-      </event>
       <event id="7272">
         <start>17:00</start>
         <duration>00:30</duration>
@@ -1220,24 +1238,25 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/patterns-in-react/">Website session link</link>
         </links>
       </event>
-      <event id="7275">
+      <event id="6095">
         <start>10:30</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
-        <slug>security</slug>
-        <title> Open-Source security tools – Should you?</title>
-        <subtitle/>
-        <track>Privacy &amp; Security</track>
-        <type>tools</type>
+        <slug>machines</slug>
+        <title>State of open source machine learning</title>
+        <subtitle></subtitle>
+        <track>Machine Learning</track>
+        <type>google</type>
         <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk I will describe the common pitfalls that I had during my job as a Security Engineer from the Defensive point of view and give my opinion on the ethical misconception of publishing Offensive security tools.&lt;/p&gt;</description>
+        <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
+        <description></description>
         <persons>
-          <person id="5343">Rio Sherri</person>
+          <person id="4629">Vadim Markovtsev</person>
         </persons>
         <links>
-          <link href="https://twitter.com/0x09AL">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-security-tools-should-you/">Website session link</link>
+          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/state-of-open-source-machine-learning/">Website session link</link>
+          <link href="https://submission.fosdem.org/feedback/6095.php">Submit feedback</link>
         </links>
       </event>
       <event id="5991">
@@ -1384,25 +1403,24 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/the-driving-force-behind-open-source-communities/">Website session link</link>
         </links>
       </event>
-      <event id="6095">
+      <event id="7275">
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
-        <slug>machines</slug>
-        <title>State of open source machine learning</title>
-        <subtitle></subtitle>
-        <track>Machine Learning</track>
-        <type>google</type>
+        <slug>security</slug>
+        <title> Open-Source security tools – Should you?</title>
+        <subtitle/>
+        <track>Privacy &amp; Security</track>
+        <type>tools</type>
         <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Machine learning… Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It’s hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let’s figure out these questions together.&lt;/p&gt;</abstract>
-        <description></description>
+        <abstract>&lt;br /&gt;&lt;p&gt;In the recent years security has become a huge problem for to many people and organizations. Everything we know is connected to the Internet and waiting to get hacked. The importance of open-source alterantives for security tools is a must , as everybody has the right to secure their devices without any cost.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk I will describe the common pitfalls that I had during my job as a Security Engineer from the Defensive point of view and give my opinion on the ethical misconception of publishing Offensive security tools.&lt;/p&gt;</description>
         <persons>
-          <person id="4629">Vadim Markovtsev</person>
+          <person id="5343">Rio Sherri</person>
         </persons>
         <links>
-          <link href="https://twitter.com/tmarkhor">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/state-of-open-source-machine-learning/">Website session link</link>
-          <link href="https://submission.fosdem.org/feedback/6095.php">Submit feedback</link>
+          <link href="https://twitter.com/0x09AL">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-security-tools-should-you/">Website session link</link>
         </links>
       </event>
       <event id="6356">
@@ -1466,25 +1484,29 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </event>
     </room>
   <room name="Workshop 1">
-      <event id="6998">
-        <start>10:00</start>
-        <duration>01:00</duration>
-        <room>Workshop 1</room>
-        <slug>community</slug>
-        <title>Community Meetup</title>
-        <subtitle></subtitle>
-        <track>Community Culture</track>
-        <type>meetup</type>
-        <language/>
-        <abstract></abstract>
-        <description></description>
-        <persons>
-        </persons>
-        <links>
-        </links>
-      </event>
+    <event id="6283">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Workshop 1</room>
+      <slug>meetup</slug>
+      <title>Community meetup - Girls in open source</title>
+      <subtitle></subtitle>
+      <track>Community Culture</track>
+      <type>meetups</type>
+      <language/>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+        <person id="4671">Bee Padalkar</person>
+        <person id="2571">Renata Gegaj</person>
+      </persons>
+      <links>
+        <link href="https://twitter.com/BeePadalkar">Bee's Twitter</link>
+        <link href="https://twitter.com/BeePadalkar">Renata's Twitter</link>
+      </links>
+    </event>
       <event id="7032">
-        <start>11:00</start>
+        <start>12:00</start>
         <duration>01:00</duration>
         <room>Workshop 1</room>
         <slug>crm</slug>
@@ -1501,26 +1523,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </persons>
         <links>
           <link href="https://oscal.openlabs.cc/sessions/introduction-to-opensource-crm/">Website session link</link>
-        </links>
-      </event>
-      <event id="6378">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Workshop 1</room>
-        <slug>migration</slug>
-        <title>Migrating to LibreOffice</title>
-        <subtitle/>
-        <track>Community Culture</track>
-        <type>libreoffice</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="4901">Italo Vignoli</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/italovignoli">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/migrating-to-libreoffice/">Website session link</link>
         </links>
       </event>
       <event id="7316">
@@ -1620,8 +1622,28 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <persons></persons>
         <links></links>
       </event>
-      <event id="6482">
+      <event id="7068">
         <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Workshop 2</room>
+        <slug>django</slug>
+        <title>Introduction to Web Development with Django</title>
+        <subtitle></subtitle>
+        <track>Documentation</track>
+        <type>webdev</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;A brief introduction to Django as an Open Source Web Framework and online resources to learn Web Development. After that a hands-on workshop on how to set up the Django Web Development Environment on your machine. If time permits we will also build a first simple app in Django.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="5291">Fatjon Gërra</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/t0mkatt">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/introduction-to-web-development-with-django/">Website session link</link>
+        </links>
+      </event>
+      <event id="6482">
+        <start>12:00</start>
         <duration>01:00</duration>
         <room>Workshop 2</room>
         <slug>magento</slug>
@@ -1639,25 +1661,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <links>
           <link href="https://twitter.com/ledihymetllari">Ledian's Twitter</link>
           <link href="https://oscal.openlabs.cc/sessions/speaking-about-magento/">Website session link</link>
-        </links>
-      </event>
-      <event id="7176">
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>Workshop 2</room>
-        <slug>pandoc</slug>
-        <title>Pandoc — removing the fuss out of handing out documents</title>
-        <subtitle/>
-        <track>Web Development</track>
-        <type>documents</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;An introduction on how to use pandoc in document editing, publishing, storage and conversion.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5290">Jor Bashllari</person>
-        </persons>
-        <links>
-          <link href="https://oscal.openlabs.cc/sessions/pandoc-removing-the-fuss-out-of-handing-out-documents/">Website session link</link>
         </links>
       </event>
       <event id="7031">
@@ -1715,24 +1718,22 @@ What is it? How does it work? What skill is involved? Why is it the most interes
           <link href="https://oscal.openlabs.cc/sessions/free-software-for-business-and-freelancer-financial-accounting-part-2/">Website session link</link>
         </links>
       </event>
-      <event id="7068">
+      <event id="6998">
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Workshop 2</room>
-        <slug>django</slug>
-        <title>Introduction to Web Development with Django</title>
+        <slug>community</slug>
+        <title>Community Meetup - OpenStreetMap</title>
         <subtitle></subtitle>
-        <track>Documentation</track>
-        <type>webdev</type>
+        <track>Community Culture</track>
+        <type>meetup</type>
         <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;A brief introduction to Django as an Open Source Web Framework and online resources to learn Web Development. After that a hands-on workshop on how to set up the Django Web Development Environment on your machine. If time permits we will also build a first simple app in Django.&lt;/p&gt;</abstract>
+        <abstract></abstract>
         <description></description>
         <persons>
-          <person id="5291">Fatjon Gërra</person>
         </persons>
         <links>
-          <link href="https://twitter.com/t0mkatt">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/introduction-to-web-development-with-django/">Website session link</link>
+          <link href="https://oscal.openlabs.cc/sessions/community-meetup/">Website session link</link>
         </links>
       </event>
     </room>
