@@ -33,6 +33,12 @@
               <p>Bronze Sponsor</p>
             </div>
           </v-flex>
+          <v-flex xs12>
+            <div class="logo">
+              <a href="http://relatechacademy.com/"><img src="../assets/relatech.png"></a>
+              <p>Bronze Sponsor</p>
+            </div>
+          </v-flex>
                     <v-flex xs12>
             <div class="logo">
               <a href="https://phplist.com"><img src="../assets/phplist.png"></a>
@@ -51,7 +57,7 @@
               <p>Partner</p>
             </div>
           </v-flex>
-          
+
         </v-layout>
       </v-card-text>
     </v-card>
@@ -76,5 +82,3 @@
     margin-bottom: 7px;
   }
 </style>
-
-
