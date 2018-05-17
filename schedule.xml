@@ -34,19 +34,18 @@
         <duration>00:15</duration>
         <room>Talk 1</room>
         <slug>mayor</slug>
-        <title>A word from the mayor of Tirana, Erion Veliaj</title>
+        <title>Speech from the Municipality of Tirana</title>
         <subtitle></subtitle>
         <track>Opening Speech</track>
         <type>opening_speech</type>
         <language/>
-        <abstract>A word from the mayor of Tirana, Erion Veliaj</abstract>
+        <abstract>A word from representatives of the Municipality of Tirana</abstract>
         <description></description>
         <persons>
           <person id="228">Erion Veliaj</person>
         </persons>
         <links>
-          <link href="https://twitter.com/erionveliaj">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/erion-veliajs-speech/">Website Session Link</link>
+          <link href="https://oscal.openlabs.cc/sessions/municipality-speech/">Website Session Link</link>
         </links>
       </event>
       <event id="6458">
