@@ -3,6 +3,12 @@
     <v-card>
       <v-card-text>
         <v-layout row wrap>
+	<v-flex xs12>
+            <div class="logo">
+              <a href="https://www.vodafone.al"><img src="../assets/vodafone.png"></a>
+              <p>Platinium Sponsor</p>
+            </div>
+          </v-flex>
           <v-flex xs12>
             <div class="logo">
               <a href="https://mozilla.org"><img src="../assets/mozilla.png"></a>
