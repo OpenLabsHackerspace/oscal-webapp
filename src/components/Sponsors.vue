@@ -6,7 +6,7 @@
 	<v-flex xs12>
             <div class="logo">
               <a href="https://www.vodafone.al"><img src="../assets/vodafone.png"></a>
-              <p>Platinium Sponsor</p>
+              <p>Platinum Sponsor</p>
             </div>
           </v-flex>
           <v-flex xs12>
