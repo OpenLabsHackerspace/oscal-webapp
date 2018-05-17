@@ -37,12 +37,8 @@ export default {
     height: 100%;
     margin: auto;
   }
-  
+
   .btn--active .btn__content {
-  background-color: #EA272B; 
+  background-color: #EA272B;
   }
 </style>
-
-
-
-
