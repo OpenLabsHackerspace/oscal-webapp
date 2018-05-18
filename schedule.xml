@@ -355,48 +355,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </event>
     </room>
     <room name="Talk 2">
-      <event id="6032">
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Talk 2</room>
-        <slug>open source</slug>
-        <title>Open Source 101</title>
-        <subtitle></subtitle>
-        <track>Community Culture</track>
-        <type>open source</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;Welcome to Open Source 101!&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;This session gives the big picture overview of what open source is and how you can get started. Learn what it means when we talk about free and open source software and where this movement began, over 30 years ago. After understanding the philosophy, get practical advice on how to choose a project and community to contribute to. You won’t believe the two things nobody ever told you about choosing a project! At the end, we’ll look at the Fedora Project community as an example and explain how you can begin contributing to an open source community today.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="4609">Justin Flory</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/jflory7">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/open-source-101/">Website session link</link>
-        </links>
-      </event>
-      <event id="5969">
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>Talk 2</room>
-        <slug>inclusive</slug>
-        <title>Building and growing a diverse and inclusive community</title>
-        <subtitle></subtitle>
-        <track>Community Culture</track>
-        <type>community</type>
-        <language/>
-        <abstract></abstract>
-        <description>&lt;br /&gt;&lt;p&gt;After more than seven years of activities, the LibreOffice community is getting bigger. While building and growing a diverse and inclusive community you’re looking for culture to be added, not culture to fit. New people can bring a point of view never seen before and is crucial to be able to include newcomers. The talk will describe the current state of the art of the LibreOffice community, underlining in progress activities and future possible outcomes.&lt;/p&gt;
-        </description>
-        <persons>
-          <person id="498">Marina Latini</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/deneb_alpha">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/building-and-growing-a-diverse-and-inclusive-community/">Website session link</link>
-        </links>
-      </event>
       <event id="6541">
         <start>11:00</start>
         <duration>00:35</duration>
@@ -643,6 +601,48 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </event>
     </room>
     <room name="Workshop 1">
+      <event id="6032">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Workshop 1</room>
+        <slug>open source</slug>
+        <title>Open Source 101 (Talk)</title>
+        <subtitle></subtitle>
+        <track>Community Culture</track>
+        <type>open source</type>
+        <language/>
+        <abstract>&lt;br /&gt;&lt;p&gt;Welcome to Open Source 101!&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;This session gives the big picture overview of what open source is and how you can get started. Learn what it means when we talk about free and open source software and where this movement began, over 30 years ago. After understanding the philosophy, get practical advice on how to choose a project and community to contribute to. You won’t believe the two things nobody ever told you about choosing a project! At the end, we’ll look at the Fedora Project community as an example and explain how you can begin contributing to an open source community today.&lt;/p&gt;
+        </description>
+        <persons>
+          <person id="4609">Justin Flory</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/jflory7">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/open-source-101/">Website session link</link>
+        </links>
+      </event>
+      <event id="5969">
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Workshop 1</room>
+        <slug>inclusive</slug>
+        <title>Building and growing a diverse and inclusive community</title>
+        <subtitle></subtitle>
+        <track>Community Culture</track>
+        <type>community</type>
+        <language/>
+        <abstract></abstract>
+        <description>&lt;br /&gt;&lt;p&gt;After more than seven years of activities, the LibreOffice community is getting bigger. While building and growing a diverse and inclusive community you’re looking for culture to be added, not culture to fit. New people can bring a point of view never seen before and is crucial to be able to include newcomers. The talk will describe the current state of the art of the LibreOffice community, underlining in progress activities and future possible outcomes.&lt;/p&gt;
+        </description>
+        <persons>
+          <person id="498">Marina Latini</person>
+        </persons>
+        <links>
+          <link href="https://twitter.com/deneb_alpha">Speaker Twitter</link>
+          <link href="https://oscal.openlabs.cc/sessions/building-and-growing-a-diverse-and-inclusive-community/">Website session link</link>
+        </links>
+      </event>
       <event id="6580">
         <start>11:00</start>
         <duration>01:00</duration>

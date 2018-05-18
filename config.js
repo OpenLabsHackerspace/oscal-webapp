@@ -1,10 +1,10 @@
 'use strict'
 
 module.exports = {
-  version: '1.5',
-  timestamp: '17/05/2018 18:34',
+  version: '',
+  timestamp: '2018-05-17 18:57:12',
   scheduleUrl: 'schedule.xml',
   roomStateUrl: 'listrooms.json',
   roomStatePollInterval: 30,
-  analyticsUrl: ''
+  analyticsUrl: 'https://analytics.loomchild.net/piwik.php?idsite=7&rec=1'
 }
