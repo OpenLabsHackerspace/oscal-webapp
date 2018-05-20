@@ -1319,7 +1319,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </links>
       </event>
       <event id="7001">
-        <start>13:00</start>
+        <start>12:30</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
         <slug>encryption</slug>
