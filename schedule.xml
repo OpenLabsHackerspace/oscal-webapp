@@ -1299,7 +1299,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </links>
       </event>
       <event id="6647">
-        <start>12:30</start>
+        <start>12:00</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
         <slug>pylint</slug>
