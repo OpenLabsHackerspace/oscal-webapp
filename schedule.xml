@@ -357,7 +357,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
     <room name="Talk 2">
       <event id="6541">
         <start>11:00</start>
-        <duration>00:35</duration>
+        <duration>00:30</duration>
         <room>Talk 2</room>
         <slug>design</slug>
         <title>How to contribute to LibreOffice as a non-developer</title>
@@ -991,7 +991,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
       </event>
       <event id="6637">
         <start>11:30</start>
-        <duration>00:3  0</duration>
+        <duration>00:30</duration>
         <room>Talk 1</room>
         <slug>osi</slug>
         <title>Consensus as a Service - OSI 20th Anniversary</title>
