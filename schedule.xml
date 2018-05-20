@@ -1606,7 +1606,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
     </room>
   <room name="Workshop 2">
       <event id="6200">
-        <start>10:00</start>
+        <start>11:00</start>
         <duration>01:00</duration>
         <room>Workshop 2</room>
         <slug>debian</slug>
