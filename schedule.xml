@@ -1422,7 +1422,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </links>
       </event>
       <event id="6356">
-        <start>15:30</start>
+        <start>15:45</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
         <slug>architecture</slug>
@@ -1442,11 +1442,11 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </links>
       </event>
       <event id="6067">
-        <start>16:00</start>
+        <start>16:15</start>
         <duration>00:30</duration>
         <room>Talk 2</room>
         <slug>angularjs</slug>
-        <title>The main features of the latest AngularJS release</title>
+        <title>What's new in Angular v6?</title>
         <subtitle/>
         <track>Web Development</track>
         <type>devroom</type>
@@ -1462,7 +1462,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         </links>
       </event>
       <event id="6816">
-        <start>16:30</start>
+        <start>15:30</start>
         <duration>00:15</duration>
         <room>Talk 2</room>
         <slug>travel</slug>
@@ -1606,7 +1606,7 @@ What is it? How does it work? What skill is involved? Why is it the most interes
     </room>
   <room name="Workshop 2">
       <event id="6200">
-        <start>10:30</start>
+        <start>10:00</start>
         <duration>01:00</duration>
         <room>Workshop 2</room>
         <slug>debian</slug>
@@ -1619,26 +1619,6 @@ What is it? How does it work? What skill is involved? Why is it the most interes
         <description></description>
         <persons></persons>
         <links></links>
-      </event>
-      <event id="7068">
-        <start>11:00</start>
-        <duration>01:00</duration>
-        <room>Workshop 2</room>
-        <slug>django</slug>
-        <title>Introduction to Web Development with Django</title>
-        <subtitle></subtitle>
-        <track>Documentation</track>
-        <type>webdev</type>
-        <language/>
-        <abstract>&lt;br /&gt;&lt;p&gt;A brief introduction to Django as an Open Source Web Framework and online resources to learn Web Development. After that a hands-on workshop on how to set up the Django Web Development Environment on your machine. If time permits we will also build a first simple app in Django.&lt;/p&gt;</abstract>
-        <description></description>
-        <persons>
-          <person id="5291">Fatjon Gërra</person>
-        </persons>
-        <links>
-          <link href="https://twitter.com/t0mkatt">Speaker Twitter</link>
-          <link href="https://oscal.openlabs.cc/sessions/introduction-to-web-development-with-django/">Website session link</link>
-        </links>
       </event>
       <event id="6482">
         <start>12:00</start>
